@@ -1,80 +1,61 @@
-# Karos: Истоки — back to Berneo
-
+# Karos: Istoki — Berneo
 [Русский](README.md) · **English** · [Español](README.es.md)
 
-**Exploring old Karos clients and bringing the early game back to life, one mechanic at a time.**
+A server emulator for the original **Karos NHN EN CBT1 b1008 (14 August 2009)**.
+Author: [WinPRO22](https://github.com/WinPRO22). [Project news](https://t.me/karos_istoki).
 
-Remember the first spiders outside Berneo, your starter sword, and your first Fletta points? We want to take that journey again — starting with a 2009 client, preserving its atmosphere, and gradually reconstructing how the game played.
+This is the public snapshot of a closed development milestone: **Berneo only,
+with progression up to level 45**. The source is available for further community
+development. This is a local single-player build, not a production MMO server.
 
-> 📣 **Follow development: [t.me/karos_istoki](https://t.me/karos_istoki)**
->
-> Project updates, gameplay test results, and discoveries from old builds.
+## Included
+- Login, character creation and persistence.
+- 955 creatures, 29 NPCs, 16 shops and 41 enabled Berneo quests.
+- Combat, aggro, respawn, equipment, progression, professions and skills.
+- Inventory, loot, shops, storage, return stone, Fletta, crafting and enhancements.
+- Authored client patches for right-click actions, Enter confirmations,
+  quickbar swaps and row persistence, buffs and combat-state fixes.
 
-## About the project
+Swordsman and its professions have received the most work. An implemented handler
+does not imply every combination was tested. Balance includes authored formulas.
+Other maps, private research and the new engine are outside this release.
 
-Karos: Истоки ("Origins") is an independent fan project researching old Karos versions and developing a server emulator for them.
+## Download and run
+Download **both ZIP archives** from [Releases](https://github.com/WinPRO22/karos-istoki/releases):
+the b1008 client and the Win64 emulator. Prebuilt packages do not require Delphi.
 
-Our starting point is **NHN EN CBT1, build b1008, from 2009**. We begin with a small, playable slice of the game, test it in the original client, and expand it step by step.
+1. Extract the emulator into a writable folder, such as `C:\Games\KarosIstoki`.
+2. Extract the client beside it, producing `client\AMo.exe`.
+3. Open PowerShell in the emulator folder and run:
+   `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Start-Berneo.ps1 -ClientDirectory .\client`
+4. Use the demo login **test**, password **test**, and create a character.
+   No developer save is included.
+5. After closing the game, stop the server:
+   `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Stop-Berneo.ps1`
 
-The server is written in **Delphi**. Testing currently takes place locally. This repository is the project's public information page, not a downloadable, ready-to-run server release.
+The server binds only to `127.0.0.1:10001`. Do not open it to the Internet or
+change firewall rules. Default rates and movement speed are **×1**.
+Do not mix the release client with an updater or another build's resources.
 
-## What works today
+## Build and data
+Windows x64 and Delphi with the Win64 compiler, VCL, Indy and FireDAC are required.
+The preparation environment uses Delphi 37.0. Put `dcc64.exe` on PATH and run
+`.\ServerEmulator\Build.ps1` from the repository root.
+This builds programs and runs the public standalone tests without launching the
+game. Use `-SkipTests` for a build only.
 
-- **Getting into the game:** login, character creation and selection, and entering the world.
-- **A livelier Berneo:** 101 Little Spiders placed across the map, with independent patrols, pursuit, return to their territory, group combat, and respawning.
-- **Combat:** auto-attacks, animations, sounds, damage numbers, weapon-based damage ranges, and critical hits.
-- **Character stats and equipment:** starting attributes and gear, equipping and unequipping items, and updated stat displays.
-- **Inventory and loot:** drops appear when a monster dies; pickup, moving and dropping items, Shift stack splitting, and merging identical stacks are implemented.
-- **Carats:** represented both as an inventory item and as the displayed currency balance, with matching changes when picked up or dropped.
-- **Character progression:** experience from kills, leveling up, the first quest and its reward, and beginner potions.
-- **Death and recovery:** returning to the Memory Stone, experience penalties, and regeneration while out of combat and out of combat stance.
-- **Persistence:** progress, inventory contents and slot positions, and equipped gear survive restarts.
+Runtime catalogs: `ServerEmulator/data/b1008`. New saves are created there as
+`test-character.b1008*`; the content database is
+`ServerEmulator/data/karos-emulator.sqlite3`. Back up data with the server
+stopped before updating. Do not overwrite your saves with release files.
 
-These features work in a local prototype. The complete world, full content, and multiplayer stability are still ahead of us.
+Developer and AI-agent workflow:
+[SKILL.md](skills/karos-berneo-development/SKILL.md).
+Public tests need no private archives and do not replace gameplay verification.
+Publication also requires a separate manual test of the packaged client/server;
+its result is recorded in the release description.
 
-## Reconstructing the balance
-
-We compare client resources, archived websites, old guides, screenshots, videos, and players' recollections.
-
-Confirmed values are kept separate from estimates. When the original server formula is unknown, we use a working reconstruction and test it in-game. Some parameters come from later versions and are not presented as verified CBT1 values.
-
-We do not claim a percentage of accuracy against the original balance yet. For example, the current test loot still needs to be replaced with historically supported drop tables.
-
-## Roadmap
-
-1. **Research old builds.** Compare versions, mechanics, lore, and resources; look for traces of unused content.
-2. **Expand the playable prototype.** Develop combat, quests, monsters, items, skills, Fletta, and the economy.
-3. **Support additional early clients.** Preserve build-specific differences through separate protocol and data profiles.
-4. **Prepare a public test.** Gather feedback and test the server and client with multiple players.
-5. **Optimize the server.** Test load handling, reliability, and data persistence.
-6. **Publish the emulator's source code on GitHub.** Provide detailed instructions for building, configuring, and running your own server.
-7. **Lay the groundwork for a future remake.** Bring together research and player feedback, then plan a version on another engine that stays close to the original mechanics while allowing further development.
-
-Progress depends on research and test results. No public launch date has been announced.
-
-## How to help
-
-Materials from early Karos are especially useful:
-
-- screenshots of character stats, items, quest rewards, and the interface;
-- videos of combat, leveling, trading, crafting, and other mechanics;
-- links to old guides, forums, and archived pages;
-- memories tied to a specific version: leveling pace, drops, monster behavior, and class differences.
-
-Where possible, include the year, region, language, or build number. This helps us avoid mixing different versions of the game.
-
-**Follow the [Telegram channel](https://t.me/karos_istoki) for research and project updates.**
-
-## Can I play yet?
-
-Development and testing are currently local. Opportunities to join a public test will be announced on Telegram.
-
-## Will the source code be published?
-
-Yes. Publishing the emulator's source code and setup instructions is part of the roadmap. For now, this repository introduces the project and directs visitors to development updates.
-
----
-
-This is an unofficial project with no affiliation to the developers or publishers of the original game. Names and original game materials belong to their respective rights holders.
-
-**[Follow development on Telegram →](https://t.me/karos_istoki)**
+## License
+Project-authored code and tools use [MIT](LICENSE); retain attribution to **WinPRO22**.
+Original client assets are not licensed under MIT. See
+[third-party notices](THIRD_PARTY_NOTICES.md). This is an unofficial project.

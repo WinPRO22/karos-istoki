@@ -1,0 +1,2365 @@
+{
+  "build": "b1008",
+  "recipes": [
+    {
+      "id": 1,
+      "resultItemId": 60901,
+      "cost": 100,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63001,
+          "amount": 1
+        },
+        {
+          "id": 63002,
+          "amount": 1
+        },
+        {
+          "id": 63006,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "resultItemId": 1003,
+      "cost": 170,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 1002,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 10
+        },
+        {
+          "id": 63020,
+          "amount": 10
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 95011,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "resultItemId": 1004,
+      "cost": 1060,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 1003,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        },
+        {
+          "id": 90021,
+          "amount": 1
+        },
+        {
+          "id": 95015,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "resultItemId": 1005,
+      "cost": 4200,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 1004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 29
+        },
+        {
+          "id": 90014,
+          "amount": 27
+        },
+        {
+          "id": 90021,
+          "amount": 27
+        },
+        {
+          "id": 90025,
+          "amount": 13
+        },
+        {
+          "id": 95025,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 2999,
+      "resultItemId": 2999,
+      "cost": 0,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 2998,
+          "amount": 1
+        },
+        {
+          "id": 70079,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "resultItemId": 3003,
+      "cost": 170,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 3002,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 5
+        },
+        {
+          "id": 63020,
+          "amount": 3
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90006,
+          "amount": 2
+        },
+        {
+          "id": 95008,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "resultItemId": 3004,
+      "cost": 1060,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 3003,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 3
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90021,
+          "amount": 1
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 95016,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 3005,
+      "resultItemId": 3005,
+      "cost": 4200,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 3004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 29
+        },
+        {
+          "id": 90014,
+          "amount": 27
+        },
+        {
+          "id": 90021,
+          "amount": 27
+        },
+        {
+          "id": 90025,
+          "amount": 13
+        },
+        {
+          "id": 95026,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 9003,
+      "resultItemId": 9003,
+      "cost": 170,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 9002,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 5
+        },
+        {
+          "id": 63020,
+          "amount": 5
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 95009,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 9004,
+      "resultItemId": 9004,
+      "cost": 1060,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 9003,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        },
+        {
+          "id": 90021,
+          "amount": 2
+        },
+        {
+          "id": 95019,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 9005,
+      "resultItemId": 9005,
+      "cost": 4200,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 9004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 25
+        },
+        {
+          "id": 90014,
+          "amount": 36
+        },
+        {
+          "id": 90021,
+          "amount": 32
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 95024,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 11003,
+      "resultItemId": 11003,
+      "cost": 170,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 11002,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 8
+        },
+        {
+          "id": 63020,
+          "amount": 8
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 95013,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 11004,
+      "resultItemId": 11004,
+      "cost": 1060,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 11003,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90014,
+          "amount": 4
+        },
+        {
+          "id": 90021,
+          "amount": 2
+        },
+        {
+          "id": 95017,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 11005,
+      "resultItemId": 11005,
+      "cost": 4200,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 11004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 2
+        },
+        {
+          "id": 90010,
+          "amount": 22
+        },
+        {
+          "id": 90014,
+          "amount": 28
+        },
+        {
+          "id": 90021,
+          "amount": 28
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 95023,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 13003,
+      "resultItemId": 13003,
+      "cost": 170,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 13002,
+          "amount": 1
+        },
+        {
+          "id": 63004,
+          "amount": 6
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90020,
+          "amount": 1
+        },
+        {
+          "id": 95014,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 13004,
+      "resultItemId": 13004,
+      "cost": 1060,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 13003,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        },
+        {
+          "id": 90020,
+          "amount": 1
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 95020,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 13005,
+      "resultItemId": 13005,
+      "cost": 4200,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300011
+      ],
+      "ingredients": [
+        {
+          "id": 13004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 50
+        },
+        {
+          "id": 90014,
+          "amount": 34
+        },
+        {
+          "id": 90020,
+          "amount": 15
+        },
+        {
+          "id": 90025,
+          "amount": 15
+        },
+        {
+          "id": 95022,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 32003,
+      "resultItemId": 32003,
+      "cost": 70,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32002,
+          "amount": 3
+        },
+        {
+          "id": 63004,
+          "amount": 6
+        },
+        {
+          "id": 90006,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 32004,
+      "resultItemId": 32004,
+      "cost": 410,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32003,
+          "amount": 2
+        },
+        {
+          "id": 90014,
+          "amount": 7
+        },
+        {
+          "id": 90027,
+          "amount": 2
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 32005,
+      "resultItemId": 32005,
+      "cost": 1620,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 6
+        },
+        {
+          "id": 90014,
+          "amount": 13
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 32403,
+      "resultItemId": 32403,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32402,
+          "amount": 3
+        },
+        {
+          "id": 63004,
+          "amount": 6
+        },
+        {
+          "id": 90006,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 32404,
+      "resultItemId": 32404,
+      "cost": 390,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32403,
+          "amount": 3
+        },
+        {
+          "id": 90014,
+          "amount": 6
+        },
+        {
+          "id": 90027,
+          "amount": 2
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 32405,
+      "resultItemId": 32405,
+      "cost": 1560,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32404,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 5
+        },
+        {
+          "id": 90014,
+          "amount": 11
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 32803,
+      "resultItemId": 32803,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32802,
+          "amount": 2
+        },
+        {
+          "id": 63004,
+          "amount": 4
+        },
+        {
+          "id": 90006,
+          "amount": 2
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 32804,
+      "resultItemId": 32804,
+      "cost": 250,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32803,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 5
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 32805,
+      "resultItemId": 32805,
+      "cost": 1000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 32804,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90013,
+          "amount": 11
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 33203,
+      "resultItemId": 33203,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 33202,
+          "amount": 2
+        },
+        {
+          "id": 63004,
+          "amount": 2
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 33204,
+      "resultItemId": 33204,
+      "cost": 240,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 33203,
+          "amount": 2
+        },
+        {
+          "id": 90014,
+          "amount": 4
+        },
+        {
+          "id": 90027,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 33205,
+      "resultItemId": 33205,
+      "cost": 980,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 33204,
+          "amount": 2
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 3
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        },
+        {
+          "id": 90021,
+          "amount": 1
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 36003,
+      "resultItemId": 36003,
+      "cost": 70,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36002,
+          "amount": 2
+        },
+        {
+          "id": 90008,
+          "amount": 7
+        },
+        {
+          "id": 90012,
+          "amount": 13
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 36004,
+      "resultItemId": 36004,
+      "cost": 410,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36003,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 8
+        },
+        {
+          "id": 90025,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 36005,
+      "resultItemId": 36005,
+      "cost": 1620,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 6
+        },
+        {
+          "id": 90024,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 36403,
+      "resultItemId": 36403,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36402,
+          "amount": 3
+        },
+        {
+          "id": 90008,
+          "amount": 6
+        },
+        {
+          "id": 90012,
+          "amount": 6
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 36404,
+      "resultItemId": 36404,
+      "cost": 390,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36403,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 9
+        },
+        {
+          "id": 90025,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 36405,
+      "resultItemId": 36405,
+      "cost": 1560,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36404,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 3
+        },
+        {
+          "id": 90024,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 36803,
+      "resultItemId": 36803,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36802,
+          "amount": 3
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90012,
+          "amount": 7
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 36804,
+      "resultItemId": 36804,
+      "cost": 250,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36803,
+          "amount": 3
+        },
+        {
+          "id": 90013,
+          "amount": 7
+        },
+        {
+          "id": 90025,
+          "amount": 4
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 36805,
+      "resultItemId": 36805,
+      "cost": 1000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 36804,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90013,
+          "amount": 12
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 37203,
+      "resultItemId": 37203,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 37202,
+          "amount": 3
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90012,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 37204,
+      "resultItemId": 37204,
+      "cost": 240,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 37203,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 8
+        },
+        {
+          "id": 90025,
+          "amount": 2
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 37205,
+      "resultItemId": 37205,
+      "cost": 980,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 37204,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90013,
+          "amount": 11
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 40003,
+      "resultItemId": 40003,
+      "cost": 70,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40002,
+          "amount": 2
+        },
+        {
+          "id": 90008,
+          "amount": 7
+        },
+        {
+          "id": 90012,
+          "amount": 13
+        },
+        {
+          "id": 90047,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 40004,
+      "resultItemId": 40004,
+      "cost": 410,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40003,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 8
+        },
+        {
+          "id": 90025,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 40005,
+      "resultItemId": 40005,
+      "cost": 1620,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40004,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 6
+        },
+        {
+          "id": 90024,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 40403,
+      "resultItemId": 40403,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40402,
+          "amount": 3
+        },
+        {
+          "id": 90008,
+          "amount": 6
+        },
+        {
+          "id": 90012,
+          "amount": 6
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 40404,
+      "resultItemId": 40404,
+      "cost": 390,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40403,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 9
+        },
+        {
+          "id": 90025,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 40405,
+      "resultItemId": 40405,
+      "cost": 1560,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40404,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 3
+        },
+        {
+          "id": 90024,
+          "amount": 3
+        },
+        {
+          "id": 90047,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 40803,
+      "resultItemId": 40803,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40802,
+          "amount": 3
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90012,
+          "amount": 7
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 40804,
+      "resultItemId": 40804,
+      "cost": 250,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40803,
+          "amount": 3
+        },
+        {
+          "id": 90013,
+          "amount": 7
+        },
+        {
+          "id": 90025,
+          "amount": 4
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 40805,
+      "resultItemId": 40805,
+      "cost": 1000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 40804,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90013,
+          "amount": 12
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 41203,
+      "resultItemId": 41203,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 41202,
+          "amount": 3
+        },
+        {
+          "id": 90006,
+          "amount": 1
+        },
+        {
+          "id": 90012,
+          "amount": 5
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 41204,
+      "resultItemId": 41204,
+      "cost": 240,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 41203,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 8
+        },
+        {
+          "id": 90025,
+          "amount": 2
+        },
+        {
+          "id": 90047,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 41205,
+      "resultItemId": 41205,
+      "cost": 980,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300021
+      ],
+      "ingredients": [
+        {
+          "id": 41204,
+          "amount": 1
+        },
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90010,
+          "amount": 2
+        },
+        {
+          "id": 90013,
+          "amount": 11
+        },
+        {
+          "id": 90025,
+          "amount": 1
+        },
+        {
+          "id": 90047,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 48001,
+      "resultItemId": 48001,
+      "cost": 1000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300091
+      ],
+      "ingredients": [
+        {
+          "id": 90002,
+          "amount": 1
+        },
+        {
+          "id": 90013,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 69001,
+      "resultItemId": 69001,
+      "cost": 300,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300051
+      ],
+      "ingredients": [
+        {
+          "id": 90006,
+          "amount": 5
+        },
+        {
+          "id": 90012,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "id": 90001,
+      "resultItemId": 90001,
+      "cost": 14000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90011,
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "id": 90002,
+      "resultItemId": 90002,
+      "cost": 7000,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90011,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 90013,
+      "resultItemId": 90013,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90012,
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "id": 90014,
+      "resultItemId": 90014,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63004,
+          "amount": 5
+        },
+        {
+          "id": 63016,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 90015,
+      "resultItemId": 90015,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90004,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 90017,
+      "resultItemId": 90017,
+      "cost": 50,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63004,
+          "amount": 1
+        },
+        {
+          "id": 90008,
+          "amount": 26
+        }
+      ]
+    },
+    {
+      "id": 90020,
+      "resultItemId": 90020,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90003,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 90021,
+      "resultItemId": 90021,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63012,
+          "amount": 5
+        },
+        {
+          "id": 63020,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 90024,
+      "resultItemId": 90024,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90008,
+          "amount": 25
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": 90025,
+      "resultItemId": 90025,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 90006,
+          "amount": 3
+        },
+        {
+          "id": 90015,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 90027,
+      "resultItemId": 90027,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63004,
+          "amount": 5
+        },
+        {
+          "id": 63020,
+          "amount": 5
+        },
+        {
+          "id": 90020,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 90028,
+      "resultItemId": 90028,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63016,
+          "amount": 3
+        },
+        {
+          "id": 90009,
+          "amount": 1
+        },
+        {
+          "id": 90015,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 90029,
+      "resultItemId": 90029,
+      "cost": 40,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63018,
+          "amount": 10
+        },
+        {
+          "id": 90020,
+          "amount": 5
+        },
+        {
+          "id": 90021,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 90033,
+      "resultItemId": 90033,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63020,
+          "amount": 4
+        },
+        {
+          "id": 90013,
+          "amount": 4
+        },
+        {
+          "id": 90024,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": 90034,
+      "resultItemId": 90034,
+      "cost": 90,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63018,
+          "amount": 15
+        },
+        {
+          "id": 90024,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": 90035,
+      "resultItemId": 90035,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63011,
+          "amount": 10
+        },
+        {
+          "id": 90028,
+          "amount": 5
+        },
+        {
+          "id": 90029,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 90038,
+      "resultItemId": 90038,
+      "cost": 10,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 63011,
+          "amount": 1
+        },
+        {
+          "id": 90014,
+          "amount": 2
+        },
+        {
+          "id": 90028,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 95008,
+      "resultItemId": 95008,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80086,
+          "amount": 3
+        },
+        {
+          "id": 80087,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 95009,
+      "resultItemId": 95009,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80086,
+          "amount": 3
+        },
+        {
+          "id": 80087,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 95011,
+      "resultItemId": 95011,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80086,
+          "amount": 3
+        },
+        {
+          "id": 80087,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 95013,
+      "resultItemId": 95013,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80086,
+          "amount": 3
+        },
+        {
+          "id": 80087,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 95014,
+      "resultItemId": 95014,
+      "cost": 30,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80086,
+          "amount": 3
+        },
+        {
+          "id": 80087,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 95015,
+      "resultItemId": 95015,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80083,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 95016,
+      "resultItemId": 95016,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80083,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 95017,
+      "resultItemId": 95017,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80083,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 95019,
+      "resultItemId": 95019,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80083,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 95020,
+      "resultItemId": 95020,
+      "cost": 20,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80083,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 95022,
+      "resultItemId": 95022,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80017,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "id": 95023,
+      "resultItemId": 95023,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80017,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "id": 95024,
+      "resultItemId": 95024,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80017,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "id": 95025,
+      "resultItemId": 95025,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80020,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": 95026,
+      "resultItemId": 95026,
+      "cost": 60,
+      "chance": 10000,
+      "resultCount": 1,
+      "npcIds": [
+        9300081
+      ],
+      "ingredients": [
+        {
+          "id": 80020,
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}

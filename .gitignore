@@ -1,0 +1,26 @@
+# Release assets are uploaded separately; never commit runtime clients or saves.
+*.zip
+*.7z
+*.exe
+*.dll
+*.pak
+*.lod_eng
+*.dcu
+*.res
+*.map
+*.dproj.local
+__pycache__/
+*.pyc
+.env
+.env.*
+ServerEmulator/Win32/
+ServerEmulator/Win64/
+ServerEmulator/runtime/
+ServerEmulator/artifacts/
+ServerEmulator/logs/
+ServerEmulator/data/*.sqlite3*
+ServerEmulator/data/b1008/test-character.b1008*
+ServerEmulator/data/backups/
+client/
+runs/
+release-assets/

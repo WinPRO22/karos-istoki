@@ -1,0 +1,42 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{A462B2B6-A90C-42D1-9C25-7431372A13B9}</ProjectGuid>
+    <ProjectVersion>20.3</ProjectVersion>
+    <FrameworkType>VCL</FrameworkType>
+    <MainSource>KarosOldEmulator.dpr</MainSource>
+    <Base>True</Base>
+    <Config Condition="'$(Config)'==''">Release</Config>
+    <Platform Condition="'$(Platform)'==''">Win64</Platform>
+    <AppType>Application</AppType>
+    <TargetedPlatforms>2</TargetedPlatforms>
+    <DCC_Namespace>System;Winapi;Vcl;System.Win;$(DCC_Namespace)</DCC_Namespace>
+    <DCC_UnitSearchPath>.;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+    <DCC_ExeOutput>.\$(Platform)\$(Config)</DCC_ExeOutput>
+    <DCC_DcuOutput>.\$(Platform)\$(Config)\dcu</DCC_DcuOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Config)'=='Debug'">
+    <DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+    <DCC_Optimize>false</DCC_Optimize>
+    <DCC_RangeChecking>true</DCC_RangeChecking>
+    <DCC_IntegerOverflowCheck>true</DCC_IntegerOverflowCheck>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Config)'=='Release'">
+    <DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+    <DCC_DebugInformation>0</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <DelphiCompile Include="$(MainSource)">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="serverGUI.pas">
+      <Form>Form23</Form>
+      <FormType>dfm</FormType>
+    </DCCReference>
+    <BuildConfiguration Include="Release"><Key>Cfg_Release</Key><CfgParent>Base</CfgParent></BuildConfiguration>
+    <BuildConfiguration Include="Debug"><Key>Cfg_Debug</Key><CfgParent>Base</CfgParent></BuildConfiguration>
+    <BuildConfiguration Include="Base"><Key>Base</Key></BuildConfiguration>
+  </ItemGroup>
+  <Import Project="$(BDS)\Bin\CodeGear.Delphi.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')"/>
+</Project>

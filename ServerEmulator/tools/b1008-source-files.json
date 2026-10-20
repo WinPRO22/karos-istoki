@@ -1,0 +1,3322 @@
+[
+  {
+    "path": "AMo.exe",
+    "size": 3170304,
+    "sha256": "9d0a4ff1cf224e1637be3c0c99ab60eea962928747e0f1f1baad3fca0e082966"
+  },
+  {
+    "path": "atl80.dll",
+    "size": 96256,
+    "sha256": "db18738202dcda842dce505ecd0b858d7b4c55886cac29827305f0dc3839143a"
+  },
+  {
+    "path": "D3DX9_40.dll",
+    "size": 4379984,
+    "sha256": "16fd909aeb68d0d1aca8529dc7f78880b97d6649d70ce8d03a2c858bc28e216b"
+  },
+  {
+    "path": "dbghelp.dll",
+    "size": 986112,
+    "sha256": "cf2647be9233f4a7248514cbd2541d5f7bebd61005bde1dca79c8e4234f53794"
+  },
+  {
+    "path": "HanReportForClient.dll",
+    "size": 180224,
+    "sha256": "315f383ebeec4b300c3d345c02cf6a3e0d0fd6cb496d8bc69d599a2002faa68c"
+  },
+  {
+    "path": "HanReportForClientD.dll",
+    "size": 651264,
+    "sha256": "894cda1d643a8c0d16689e69b10e91846ad85bd5a0186343b0e12dc03c70b85d"
+  },
+  {
+    "path": "Karos.ini",
+    "size": 30,
+    "sha256": "6eb10e9631b5731acc6ec106cf7a7842833855ad4e5a5de97cb52eaa6ddf84ff"
+  },
+  {
+    "path": "Microsoft.VC80.ATL.manifest",
+    "size": 456,
+    "sha256": "8a0b71bfc0d84e98ef45a176dd3f40fb3acf943408eb4b4b937c7966aec527c9"
+  },
+  {
+    "path": "Microsoft.VC80.CRT.manifest",
+    "size": 1869,
+    "sha256": "17ad1a64ba1c382abf89341b40950f9b31f95015c6b0d3e25925bfebc1b53eb5"
+  },
+  {
+    "path": "msvcm80.dll",
+    "size": 479232,
+    "sha256": "c4c8c2d251b90d77d1ac75cbd39c3f0b18fc170d5a95d1c13a0266f7260b479d"
+  },
+  {
+    "path": "msvcp80.dll",
+    "size": 548864,
+    "sha256": "2026f3c4f830dff6883b88e2647272a52a132f25eb42c0d423e36b3f65a94d08"
+  },
+  {
+    "path": "msvcr80.dll",
+    "size": 626688,
+    "sha256": "02bdde38e4c6bd795a092d496b8d6060cdbe71e22ef4d7a204e3050c1be44fa9"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Bastian_Dn01.ogg",
+    "size": 1116138,
+    "sha256": "c52776f4a45be65e7afd75e3fe7f3602e10ed58d89519cbabe78d454cd788f8d"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Berneo_Field01.ogg",
+    "size": 5456021,
+    "sha256": "fb6a262010b2476672abe879b41af4cbe48b3fb7ee1ed8605010449aae3b318d"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Chr-Select.ogg",
+    "size": 3370846,
+    "sha256": "284d5b4df0e318b85a70df2cd211378c81d1fcf68a635bea840f446271c54016"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Gelmencos_Dn01.ogg",
+    "size": 2526552,
+    "sha256": "9b02fe441132c3fa49592282bb0817cf899852db1dc4c826d22a08ae8921469b"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Lupert-village_Dn01.ogg",
+    "size": 2558456,
+    "sha256": "1934db577cf6c150d1e95448168dfa0bd4fa6923fd0c160d185b0860492e11cf"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Lupinel_Field01.ogg",
+    "size": 2892099,
+    "sha256": "a58bb618181d72b1eff2aea23fd45022b130aa8d564594ea24d7cc99964f4b08"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Lupinel_Town01.ogg",
+    "size": 2961954,
+    "sha256": "211e522e168a1722e38fd9f91f7cfcdfcf3c1af5617fbb9b8b9ccaa84862df04"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Tempteroon_Field01.ogg",
+    "size": 4079837,
+    "sha256": "54d78d3e05c1708de806c87fea663ed7f9587a9c100bbf5af5442e3ab9340381"
+  },
+  {
+    "path": "resource\\BGM\\BGM_trial_Dn01.ogg",
+    "size": 1545401,
+    "sha256": "fefb9d1e5167171e7892be308a23ba500a40c58db341c1627d979cbb459c80b1"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Volantea_Dn01.ogg",
+    "size": 1294729,
+    "sha256": "8d0cf2337adb0b1c03bacfde4bc426415f59545ee85739296aea94bfa207e1d3"
+  },
+  {
+    "path": "resource\\BGM\\BGM_Zendarune_Dn01.ogg",
+    "size": 1161967,
+    "sha256": "d80382ec5c911a7c320a7e2e1818da203fcb1d6d1192ea8ddd7eaf316a88c0ca"
+  },
+  {
+    "path": "resource\\Character\\Base.pak",
+    "size": 13710669,
+    "sha256": "448d1c15dfee125052142da62b34623697b9f3e85216134a8cdb63aa661d805e"
+  },
+  {
+    "path": "resource\\Character\\Body.pak",
+    "size": 42305547,
+    "sha256": "9d727263f6789820d8b27152cf40cd9a417c53889056afaac5710c56c09c601a"
+  },
+  {
+    "path": "resource\\Character\\Create.pak",
+    "size": 7251004,
+    "sha256": "125e98e3a1ac2bf9b410e34089d5a9a45d7cd9d41ab13ff97c321110c9300193"
+  },
+  {
+    "path": "resource\\Character\\Effect.pak",
+    "size": 49212394,
+    "sha256": "14409e9d15d0e3129fadab58d6497afa1a3aefcfa51b8aa00bf5473835b85eef"
+  },
+  {
+    "path": "resource\\Character\\Item.pak",
+    "size": 713901,
+    "sha256": "288ee8a5f028045f68fe18f4d242d55b0e2e0e57f888e3f53decf7ec74890556"
+  },
+  {
+    "path": "resource\\Character\\Sound.pak",
+    "size": 40741327,
+    "sha256": "a113b3f870c393c9a2c87a58b5cb221e3cf055eaf5bad151f7d80700cc3a8540"
+  },
+  {
+    "path": "resource\\Character\\Weapon.pak",
+    "size": 7340178,
+    "sha256": "89dd37b01ec0661f5ca9a18d8ad525d08836f0e6724f67e52f1d372687a5e96d"
+  },
+  {
+    "path": "resource\\Character\\Wear.pak",
+    "size": 45764841,
+    "sha256": "46a6425668a898caf26a990013f6628ab48a1e5cb7b51aac4ad41bae6faa3f7a"
+  },
+  {
+    "path": "resource\\Effect\\Pointlight1D.tga",
+    "size": 1068,
+    "sha256": "a3a8ca88f441da9fe6f9542283783afb42a2940b97f9ddc37480c8c9bea6ee14"
+  },
+  {
+    "path": "resource\\Effect\\Pointlight1D_1.tga",
+    "size": 300,
+    "sha256": "5f2c2e23cb99ca8d9d1ca3337f11ad6c2b49aa334bb09f5058630446f9a1b097"
+  },
+  {
+    "path": "resource\\Effect\\Pointlight2D.tga",
+    "size": 262188,
+    "sha256": "a47860f574b90e8521c4468e65f7c715a037de1212a59c8932f3dfaf58c899ff"
+  },
+  {
+    "path": "resource\\Effect\\Pointlight2D_1.tga",
+    "size": 65580,
+    "sha256": "ec3ebfc66fd06a8a64c9f4bb79277ccdb2aeeed555b98ee197ae8e93c9c6bcd5"
+  },
+  {
+    "path": "resource\\Effect\\SpecularMap.tga",
+    "size": 49196,
+    "sha256": "417efc2e9155df9c18e6c010663b558c87dbca022b6dd1181c9a1896b52f651c"
+  },
+  {
+    "path": "resource\\Effect\\spheremap.bmp",
+    "size": 196664,
+    "sha256": "c73cbb9c0ef8cec6017358255e7815a06e76be6729fb13e3b0d68a6d28a8ec51"
+  },
+  {
+    "path": "resource\\Interface\\AsiaKHangulsarangLight.ttf",
+    "size": 2948668,
+    "sha256": "11dc92563c36e73206d4dacee20e9eaf9b77c26cfdcd7a3f953f63a4bdd1d784"
+  },
+  {
+    "path": "resource\\Interface\\AsiaKHangulsarangMedium.TTF",
+    "size": 544340,
+    "sha256": "5141a2feb0963f7b3b5bad207b63e8932fd98fc6de4581216f7978ec7675efbe"
+  },
+  {
+    "path": "resource\\Interface\\ChkControls.txt",
+    "size": 120,
+    "sha256": "df7ebe05da6cb58ddc10a86c3c2868b0bf08f992491ca5f8eff5308f1109d3ec"
+  },
+  {
+    "path": "resource\\Interface\\IE_Base.pak",
+    "size": 65406213,
+    "sha256": "9ff6df4731cb37b9b2fba94ca48b67931c9eb3fab2fe22206b771d5a77547c16"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\CashShop.lod_eng",
+    "size": 9156,
+    "sha256": "95fd9c00143c3c824e6d3e7a424d87a7bbd3b270d4052a8ee4c0ac8a25b01f67"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\classChange.lod_eng",
+    "size": 1540,
+    "sha256": "4ec5f2b726a0e93264679da4ed1c7e8a4de4747e476f51e85c4b7a4a34726c1d"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\classInfo.lod_eng",
+    "size": 66868,
+    "sha256": "0ac9fd9ceee92bdf8301176bb9790e69e3d6a6068111a9d0d93fa389087e2aca"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\classRace.lod_eng",
+    "size": 715,
+    "sha256": "b1767d6194005937778e3ad46cf12b659160bef01ed6759c48bf37df55870229"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\combination.lod_eng",
+    "size": 33086,
+    "sha256": "d65a19d789588ee57f64283548e9f0148f529982509a07b49bff57c44e52aa67"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\combinationNPC.lod_eng",
+    "size": 6172,
+    "sha256": "f16a0057cfe8b483424c9f90cfa3351622acc348429c16964bdb39b9aa4bd59f"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\fletaAttr.lod_eng",
+    "size": 1684,
+    "sha256": "10627dee707f09c6b06d97bfc63aa9590ba687ef17b0829ee390f814e59fde86"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\fletaHonor.lod_eng",
+    "size": 359,
+    "sha256": "353afe1c7e61acf0217f058be063e5ec6614a1b37041b256732746a909bd6eea"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\fletaItemEnchant.lod_eng",
+    "size": 1612,
+    "sha256": "0d4bdfa75d2994ba2d17559840d82f1a238d7f30af9b1715afa1129088d3c225"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\gambleGacha.lod_eng",
+    "size": 1029,
+    "sha256": "6097348b44aabca26a2a4c6ad9e4d486e1b0305c15e1ef75136f9545fde93c4d"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\gambleGoldFish.lod_eng",
+    "size": 224,
+    "sha256": "eb485622fee5c04ce004c96adc76f1c3ce893554f51c133e067fde2da5e9c1b3"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\gambleRandom.lod_eng",
+    "size": 163,
+    "sha256": "b717e94b9d66fd903afefa27d43434fdb7477b8a783a74b58da5019f99862407"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\guildMark.lod_eng",
+    "size": 1663,
+    "sha256": "8dc20b1efcad9acbbf6811f63118dd8d7b76fb8d4fcdd0ebe22cb93e173db0b7"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\help.lod_eng",
+    "size": 59000,
+    "sha256": "dacbbc08f3ed7b9c3c1a163f65a26fbdb5f8c71783767f9eb6ec26856d5b6a4e"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\IE_GuildNameFiltering.lod",
+    "size": 3402,
+    "sha256": "1ec715de7529c8495384595a63c804279fd61ca400626cd38a3cc445d4e1afc1"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\IE_Maplist.lod_eng",
+    "size": 9844,
+    "sha256": "2bab7bb79c05f5252218e7d824470317988d75f3b659f40e60192dc78a466ec7"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\IE_NameFiltering.lod",
+    "size": 15684,
+    "sha256": "86e1678c78b6e4388c5f0def13de6a1bdb37c395940a7cd9e31fa373a2b62948"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\IE_TextFiltering.lod",
+    "size": 9481,
+    "sha256": "e35768cfc58b9de036c9412892215942657bfd0a0ae638bf6aca4cdc891c02e9"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\itemAttr.lod_eng",
+    "size": 1854845,
+    "sha256": "7a54da8182bd5bf87538d99feaefcae6bb22f91a3f51f4de2c75e35ccaffd4e5"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\itemBase.lod_eng",
+    "size": 1640188,
+    "sha256": "a2f1bb75019c11db2b92d1d20952ca22f6607ecc7d815407a9ceb67e8ad18a41"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\itemCombAttr.lod_eng",
+    "size": 3608,
+    "sha256": "25470e4510c44813f289106430100716da992c5cf08b7e9a08a43c1b0ee072f5"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\itemUnique.lod_eng",
+    "size": 260,
+    "sha256": "daf22df1b9288fab99feb8c174beb1ced8baaaf3efc0c5457b0c22f16c418b20"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\mapOccupation.lod_eng",
+    "size": 151,
+    "sha256": "bdf949cf9441f82241212630654f182a1b6857613dcf838847e7cea0ccd06785"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\mapWarp.lod_eng",
+    "size": 1979,
+    "sha256": "e1c2245be69093bef57b36453f0d339f6e77daff3b4484b2996023cffe22aff3"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\mapWarpGate.lod_eng",
+    "size": 2741,
+    "sha256": "3a3458c7741498d7774ff49067f70082ce1a0d84af7191f3f068049990838b42"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\mapWarpStat.lod_eng",
+    "size": 104,
+    "sha256": "75a2725deb3d7a87edf9f4d817624edd023299f26439e5d4e48611a91af61b21"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\mapWarpTargetPos.lod_eng",
+    "size": 5009,
+    "sha256": "db2337dfc643009ff1596b87e5039d2486938f511dc804368aa39d303f8b1fa5"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\npcDialogue.lod_eng",
+    "size": 301604,
+    "sha256": "f49760ac45b1b13f16c64591585cfdcdca617a7f1410c3ca1666144ff00619d2"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\npcInfo.lod_eng",
+    "size": 61914,
+    "sha256": "6c063f525bcc092de4b601e867452954edc1acb3a88ebf01db269f125ac73347"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\npcPosition.lod_eng",
+    "size": 4,
+    "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\npcShop.lod_eng",
+    "size": 11734,
+    "sha256": "d8f1506a9dabe3e35002cc1673a52700142e0ec981a8e020cb7ef42bcffe101b"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\npcShopItem.lod_eng",
+    "size": 4972,
+    "sha256": "1b3f3d35ef52cf7f74900a7eeb8408f57cda6e6d5dc19eef4157717fec9689ba"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\pkField.lod_eng",
+    "size": 112,
+    "sha256": "f2f48ee9ee4d83792389311d525c5a284be59b06202f422c52cbe86f358d1f23"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\pkMoral.lod_eng",
+    "size": 724,
+    "sha256": "b22f2cc283e2cef215980235464d1fe3219bbacde234ae91caee6878f1f3ce4d"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\quest.lod_eng",
+    "size": 404996,
+    "sha256": "78e03d50d8b70408862ce1baa175a009fd70ce469b5ba5f9f239286366f2a871"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\skillBase.lod_eng",
+    "size": 367700,
+    "sha256": "a8d88986e51d222921d1cd5e5184b26095bd2738fea73c0890732543553c45c8"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\skillData.lod_eng",
+    "size": 4265808,
+    "sha256": "f3de6ca77564039bc04511040810789a873315770d74afcda6a5863fe7b09fc1"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\skillFireEffect.lod_eng",
+    "size": 419,
+    "sha256": "211eb2076e7fba3508a6c3b7d814f023fc178707f94772e1750e0317b974204e"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\skillLevel.lod_eng",
+    "size": 3141304,
+    "sha256": "74884ce42ac05be8370bb520f8011dbf8c4f56b9e76b940c3e845a0c8532afa6"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_100.lod",
+    "size": 80,
+    "sha256": "09409666e0b776a7e2067168a8166155bd39bc6668997e810f2e7be1972eb313"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_110.lod",
+    "size": 175,
+    "sha256": "860d2a8b6254bfd043b52daaee66f20541baf394db19e9975bff46ebd4be56fd"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_120.lod",
+    "size": 176,
+    "sha256": "c1a98c64c580f9d4966718a008d5e104a2b6f8440f80ad583dbbda2a71597bd2"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_200.lod",
+    "size": 68,
+    "sha256": "ef149d91ba9e7d932f5b61279426291c6e7010517efb1f17ef1e3f45153191a0"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_210.lod",
+    "size": 178,
+    "sha256": "799a3a28fcac342cca30a7bcdea70a5c69c005932bcb8d00fec35c61741a45ed"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_220.lod",
+    "size": 178,
+    "sha256": "0167ef5355db7f8dbc222f1502c5e35c89247b9d141bda5789b5684d44e7022b"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_300.lod",
+    "size": 67,
+    "sha256": "dd27816f814524f443b0a30e9f4826ec9d79b229dcfc31b487ea79094fc73159"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_310.lod",
+    "size": 176,
+    "sha256": "d2202072e84fce9ce97a6dd9018158ebc558ba39d345764d998aa73e2535e15e"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_320.lod",
+    "size": 176,
+    "sha256": "5b9b3ff8fa6cde94231520b4f176d3277a21450e7dbbb8935c943b0696912737"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_400.lod",
+    "size": 80,
+    "sha256": "14158fe9207676669e6bebb8c82207f95ed01fb550b8b75092f05c40a1306b29"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_410.lod",
+    "size": 175,
+    "sha256": "5bff0b5e59c8380d6883b5c484b1e33dcdc4c744b8aa2049334eec795a134e58"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_420.lod",
+    "size": 175,
+    "sha256": "872da0afe4453ad7e5a267176ec2d202a8aee66057f30bf487bbeb35f30e7f39"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_500.lod",
+    "size": 80,
+    "sha256": "d2965004e640156b939190557afb4045448cb1b108b24b4b51a1b030c9ac8dbc"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_510.lod",
+    "size": 175,
+    "sha256": "d458caa5a8b060efde4ec37b9ef38b50a286ee788fe596aa2c7fee5a75e01048"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_520.lod",
+    "size": 175,
+    "sha256": "65fa7590f4d57059f61db6b11cc6dea64d9deffdafcb9e46338df50d4d6ff59a"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_600.lod",
+    "size": 71,
+    "sha256": "a4bac7e2e0bb3522923552288f1a6fc6b13873d0d72e94353bbd73be6df353f8"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_610.lod",
+    "size": 189,
+    "sha256": "48ea76d3c70eb41fc59d0eb6953775a27ade3623a282bab8eb3766f2f3326cab"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_620.lod",
+    "size": 189,
+    "sha256": "b9d4f32749d09dd50188b70c4033bfa78292b708999d6e2c3850a21ba2e55238"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_800.lod",
+    "size": 72,
+    "sha256": "0736ff7d18164eb09775f41e5231b18add9e71282ee6e830d6ddb7a77f339e30"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_810.lod",
+    "size": 205,
+    "sha256": "6909a5e7a8bc24490874e7fd484681aa19569db38e324c50c810e2f16aa0a5de"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\SkillTree_820.lod",
+    "size": 205,
+    "sha256": "114cc1359eafb0a4a6bb0b0e6f348b134974636652de283f8d69174c2ddd58af"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\string.lod_eng",
+    "size": 1247996,
+    "sha256": "99acbce9c5bff5e16be2a1e53cde53057a6c22aff0b71ca181b3eb24882676ba"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\warCastle.lod_eng",
+    "size": 736,
+    "sha256": "1d53f25cdd22928def5cead8415cc91fd5f577035a493b488fd3820b2bd9e406"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\warCastleRegen.lod_eng",
+    "size": 100,
+    "sha256": "ed4e7da8aab4f4ae97ea41658d59d853296527494bf47106de791851cba2ff97"
+  },
+  {
+    "path": "resource\\Interface\\IE_Lod\\worldMap.lod_eng",
+    "size": 994,
+    "sha256": "13e06aa303d9881beba454e10224e1f80d96d88c7a932a461727b3fd41e8f400"
+  },
+  {
+    "path": "resource\\Interface\\IE_Map.pak",
+    "size": 43190587,
+    "sha256": "e304c22bd983167f763bc0702dbe847c10f91c9e80e4f3407090eacb4700d4c2"
+  },
+  {
+    "path": "resource\\Interface\\IE_Script.pak",
+    "size": 384152,
+    "sha256": "ad9f4c88133069a24559f8698b23861dfea0bf71e7261465345d234de9464174"
+  },
+  {
+    "path": "resource\\Interface\\IE_Sound.pak",
+    "size": 139390,
+    "sha256": "8d1946d2ea52b2169949ba1e84f5e55f9edd1993b0a172fcb91194d760122cad"
+  },
+  {
+    "path": "resource\\Map\\Antcave.pak",
+    "size": 68151338,
+    "sha256": "3b3f1001237e1393e51d5be42f30908736915cb867b822220bf0bf53abd02dfb"
+  },
+  {
+    "path": "resource\\Map\\asmara.pak",
+    "size": 175001848,
+    "sha256": "5bba349c0da7833ec5fc5b0fa9020940f8aeff5d517ffc1a05147ee1ec3aecbf"
+  },
+  {
+    "path": "resource\\Map\\berneo.pak",
+    "size": 94936696,
+    "sha256": "703209a89c7ea9709d9de915b681e891975ec7cf97cdd94436115ff0c810ee63"
+  },
+  {
+    "path": "resource\\Map\\bs.pak",
+    "size": 58099517,
+    "sha256": "d60c7563de11a732f3d93905b40c9471b1f17d3f2b2e4920f5bd6b1c78d04b91"
+  },
+  {
+    "path": "resource\\Map\\catacomb02.pak",
+    "size": 40987612,
+    "sha256": "f0e598a315a95ce93e4a0e4739068cf8d36bbd692ccbf936be3f260f761d9048"
+  },
+  {
+    "path": "resource\\Map\\catacomb02event.pak",
+    "size": 46046047,
+    "sha256": "15c632bc635f1dedee9917ff5461f827c04eac140afc07f6cc9e2b05074dd13a"
+  },
+  {
+    "path": "resource\\Map\\catacombBelltower.pak",
+    "size": 27369911,
+    "sha256": "08585b8ff9f19241afc5510a46c45157f7226bc70e486592017a156e170add77"
+  },
+  {
+    "path": "resource\\Map\\cave_04.pak",
+    "size": 21684471,
+    "sha256": "5744d1f6a43f053cd6a618e05ac726e650fb92b7e23c981cc43b9d7a2da74cc1"
+  },
+  {
+    "path": "resource\\Map\\Editor.pak",
+    "size": 146877,
+    "sha256": "530e8b35a774c8451ebc65e0a0b62ad8299f6eea030e8781793f59d48326b488"
+  },
+  {
+    "path": "resource\\Map\\Environ.pak",
+    "size": 19622954,
+    "sha256": "f2446b6800b2d515ce7846642ec3c1fafd3866138309d407ef25c6f8648380bd"
+  },
+  {
+    "path": "resource\\Map\\gelmencoden.pak",
+    "size": 21078127,
+    "sha256": "1e472df358a1054ae36fafdbc451909cca8221d4471c114a3be1a58eb0f93f8e"
+  },
+  {
+    "path": "resource\\Map\\Labyrinth_02.pak",
+    "size": 36496115,
+    "sha256": "b9089d08af4799185c7966e12ed7ad244f4a23693d10a62e6590d732f6ef9e2b"
+  },
+  {
+    "path": "resource\\Map\\Login.pak",
+    "size": 41254945,
+    "sha256": "c3f4319e2c6b67cd671dd4a985c53eaf504f39a42fba49e585a3cb97d694c7f3"
+  },
+  {
+    "path": "resource\\Map\\Npc.pak",
+    "size": 264571113,
+    "sha256": "eefaa0c28892736afcc7a221c6a6efe51e52fe5529eae78c13941af7bf29fb3a"
+  },
+  {
+    "path": "resource\\Map\\Object.pak",
+    "size": 151495633,
+    "sha256": "d12f98e0a9b20f6eb1befceddb48fdf075d9def0902366fb57ff3060e41332be"
+  },
+  {
+    "path": "resource\\Map\\peltrok.pak",
+    "size": 90994169,
+    "sha256": "dcf77bdb34254e644a695c9b849b5705b9a08580baaf06e2d4ed2f14553ad622"
+  },
+  {
+    "path": "resource\\Map\\ruin01.pak",
+    "size": 40978995,
+    "sha256": "e4744777e56e8cac1d8975d8fdae320eaad6009cd33389ae966a322c22ca95ea"
+  },
+  {
+    "path": "resource\\Map\\sewer_01.pak",
+    "size": 29456051,
+    "sha256": "ae9fb27271eb8257ea46d80c593f53cff554e39f3cab03c375c0df4ee8899c4a"
+  },
+  {
+    "path": "resource\\Map\\Siege_001.pak",
+    "size": 33791994,
+    "sha256": "6addbc660d1a8fc46b6a96bb0cd9b6f51bc176aeba0e27c68f9955f60ad852b2"
+  },
+  {
+    "path": "resource\\Map\\Tempteroon.pak",
+    "size": 77180141,
+    "sha256": "57f8bc92b4d57334f952a8439736b5590241204790f5fb6c7a1715ca94dc8f1a"
+  },
+  {
+    "path": "resource\\Map\\The_Eternal_Maze.pak",
+    "size": 11617203,
+    "sha256": "b7cb7ebba3f2af2a7680c0479f1f3761e46abf15310de682cb0e43cd9e4c768e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AlienBark.dds",
+    "size": 87568,
+    "sha256": "9adcf32596d4b8f0efa31207afcb2d14c0f688adc92bac388fa5f120b40cd62c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AlienBark_Detail.dds",
+    "size": 87568,
+    "sha256": "71dec776b9d1207603c8c11b31a6e0d8588d1c38ec35da5216098f75790c113b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AlienBark_Normal.dds",
+    "size": 87568,
+    "sha256": "d44a14a580d1b4248cfc47e0bb3a91ad1928ed84492fa4e4105d6fdb65fe2a81"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmericanBoxwood_RT.spt",
+    "size": 13498,
+    "sha256": "8c6557151972a3e8a0505dd0a26baa74e8802e3707ad12cdbd59af9a2a4b7c4f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmericanBoxwood_Winter.spt",
+    "size": 13522,
+    "sha256": "2a3bf4f34fee3a2c7946a97dec35703ac8443d89ba25984fc9f293e345ac8d3c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmurCorkBark.dds",
+    "size": 22032,
+    "sha256": "aafd065f14ce0a06330d11830ead03842a3b922c5d44f733732cd23993135a29"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmurCorkBark_Detail.dds",
+    "size": 43856,
+    "sha256": "641b5bad0d175a134ccf5fba34ea7891ed83b506a9892482290c8ab5c42648d3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmurCorkBark_Normal.dds",
+    "size": 22032,
+    "sha256": "108ea229399ac7b8e88e80205b4d44d081623b9a853516bf534e7447a91ae572"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AmurCork_RT.spt",
+    "size": 16878,
+    "sha256": "c0b85c658f445c1cd151bed3daf3e11345e181156806aca8396051b88ea4c339"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ArizonaBush_RT.spt",
+    "size": 23115,
+    "sha256": "47379dd2952af7d26912fda6e0009c2b072e7e8dbaa13d1c7ec27e43e05adc11"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Flower_01_Diffuse.txt",
+    "size": 682,
+    "sha256": "ce67d7e17c5da400a2717c86de4314316275b95dc720aa2f3090cbe3cd7ff928"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Flower_01_Diffuse_Diffuse.dds",
+    "size": 174928,
+    "sha256": "0c82084d7fc243051dd9fee7661cc0e68597d1cc3a23bfbfd996a9ff2e3b73d2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Flower_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 174928,
+    "sha256": "c6b10834dabe00e6e7719e49e0eec64a7ff3d12deff1954aff8bbaca30382665"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Flower_01_Diffuse_Normal.dds",
+    "size": 87528,
+    "sha256": "9793fc3530e441c1c73c2d2e6a42f5262a24cb63c5c041438634a9e1b58e5050"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Flower_01_Diffuse_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "f1276827c54b358588b328fac9cb9953193f56df53da48f1fa277252c48050c3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Palm_01_Diffuse.txt",
+    "size": 4334,
+    "sha256": "6a42b3f1034a3084cbc41074a462d58fdab8f7f6764d4faa92284c01779d8366"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Palm_01_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "9381b04deb423cdb69625703d498f3acf31ad5c62cb08b2b799880a36e6cc0e6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Palm_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "8a3158b019f3a6a6d8a89d7587c054027996e29675b725ac0879aabfd74e6868"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Palm_01_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "fb9d0d406d21b09a92ae54de62054f7ada1c6d6cd366fa4d75cfc3d0541f4397"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Palm_01_Diffuse_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "a77dce63f01586e1dfda11d0864ea0455bb08b8ed84c5f529c212a812d99b04a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Plant_01_Diffuse.txt",
+    "size": 3613,
+    "sha256": "1971b379ba9791e50aa546abb7c4ebd3dea849f79d86d77dd165f4b9d0da5206"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Plant_01_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "3bbe9aa543cb35f67d459ff2de9a46663b8af2e711774b6c91c3b15a7ed8f100"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Plant_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "8efd00cd7028677332aa87fd85325e05cbe40f12034af9ac6788a38d9f4ef615"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Plant_01_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "b217ee01703db6b0c7148a2dc61e45e7b1d8eeb3049803daa25dcb851cfc4482"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Plant_01_Diffuse_Self-Shadows.dds",
+    "size": 87528,
+    "sha256": "1122a69c9e2b9b3074be7acdff751217bba6fd868474ebb467a4704983debde2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_01_Diffuse.txt",
+    "size": 2193,
+    "sha256": "8eb0abdaaf4c16f35dd7cdd198a5e1ace872fb160da441941653a94332b3401c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_01_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "f806fdd4e63bbcd823001c967f81a97242afbc99d40b56cb99e8d4c7b7fdce48"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "4b825af48e309508de91e478312b5306b8d0c688bf8c5bd1f97a5329776dc19e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_01_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "d183d807ddedb682210f7a225eae0e8dd69d9573838d7db987120da35f1c6a1b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_01_Diffuse_Self-Shadows.dds",
+    "size": 349672,
+    "sha256": "507e3098c842128b5cd730ed4f8d7078db7d14f32142167d8cda14cffd43e393"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_02_Diffuse.txt",
+    "size": 2168,
+    "sha256": "db191409b8fa45201808da9edb477edfe726754afae1c01691faf002da99108c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_02_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "8418223f348e614a2d08459d1e65d2c9e968aa240ef1b7302ac2236751485f30"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_02_Diffuse_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "cfcdfd9f2fa8ad73c77b0ac401fc20da7d7763791a0f6d0a3f70d0bd15a7b8cd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_02_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "1c734e2be471881fa74fafb2c552032d708c630845a9aed3bcc57ca5c9b051df"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_02_Diffuse_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "86027ebb3b7b66c18254edbd2db371607a95c664676ab5fd78543a6cad436769"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_03_Diffuse.txt",
+    "size": 2964,
+    "sha256": "484618eb97faec751ca036c5c7beac3587946ac96d51e55fa44a5da4568ea4cb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_03_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "c3b9e2ee05bccf5bd643fe52aa039a0607db1eeb87e6df67ec95bf06864939f4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_03_Diffuse_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "77b94e20a2da660b9fd1cdbb6e872ac9aeb3e64d46516372b68999586931e85a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_03_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "6d3fb29ad5dbbf41370ed3cf9570f27179f089496d46eafccf3993bbe20cefd5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_03_Diffuse_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "be844024dbf8adc7394f4629f996e49a2c6a82db8bfedd430fcb3deb3b78943b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_04_Diffuse.txt",
+    "size": 667,
+    "sha256": "548c155ca214ae0e0c68089c5991e74ff116127027796ca92a4dd0380f18d44c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_04_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "c9216ac98c3bbc0b104afa0a12634b2e3043e3d60919b081d7d2ff104f3c8356"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_04_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "932a15c2590c841bd43de0fdd239eb3948c6750fe1157d7c065dc48a91109ef7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Asmara_Tree_04_Diffuse_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "4740e4a89023890c818ab96c3271733623e772338bbc30fe0e6e91c00f8a496a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\AzaliaPatch_LD.spt",
+    "size": 18058,
+    "sha256": "bd3443a6e6cd951d33bfd94f4e52cbd55708ad48aea3b9dabb0efc0a1791a604"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong1_Diffuse.dds",
+    "size": 699216,
+    "sha256": "c59a33747554a7d37475bf4a47b97b1fda761691573924a1039734546186d86c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong1_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "b096b1e5b017a1920c6b46108d62b19281e4a6e10ca710822dbc3735066755e7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong1_Normal.dds",
+    "size": 349672,
+    "sha256": "53df1a2f732c161071f34f46d90de84871618ab3b8310b1d0ab4eb7946503887"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong1_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "4578682f7b1dc53004f6d2ee14b4a7e3b53506624302d9267aa9a585e8935b1e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong2_Diffuse.dds",
+    "size": 699216,
+    "sha256": "100a32c0f55d78ce6615adbf9a02d339017bf749a846d149f7249f00fc8c2c76"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong2_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "2a742f9f5ba29e9660439a3d663ac37a4bb7e7109d1234535dda4f308de8ed5b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong2_Normal.dds",
+    "size": 349672,
+    "sha256": "58f37c12d87f60665547234691bc449055537ee70493b15604d32bead1af5c1a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong2_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "991a006df2a75bd6f40b9a56dc78f3694f2709250da6c55197dd51ce08c24609"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong3_Diffuse.dds",
+    "size": 699216,
+    "sha256": "20dd9b5dfa4583f2a4bfd109136a37975bcbcca13ead615d77fda7e450c84ff4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong3_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "9056d6b05312d2e9f4a1112cbe723d86abe72826be8357f794082a3a91736217"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong3_Normal.dds",
+    "size": 349672,
+    "sha256": "3c5b5a5060ad7e8cfc414bad9c9bf7d31867a375d7e3ec8510669602397a7094"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong3_Self-Shadows.dds",
+    "size": 11064,
+    "sha256": "79dbcbd7906bb53a9171648e36d2fb557f78cde86741f560e30fdeff75d1baee"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong4_Diffuse.dds",
+    "size": 699216,
+    "sha256": "891beff313b7f498e968d6ba40f55672ed5ece084f5ad5396ac805e33c348e88"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong4_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "421d7a96a47cd1159011871e04563dcbd0e63d46abbb05b756d90304ec94bdcd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong4_Normal.dds",
+    "size": 349672,
+    "sha256": "ff97246eab0f8c42e7684b7f7d507a7d6abb40a8de30e7c1cddfeb4a0bbadb7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong5_Diffuse.dds",
+    "size": 349680,
+    "sha256": "fcb3e2bab554aac390d77664ea495f58cf3f909304e0e0a3e6fdd4c35d96a881"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong5_Diffuse_Billboards.dds",
+    "size": 174928,
+    "sha256": "6a4823a587555fe9cc7b23d7ebabdb3e34aaa9b46e2701d04e359d16b0900463"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong5_Normal.dds",
+    "size": 174904,
+    "sha256": "3a42a27838c351c90688ff61290dd9d157bec1bac0339384e4299ee287b8f781"
+  },
+  {
+    "path": "resource\\Map\\Tree\\balasong5_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "722070a022f25878d5ad270b902d4d5a4b97674ab70d5e8f3be899331bb4524b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BaldCypressBark.dds",
+    "size": 87568,
+    "sha256": "2b2f7871c81a3b8fe37bbcd0fadfdb79ebed2651610d33943122abfc259e45c4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BaldCypressBark_Detail.dds",
+    "size": 43856,
+    "sha256": "daad3bf102a3df6cd543257562a2e94d547ed50b159e65ce678e98d5d075b2d9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BaldCypressBark_Normal.dds",
+    "size": 87568,
+    "sha256": "495ac31165e8ad255f5f85269370812c686743b0c726dbdbf74d5fe36baf5b75"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BanyanTreeBark.dds",
+    "size": 87568,
+    "sha256": "43de5d1ab3f9e609d3fb379cab92058c7c28af2987c68ac14041dff102d9522e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BanyanTreeBark002.dds",
+    "size": 87568,
+    "sha256": "8275758af628779bded3bad3beaf308335d72952ad5bbebe391c7040b9aa5330"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BanyanTreeBark_Normal.dds",
+    "size": 87568,
+    "sha256": "05c573799a4f9da88f9df3c6f6b10ae2ea3a84ca7d25510b7ced2a65784d06f7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BanyanTree_RT.spt",
+    "size": 21153,
+    "sha256": "b5d08695bb60f329a68f37a1e3b595876cbfc9361ac5d780f316aaf9426c4292"
+  },
+  {
+    "path": "resource\\Map\\Tree\\berneoTest_001_Diffuse.txt",
+    "size": 565,
+    "sha256": "a25bf98e2bd94b68f73a0ff3ab1f77282ac2bc53f74db4b886eff1154722efb0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\berneoTest_001_Diffuse_Diffuse.dds",
+    "size": 349680,
+    "sha256": "a1b8d8b62181bf31630b3b4b727672bbbada2a21441ebe5ec5c4b683d115fb25"
+  },
+  {
+    "path": "resource\\Map\\Tree\\berneoTest_001_Diffuse_Diffuse_Billboards.dds",
+    "size": 43856,
+    "sha256": "83ad5f7522de7812e6937ded884384dd5338bcaa655918febf5881dfbd7ea8be"
+  },
+  {
+    "path": "resource\\Map\\Tree\\berneoTest_001_Diffuse_Normal.dds",
+    "size": 174904,
+    "sha256": "988f2f15aa83c931b083dfb15a70feac68f0c3f5d1b68af276146778d11e4ca8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_pLANTDiffuse_001_Diffuse.txt",
+    "size": 5231,
+    "sha256": "453069dfaad29e01321a1756e298d230e5d664a12e578caa599d7725aeabe506"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_pLANTDiffuse_001_Diffuse_Diffuse.dds",
+    "size": 699216,
+    "sha256": "392ad96f87068b5d17b62070e328374bc2fd81e6135a05a4f7c5fbb41fc04f9d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_pLANTDiffuse_001_Diffuse_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "edc02b642718b21384a3e1c83dcb407b54c59e7363cb45d0cef78b60ebd5ae7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_pLANTDiffuse_001_Diffuse_Normal.dds",
+    "size": 349672,
+    "sha256": "abc11f4409c191a2ef1ae14a9243fc1a933e05be6b6aa83482b27be0a7e66631"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_pLANTDiffuse_001_Diffuse_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "5a8e5322e66e8c38637aaf89994a7978971c13ac4da525d3f827be33c310c114"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_PlantDiffuse_002_Diffuse.txt",
+    "size": 2808,
+    "sha256": "8d70b7eaa62d30301b30d17845a6d1b2da202179f36e0a8747f20cb1fe056317"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_PlantDiffuse_002_Diffuse_Diffuse.dds",
+    "size": 699216,
+    "sha256": "49623421fb8147b8cc3dfffd5315c3c390db22f6bacb6696d8cdffd73414c040"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_PlantDiffuse_002_Diffuse_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "1148f40feff480050ba9275ff85ee202db468c22be0e74a36e24c59b078b6367"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_PlantDiffuse_002_Diffuse_Normal.dds",
+    "size": 349672,
+    "sha256": "aa0ba321e5c6f173b06f6b31f3cb3ee72699e7bbfd627c88981bd03eaa79a6d7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001.txt",
+    "size": 5986,
+    "sha256": "db6f69a1b8331fdfa922ace9ff494b7bba00425d9873b2712da9fc331594f14a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "ff89d5d51f0e04bf29925197a54b98b8cbcd8c3a2915c09fc13660abc9ff4008"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse.txt",
+    "size": 59,
+    "sha256": "675ff2c42359deb2beaceda088d87064cbb4eec0c24ec70ab878841c36f3b83d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "33e42dd05540a535ddf7e6ad19d51e80e4371520f81ea5c7e9651b400616afc2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "ebf4e4f322e2775a477cc1b528bf64e0512c51a646cbcd1a75e41a84f6194bb7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "9f8645a1ee168a78246bd2a5b3a57afc328b7e58411f62451e6ba6f0f9fae0dc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "f753cc70120eccfe2f040f44792007f10506e676da4934e70cce32aa6921eac2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Diffuse_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "472794e0cccd15c62a41340257786a2d14451f5e489ce6ef68378d00deae236a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Normal.dds",
+    "size": 699192,
+    "sha256": "f753cc70120eccfe2f040f44792007f10506e676da4934e70cce32aa6921eac2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_001_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "472794e0cccd15c62a41340257786a2d14451f5e489ce6ef68378d00deae236a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002.txt",
+    "size": 761,
+    "sha256": "5bd2a8d49a32320b80f8c2225b0c4929e67ac808256fbf87bde6eb8ee6103411"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "192bbedc89c2479b5e19be07b42f8b7850c541bdec746f86459225847265e87f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002_Diffuse.txt",
+    "size": 50,
+    "sha256": "7efc6b8e8db3d2cbd4bf017480d1b4b45ffc487e2a384433004ea540777b14f3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "379cc2f919b36c6cf7c577c52fa53f3d8e39b43cac9fffbde047ecddf909ed5b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002_Normal.dds",
+    "size": 699192,
+    "sha256": "b6c7323f8e6ffc6e7b709262849dd977ec90b3f4dfb7749938d41b1b2115adfd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo_TreeDiffuse_002_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "3280fc08e7ebed5b0ea793ecd5344b6683e5b75c0ce7bb235025bfab1d11a848"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo__lastplant_001.txt",
+    "size": 101,
+    "sha256": "0a6d4b634a5e015970badbfdad0575d91f81b3c14ed3d068f31c6f3439069a17"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo__lastplant_001_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "7a1953141ca18425bd8201bd5c2a13d95e9ca7360227eec4b50404d8c8a0e2ef"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo__lastplant_001_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "a89e621ca6585c14345fa5a9263f5c946a641e41168933d6ffa37e423de74060"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Berneo__lastplant_001_Normal.dds",
+    "size": 699192,
+    "sha256": "79ca5a64509d3224718ee2fbf75fcb3cfff6f190c48ca300256243c343f262a5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BirdofParadise_RT.spt",
+    "size": 38671,
+    "sha256": "b0bd148c89d73e04a3e4a1cbc4440ef250e102bb214c1bafa90f1956d88963b3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruceBark.dds",
+    "size": 87568,
+    "sha256": "fe6c20e3e12c581f4296dd2fa04c17adf8d50bc416d595506929701f715d478c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruceBark_Normal.dds",
+    "size": 87568,
+    "sha256": "8be8d21658c39f1c29348c40f8658dcb1d40a90e12d7136079bf005e610ea595"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruceBark_Snow.dds",
+    "size": 87536,
+    "sha256": "c960bef92db4d04f91b067e9e0135063a8bd2d835b3097c6cb0d68300c7b650e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow.spt",
+    "size": 17168,
+    "sha256": "6837d1c217fdbcaf897a8f5720d7e3f7d71f9ebfd2bab916e8a5af718dd67032"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow.txt",
+    "size": 753,
+    "sha256": "3f1ed96114f96cf20619ea9167606c326739a03c977a1535f464e6217a7f0e64"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "631b25889d1dbbbd52ef70098de4117aba772bdd1bc51b8a7634c75e6340b86d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow_Diffuse_Billboards.dds",
+    "size": 174928,
+    "sha256": "75321faaaeaa959694bb86e6e9e2f0cc42524b94f8bb5d7137879393618738e7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow_Normal.dds",
+    "size": 699192,
+    "sha256": "b1e5f9ebab4a6a65d587c72a7e3e034a14817733819982d128a1ebc8404f26a6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_MD_Snow_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "4b243310a35f0dfbd94d89124688af6aed36f6e84f916c7eed3ee3c34099a275"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BlueSpruce_RT_Snow.spt",
+    "size": 14266,
+    "sha256": "2ff710e2d3344aedcb778c0091d8081a8419ae0523fc23cec504f265886acc38"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BottleBrushBark.dds",
+    "size": 1398288,
+    "sha256": "f27840309c479fc1a7491ac7b05b0793ec94d837faf8fb67af58923cbe2f881f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BottleBrushBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "ededbf7c6266e0996a63f6499517fc4a4ae17ce6217ead51b03eee7049fc8dee"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BottleBrushTree_LD_Flowers.spt",
+    "size": 15966,
+    "sha256": "83b746ef594781410f666e2841914b6f7b3fa4d7d936abd245c7fd1cc8255cbe"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BroomSnakeWeedCluster_LD.spt",
+    "size": 16933,
+    "sha256": "57ec455467ed1ab710da04aa52a82b12e0ba6680f7edb6a799a73c0051bc03df"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BroomSnakeWeed_RT.spt",
+    "size": 11879,
+    "sha256": "c31b13f18658c4c885c495a3da7b2be3beaeb9259251b03ce222fe40bfe31fef"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurfordHolly_RT.spt",
+    "size": 13293,
+    "sha256": "357e1654c1821b600a92f4b5b63bab0e9b73b18ff8abb541a1d9ab7e63947f33"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntTree_RT.spt",
+    "size": 16040,
+    "sha256": "a7a9611c95bfc1c2c2a45ffa2fe01fce883b8ba5b7b3402ea7c3021260451a32"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood.dds",
+    "size": 87568,
+    "sha256": "6404f3dc913df8c8aeca5a65d57a5ccbc811ed79dd7e06878d76b0c2b3716000"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood_Detail_Charred.dds",
+    "size": 87568,
+    "sha256": "7f65fb69068ca3579582acf244b6ab3be3e0a318ab829c27a98deccd7a46f7e6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood_Detail_Dirt.dds",
+    "size": 87536,
+    "sha256": "48845a42b0a876b9e82c0859ea80f46f82122d2147de06adc162db003f208c8e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood_Detail_Dirt2.dds",
+    "size": 87536,
+    "sha256": "95157841b8caf075d89f235899839c7be9e4336465e08b5238ebe00059642977"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood_Detail_Dirt3.dds",
+    "size": 87536,
+    "sha256": "fed3e9b584ed583b78f7e84fb537b739c3a7ab49ddf1036a1c1b2cebea1ae84b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\BurntWood_Normal.dds",
+    "size": 87568,
+    "sha256": "4bce6eb83c34a3a74d1f50acdb95c9d3ba44b84ad895835e34bc394083437c74"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_Azalea_RT.spt",
+    "size": 13263,
+    "sha256": "0f36afcdb926e54cb5204c6e010e21af4f095b290e7833383a424346cfd33e4a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BaldCypress_RT.spt",
+    "size": 18258,
+    "sha256": "f66bb13dfd1757890ff1ccdf9434b9d65b36acbdf15c5b5926c28bed966fb2fe"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_green01_Diffuse.dds",
+    "size": 349680,
+    "sha256": "d841e1368ceb138a41ecc59f78d55706dd230c4f08eb12aef5791242dd4ce600"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_green01_Normal.dds",
+    "size": 174904,
+    "sha256": "17f4dc663cf6ec6b2dee2940a475168ff555aa8d97d4c7fd4096e5b912f08666"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_green01_RT.spt",
+    "size": 21172,
+    "sha256": "9265720bbe2b5bf3c693e128fac9cb27dd6a9fc46fcdd9037ad5f6c45b5b27c1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_green01_Self-Shadows.dds",
+    "size": 11064,
+    "sha256": "6b78585d5d4631bc2f7ba8344883238d36add63ccfaf98c45935af98f25417ca"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_green02_RT.spt",
+    "size": 21597,
+    "sha256": "dc5b1bce79472e9a47209a7f5ce9fa2a6d6d1387cdf5195583112bda6082d777"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BanyanTree_RT.spt",
+    "size": 21063,
+    "sha256": "11c87cad1e0c4b7b4ffcaaadbfba844f47a1c818eece94316b6c9c88c16bceb4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BoleteMushroom_MD.spt",
+    "size": 53887,
+    "sha256": "60fa7ea67b373501f4eafe00cefcc6ed99c32016f757d17832dd8e32cea310b1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BostonFern_RT.spt",
+    "size": 47027,
+    "sha256": "eb0d51dca3f9e5f782d4e2f42c8199082558c340709126d62474f0b90c675ce2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_BurfordHolly_RT.spt",
+    "size": 13567,
+    "sha256": "eca341bdbcdb0299cdddf306e3d10b64a6c4600e06e54bb73668890027b88787"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CaliforniaBuckeye_RT.spt",
+    "size": 17613,
+    "sha256": "39478ed103885a4fa4d1df4944e4c006865fa32c3e02e88a14dac2f438f60ebd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CarolinaBuckthorn_RT.spt",
+    "size": 13671,
+    "sha256": "9a9dbd2947a3163068fde255277e68988719e26a3ba8900ac148d7b8ae4f4fb4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CherryTree_RT.spt",
+    "size": 19665,
+    "sha256": "e4c56f73c6e9383f5dda462d5140ef243946524cfe525446b39e64e12c94222f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CinnamonFern_RT.spt",
+    "size": 21934,
+    "sha256": "db0f686cd722fde2f733b5a1e546b5a1a5be12c0670f1a30d00d777a1d62a2ad"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CommonMushroom_MD.spt",
+    "size": 21568,
+    "sha256": "7429ba45ec9d71d3743036f0fbd897ae232d60d7a1a19bdbb243499aa4400dde"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_CommonMushroom_MD_White.spt",
+    "size": 21583,
+    "sha256": "955b47e002f57ae5031cd0961a528269b16e7df4e83b90c7a10cfdcec6a75b0d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_ExtraTerrestrial_RT.spt",
+    "size": 20075,
+    "sha256": "9ca6ada7660158f21a56e44ff9b1a0d6ef6c7f5d8f32258fad86f60f87905596"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_FallenBurntTree_MD.spt",
+    "size": 19058,
+    "sha256": "ea1815f73fbaaef787f992f41a5fa9e6c63769fd0d24c2798e7296cf77afcb90"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_FallenBurntTree_RT.spt",
+    "size": 16411,
+    "sha256": "0af37a1555c5472dd25a720ec49f2a79a606107bca131856cba12ea22f9b95db"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_FalseSpireaPlant_RT.spt",
+    "size": 12140,
+    "sha256": "de29e2e37ac502a5d1215dc0239e35f2947fd4d689653c5238d3bc972463d376"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_FalseSpireaPlant_RT_Flower.spt",
+    "size": 14808,
+    "sha256": "29d5e9ca12e3bd88ea0b2dc5f526ce9614b9cbebeeaf8386e52d1ecfd1ef7b48"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_GiantRedwood_RT.spt",
+    "size": 14765,
+    "sha256": "f1839c61807afe039963f32cad749726c6d65f3e24bcb7cc0ee710b8662609fc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_GiantSequoia_RT.spt",
+    "size": 14647,
+    "sha256": "8eb08c318f874d7599f57904f8911fd39d92db3fe7cbb1ae20b3bef4bf205a1d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_Marigold_RT.spt",
+    "size": 16103,
+    "sha256": "441d9d0ba4d48e55923ae121fabe4a4e5af9191925740ea8679548c3c82d3793"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_MontereyCypress_RT.spt",
+    "size": 22261,
+    "sha256": "16de916a2dc57a18e0011def8fb7069518060bc1e8a800ffdc16016ea0a11858"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_MountainMahogany_MD.spt",
+    "size": 17504,
+    "sha256": "e32d58b338ff2ae4631695305287029291b5eef3cd07509443f5f601c01b6699"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_MountainMahogany_MD_Shrub.spt",
+    "size": 18721,
+    "sha256": "567936801afac7a29b3b8fdb20989222d874539fc019942f9fc7987931d370db"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_NorwaySpruce_RT.spt",
+    "size": 14494,
+    "sha256": "8df9eed82423a19fec4dca7bec0ca961c1d58c5174a77a7bf074ee3ca6186c16"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_RedYucca_RT.spt",
+    "size": 23658,
+    "sha256": "a23eeef840cc837d2bb0da514b827c58328b215d97d69ad67c31abbe4b684077"
+  },
+  {
+    "path": "resource\\Map\\Tree\\B_WaterLily_RT.spt",
+    "size": 24725,
+    "sha256": "851730de81bf19b9edcd7db8bb039cf32c5ad93f3e135f0964a7372157404a51"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CaliforniaBuckeyeBark.dds",
+    "size": 87568,
+    "sha256": "645188afeebb2b09df03881da73fd32b144d24d8848ba4e85e3aeeba8f669ea9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CaliforniaBuckeyeBark_Normal.dds",
+    "size": 87568,
+    "sha256": "01ec0287f4768183e6d4367f54a5c63bdb6974fe7f5f69e4b3ca2e4edc783632"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CarolinaBuckthornBark.dds",
+    "size": 87568,
+    "sha256": "c291d94a73ced472297abc78ad45982c1f9d3279ff52986c95608c28d753893f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CarolinaBuckthornBark_Normal.dds",
+    "size": 87568,
+    "sha256": "5e2eeaa72c7c15529fd4f03933138da26eacb199c66361270fa5af53cbf6249b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CattailBark.dds",
+    "size": 11152,
+    "sha256": "9f096575634425eb7c48ef1593131828272c877bf2ac7cd45f2554872522f3e9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CattailBark_Normal.dds",
+    "size": 11152,
+    "sha256": "c0831fd18ee73f0f4cbc574ad90590e47066c40e173cd611e23d40620547f065"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CattailBark_Winter.dds",
+    "size": 11152,
+    "sha256": "2aa8e37af8d08aafe896c8e5affb73cc12a3d6e1e3303d8ccdf861eec94f1545"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Cattail_LD.spt",
+    "size": 19955,
+    "sha256": "1c33515b9e21d5f3d34238f4b58f5dd88b3a05e06b6eb02aa0730086d68c110f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Cattail_LD_Winter.spt",
+    "size": 19945,
+    "sha256": "7520a7a6e6d5a538dfba025239f794eed2fa5021770debb7533198bb97f1f836"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CherryTreeBark.dds",
+    "size": 22032,
+    "sha256": "ca7927bdfe186e820646e37d5babdde0b417de5846b98a224b1fd6c2dfee1dfa"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CherryTreeBark_Normal.dds",
+    "size": 22032,
+    "sha256": "505c0caa637f8f0b56c89aa3f91322884c920bbf117ed53825f659f1aa999ea9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CherryTree_RT_Blossoms.spt",
+    "size": 19475,
+    "sha256": "d857372f869100f42306079d57bcf89a94735f700bdfa9c4fc8d9ee8ec6ef814"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ChollaCactus_RT.spt",
+    "size": 14897,
+    "sha256": "f22ae4a4466c3f7e16f86511fac258318a1c7a954f5aded0ca2037b2372fdbcc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CinnamonFern_RT_Blossom.spt",
+    "size": 17951,
+    "sha256": "20294b7f94b0ae9f55424a02a130d4e8797607a9ed3e7f0433418763dfd0f99a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CommonMushroomSkin.dds",
+    "size": 87568,
+    "sha256": "28b97034ee9ed5773cd51946695001807cee1c5bf0ea0fa963170f5d39c62dda"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CommonMushroomSkin_Normal.dds",
+    "size": 87568,
+    "sha256": "0f43248f499596ffe27993ed6e5a4bc97011db78b3cfe536cd9da1b43019ca74"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CommonOliveBark.dds",
+    "size": 22032,
+    "sha256": "ecd3c2840f28bf116e96d0313b4d006bb8ee62f9727c7681ab4345bf9b2ba33a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CommonOliveBark_Normal.dds",
+    "size": 22032,
+    "sha256": "6665ea03ec65457ce2d2835fde2868c54adbd147458e3521197561f082d5f36d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CommonOlive_RT.spt",
+    "size": 21041,
+    "sha256": "895d11eeb1c4d6dc43df4a5b6002143bce5506342cc426f6d08a2a14b9ac9c82"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CrapeMyrtleBark.dds",
+    "size": 22032,
+    "sha256": "1cea83da90391499060467c83d59b9198a716a7e78a4ebcbd6c39d767eb873c2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CrapeMyrtleBark_Normal.dds",
+    "size": 22032,
+    "sha256": "6cc572ed20e15af378785086840271a6873bc147fa829b42f871d34b19acd2ba"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Crape_Myrtle_RT.spt",
+    "size": 27530,
+    "sha256": "809476a82dda47559da35e3467ffe3af282686635e9d65a8dcf566ccdd8c0d4d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Crape_Myrtle_RT_Flowers.spt",
+    "size": 27248,
+    "sha256": "e82e0d6afa847673ed62141ec55d4ff70def8c32670dbfad05d9cd322119117b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CreepingJuniper_LD.spt",
+    "size": 14656,
+    "sha256": "b1ea43aa7022e03e3d0a0fccf66e144c55f872c0aa11d3146d94951ba073226d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CurlyPalmBark.dds",
+    "size": 87568,
+    "sha256": "a719c7b6846633dfab3143800df1914419eeb9eb296a04736728b974d4dea1a5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CurlyPalmBark_Detail.dds",
+    "size": 22000,
+    "sha256": "020155dffece30bd47b633d10dcbca69323d25e6cf3511f2468434135f84a34b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CurlyPalmBark_Normal.dds",
+    "size": 87568,
+    "sha256": "bb39c4e1403da69ec223527a2d6d08fbdcc7c243df236d66036564375e7d9fbb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\CurlyPalm_RT.spt",
+    "size": 14417,
+    "sha256": "9cdbb6bc6433e5439f5a5e2533fd92bf35d0717257b934d42c545f3025a9357f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DaliTreeBark.dds",
+    "size": 87568,
+    "sha256": "a71e2f06f20c1eb4e310a80fe23340eee2d50033d1ca3484f3f0beaee20b2a4e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DaliTreeBark_Normal.dds",
+    "size": 87568,
+    "sha256": "05ee790880c2e958db596c7ace691f0fab70ed472f0fb574c624c823557b732c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DaliTree_MD.spt",
+    "size": 64844,
+    "sha256": "725d97229b05ba1bc4c40e31bcb3d7fe3fbf5749f8cc282ce6ccb5d4b22b9b7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DatePalmBark.dds",
+    "size": 349712,
+    "sha256": "8d6c05e552de069d7ae31163fe26f7b85562e0f159e74adc4a50066a09af2928"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DatePalmBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "4af5c7d2d9249f92d51b767548e2b2ac6f1cdec208b8fdcc8ca1ca0ddd3e0ab4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DatePalm_RT.spt",
+    "size": 12587,
+    "sha256": "3ef8167a96873ee89a93873f8a67015341681d3ad4774d90c761481e02da6e60"
+  },
+  {
+    "path": "resource\\Map\\Tree\\DatePalm_RT_Fruit.spt",
+    "size": 16109,
+    "sha256": "f6a0d17bb40684a579376f8c75c74c8ce984bff430c2d3f4d8afa956679065e9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\EasterLilyCactus.dds",
+    "size": 174928,
+    "sha256": "1556c0014fd88cfca34a06d3f058a5e028afca1c0f7906dbb489710ae65ae896"
+  },
+  {
+    "path": "resource\\Map\\Tree\\EasterLilyCactus_Normal.dds",
+    "size": 174928,
+    "sha256": "6505dbdce3e67a3a09a8ccb543724d6ce7caf15e91b413c84faff51982ac0333"
+  },
+  {
+    "path": "resource\\Map\\Tree\\EasterLilyCactus_RT_Flower.spt",
+    "size": 23513,
+    "sha256": "10122d7b9199205770bf4c3471a081f1dcc549c7c84f5b6d445dd361d28982ea"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ElmStockyBark.dds",
+    "size": 22032,
+    "sha256": "76eaa4acc9e9928933ec978989d243d89c6f23c435de308821718320d31e833f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ElmStockyBark_Normal.dds",
+    "size": 22032,
+    "sha256": "e4f05f42210cef93b855d7bb5e095563e5ab3a8c1f09033df6314e88fd1695c8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ElmStocky_RT.spt",
+    "size": 17213,
+    "sha256": "b4e4637d2808f690aedfd7081caaa4a6e7b950e22325c7ca59c844a46bfbc2aa"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonSkin.dds",
+    "size": 87536,
+    "sha256": "e96a737664005c14c11db458a01f6de5b231f212d0fe506f6490ace5468f890a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonSkin_Normal.dds",
+    "size": 87536,
+    "sha256": "2307f233c48969c56ac1f6ef1bac5e1f5c4fbde58f56f580e292cdae558ef8a1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonTree_RT.spt",
+    "size": 13180,
+    "sha256": "e7cc1977b00d6ef2c6fd5cde38aeab18134f7239e4e85ba89a34d22e44d840af"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonTrunk.dds",
+    "size": 43856,
+    "sha256": "68bb4c0aec1258550f79e70ac775bb02db35cc627a016b6ab785665b5e0d9292"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonTrunk_Detail.dds",
+    "size": 22000,
+    "sha256": "1ef258872dc40c5e823ea643371444e890bd9add527978b1c64645ddeca6164e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FrailejonTrunk_Normal.dds",
+    "size": 43856,
+    "sha256": "01cb78a9cc4d565b8e8d3f1b658794ea520ab01eb82898cdbff917d771e116da"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Frailejon_RT_Flowers.spt",
+    "size": 16130,
+    "sha256": "c96f7b0db8de232e54fb950143f37db911d0e444466f1d775ebbb723392c59c6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFirBark.dds",
+    "size": 87568,
+    "sha256": "18d4114f6ee320f9f62e61f1ea8dbea0129a50bf302672e78c82ede7f05203ce"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFirBark_Normal.dds",
+    "size": 87568,
+    "sha256": "8c0391fc8b37715daa92aeb44f0c04cabba915654e72456e0aa491944c261884"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFirBark_Snow.dds",
+    "size": 87536,
+    "sha256": "3071ff2942e9b2b73779c059985748d5146d546d6cb7834f50fe89eec825b100"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow.spt",
+    "size": 15551,
+    "sha256": "f411c59e185835122339e80d36e2c5d372d33ccfb7c42b716b4c763233e57076"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow.txt",
+    "size": 752,
+    "sha256": "2b2958f378184b3384dd2a166acd89dcd7821a49bf7cce003b3caf7a1bb5bc50"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "8b54b167a8c0e67763c80a9ddf4af3d70bdf2b91893d7bc0a6a351c9b4267d4a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow_Diffuse_Billboards.dds",
+    "size": 174928,
+    "sha256": "29d1e372cd34e5744a67febd9603d4d0107a305bf4cccb3936cb3dec05d40517"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow_Normal.dds",
+    "size": 699192,
+    "sha256": "788d9f2e88b2d6f5099c3d17699ec973001f8d1c24e6d7b2ef454e48c61034b5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\FraserFir_RT_Snow_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "2b4d361a27b8bd72d3ce4fc8034e18121d8461cc06c97f11ff399b05c30c8c32"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GhostGumBark.dds",
+    "size": 87568,
+    "sha256": "69d0529361a4e1c32c8ac845949c4ef133b24f3f934b758e4552951ac1f65a7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GhostGumBark_Detail.dds",
+    "size": 43856,
+    "sha256": "62123ca3248d42288c7ef6dc69738209019d6fca637921c5c751526997d60801"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GhostGumBark_Normal.dds",
+    "size": 87568,
+    "sha256": "c3626b8fe1617aae23d02f99195e007725c0dad5cd0a650f5a0a8b76581f32b8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GhostGum_RT.spt",
+    "size": 17519,
+    "sha256": "f5ff2b6a912e75f1aaa6124f7581833a57cba145fb086120397e1c8bcfedc148"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantRedwoodBark.dds",
+    "size": 87568,
+    "sha256": "eb60ffb11aa0f58d7b1e7f7691a8a5a1f5587d0942fbbc21d315a9a37baf8960"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantRedwoodBark_Detail.dds",
+    "size": 43856,
+    "sha256": "8253c88eff7793c4b6e915a4b1621115041f052e6cd1287558fdb2d154bd8d75"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantRedwoodBark_Normal.dds",
+    "size": 87568,
+    "sha256": "56d9a1231315e133770a1e211322af85c55a1234b1effb245116b21f78af33f0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantSequoiaBark.dds",
+    "size": 87568,
+    "sha256": "e3835a43d54f7117375bbe90c981a78a0d99e5a4a72c08198dbe86d76178c9bb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantSequoiaBark_Detail.dds",
+    "size": 87536,
+    "sha256": "3dc4d3911be6e2c130f73a721e2d6362f75f3911831721230eb1a93dacd3a9f9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GiantSequoiaBark_Normal.dds",
+    "size": 87568,
+    "sha256": "8d2b3b350e11289883feddb7b3ebcf7b07494890c7b4f0ff1b5f2b03dd8631d6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GimletBark.dds",
+    "size": 87568,
+    "sha256": "d03104640027296472319c47ae84d918294c95acf6372cba62d68ee7aaabbdea"
+  },
+  {
+    "path": "resource\\Map\\Tree\\GimletBark_Normal.dds",
+    "size": 87568,
+    "sha256": "b156a11887e82d4dfa08bf0b06bfdc870628b8f5481c803ed69913fc1152b1f2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Gimlet_RT_Spring.spt",
+    "size": 15941,
+    "sha256": "86618a609cf92394333cb62ca9248493166f88cf568a2b233ed03e4c905eeca7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HalloweenOakBark.dds",
+    "size": 349712,
+    "sha256": "3962745985a6fc87da8f6e7b7973483f66a3f1647419018023e81c328840f840"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HalloweenOakBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "e5efe4b82c47fde513f7d9dcc2a647b543dc1a8c7234a8ea05fef1e5e4efc709"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HalloweenOak_RT.spt",
+    "size": 15744,
+    "sha256": "76ae034922da7ef10bef07e64d418f07b0e8e05e80301aa5140ae008e7402567"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HoneyMesquiteBark.dds",
+    "size": 22032,
+    "sha256": "6d10296dec1ccb280de3a30382c14236ec6c980ffb6c3209ad88ada04aac1782"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HoneyMesquiteBark_Normal.dds",
+    "size": 22032,
+    "sha256": "d82336bededcf67aa549f3cdd22097fa8f0e0c4c9aa3994cb2779926e6f9fab8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\HoneyMesquite_RT.spt",
+    "size": 17504,
+    "sha256": "0060215f28de6295d1a03a743021cbcc44f51a9310438739b8062079d4894946"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Horseweed_LD.spt",
+    "size": 12027,
+    "sha256": "67f0bb09095584ce84aac6bafe21131ee35d5e732f888d54fe398b13a9aab589"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ItalianCypressBark.dds",
+    "size": 349712,
+    "sha256": "f99b7d7933024f012d8e7120d4cd53b45c932472d56d510f69b193f478497e07"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ItalianCypressBark_Normal.dds",
+    "size": 349712,
+    "sha256": "4376307c168405dcd6f9fbcea89d78ee0edc0e9f553467a41bcc15008f48fe28"
+  },
+  {
+    "path": "resource\\Map\\Tree\\ItalianCypress_MD.spt",
+    "size": 13830,
+    "sha256": "2a7b2300b28bee4c2c18a5ee34e2b44ab1e873bb69b5fc96dc006a843ee1447a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\JoshuaTreeBark.dds",
+    "size": 22032,
+    "sha256": "44e6f13c2a4bdd1de5ee29c662f4587d641670535bc98746af7ab656efe41ce0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\JoshuaTreeBark_Detail.dds",
+    "size": 11088,
+    "sha256": "aca364968c5bde946cee7764418b030781e4bc0970d7d6a0a2c4629c63ecbb7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\JoshuaTreeBark_Normal.dds",
+    "size": 22032,
+    "sha256": "2a494829df66dbc1715baf6065ea5d26fb80134f937418df2dc755aa6b8d4fd9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\JoshuaTree_RT.spt",
+    "size": 20843,
+    "sha256": "22765ec19a4e37adfae3f6d3aaf3392bad619d1a065df503b0ad7a38d7641c86"
+  },
+  {
+    "path": "resource\\Map\\Tree\\KapokBark_Detail.dds",
+    "size": 43856,
+    "sha256": "4804ab5c6452957995832e6607aa759ccf1b08bd8fff451cda75a43e6db8cef1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Kapok_RT.spt",
+    "size": 21793,
+    "sha256": "71b99ff66b64509dbe38280d2a8b736b8c534e8bb25466359b776ebd05d9ba7c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Knapweed_RT.spt",
+    "size": 16631,
+    "sha256": "dabba66770993b624ea8ec9ba168e451db2f9e3f066452883336f47cd0e6dfad"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logib_Tree_001_Diffuse.dds",
+    "size": 2796368,
+    "sha256": "00f6a1b04106087d40953d29f2e7eaf20e4a6e386160a1a178d10dcbdb83fce0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logib_Tree_001_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "7524f44ce5573736ac11db14594fc88218ff0dbb6e01c501a8a537f1029d77c0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logib_Tree_001_Normal.dds",
+    "size": 1398248,
+    "sha256": "9555d984ad1e4cf6336ee35b061fa7293bb9290a5320eb677bcc0f09562c7701"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logib_Tree_001_Normal_Billboards.dds",
+    "size": 1398256,
+    "sha256": "9cb25c8afe9a12bd9e6d7e020379c05f3f68b0dccc926f3f3b04c9828c1a6cd8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logib_Tree_001_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "66300a929c17d7724a2085df3c94dbf6fd5c936b5fc17c26af2ee198d13a450c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - AmurCork_RT.spt",
+    "size": 16878,
+    "sha256": "c0b85c658f445c1cd151bed3daf3e11345e181156806aca8396051b88ea4c339"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - AzaliaPatch_LD.spt",
+    "size": 18098,
+    "sha256": "e1fdc41116d6d5804b55ef4bb9327c9c48f35d7e1d24ec32f8b4ff70cff77e5e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - BroomSnakeWeedCluster_LD.spt",
+    "size": 16933,
+    "sha256": "57ec455467ed1ab710da04aa52a82b12e0ba6680f7edb6a799a73c0051bc03df"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - CommonOlive_RT.spt",
+    "size": 21041,
+    "sha256": "895d11eeb1c4d6dc43df4a5b6002143bce5506342cc426f6d08a2a14b9ac9c82"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - Crape_Myrtle_RT.spt",
+    "size": 27476,
+    "sha256": "f600b07ee17ec5ddbff9661fcb1f566f1eb38c03acd03026f6c7f81fdf88c25c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - ElmStocky_RT.spt",
+    "size": 17165,
+    "sha256": "c12014dadd16408c3ca9277379c39ebffc698925cde00e09a9da2339d33ab57d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - Kapok_RT.spt",
+    "size": 22113,
+    "sha256": "b17d0d5840673b3932b2e6aa5c7c9b5fd6a90316c8921110f4accffeb8490814"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - MulgaBark.dds",
+    "size": 1398288,
+    "sha256": "1c4bcdafd7bd0dacc82abd06088679e5676fcbd4f83f0f33f4f43bd4410d07af"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - MulgaBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "87271f2b436ea5d735163f6264a75d9ecb07e91714299d9c2d47609ffbee4c5e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - Sagebrush_RT.spt",
+    "size": 14427,
+    "sha256": "e10e32e6b608cdac78b895357538410937a1f084a92b5b04198cf3a74d8baacc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login - Thicket_LD.spt",
+    "size": 14044,
+    "sha256": "8e387cf55bca69626879e58007a41027188eabcd632d8b8a2f0919151a49b168"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login- HoneyMesquite_RT.spt",
+    "size": 17456,
+    "sha256": "945377f378460d7058a36b933fa59c04d5dcd5924d21d9b39416eed2629cc696"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login- Sycamore_RT.spt",
+    "size": 17549,
+    "sha256": "1dc03619b6be15b3572ffc3c3999dbaf80940a25e7a0feae13b5c62e45c85675"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login.stp",
+    "size": 17,
+    "sha256": "f0a3b57a9e0d09d0c020585a0d09a46bdb674dbb88f4b0c29dc22122b0a4502d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login.ten",
+    "size": 17,
+    "sha256": "03e1da380d33aad4656671941b35386615969e435054e7d3d346deb58c0617e5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login01_Diffuse.dds",
+    "size": 699216,
+    "sha256": "d34cf2d4e8e9cc59b4a48fa7666a6722638e42eb259f793232302bbd29ffda9e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login01_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "ab235e0f962dac25e29d3f782144bf4f78bad5bbd19ceff552efaa3c670ed1a4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login01_Normal.dds",
+    "size": 349672,
+    "sha256": "66d17519763993f325afa7a201f973754ef2eead1d3d851d5e6c4b8babb5893c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login01_Self-Shadows.dds",
+    "size": 11064,
+    "sha256": "5eeb170994f28ddc50f313cbd0597c0217f15a15980cccd7c0298092abcd3a4d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login02_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "19480f71ef94c85ce0ecd6b8391ec224becaeff5012e4524537ea6996e46aaee"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login02_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "65ac65ec7bfe0677bc8c79203e7e1806dc77bc515f15dd888a598b255ee08d6c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login02_Normal.dds",
+    "size": 699192,
+    "sha256": "3b90ea097a32b2f7135a337e1fbf152134bfbcc4fddf9a3aea4fad20f06e0449"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login02_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "ab7dd980c1eef079c09fd5c91c10fa5eb177d96e7f451df9bdd4dde5b312ac33"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login03_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "2ab68c0f42c1b315212ef58cf76b2acb53be293cef0cfbc403a80e53bec68be2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login03_Diffuse_Billboards.dds",
+    "size": 699216,
+    "sha256": "2c5122928e750ef0019e8a986756f5d69e3eb5877808286c3fa3c848d13f284b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login03_Normal.dds",
+    "size": 699192,
+    "sha256": "2b604259a78d8dced3e7cf4657710f37e12857890486f8a014bc15415d4f6bf0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login03_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "63e101765a1be704ef253df78262e7767f3c38b26da1dc5e1235b5c789377fec"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Logink_Tree_001_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "f0a4e10206913b57f7d809f0cf4d24cac35b9ddaca44ff2ab234d5b6d14fc751"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_001_Diffuse.dds",
+    "size": 349680,
+    "sha256": "d321a8555ddbb24bb2d983214cc60fbcb298d9360c4f24ef95135c8173d1253f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_001_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "885b865d86a97c2e91cfe18f53399212b6279996f42a253476f5049ae15b63d3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_001_Normal.dds",
+    "size": 174904,
+    "sha256": "daea286293457e9a37156f708b65783576cae2571660b31ba65cc9ad724df11b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_001_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "dddb8dac810b41d991e0a655ead084d73d9b82998ba3790a9284f23ada4cc0b1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_002_Diffuse.dds",
+    "size": 699216,
+    "sha256": "f80c476cca5eab39b095cb659018a1a873647e745b89fe81a5473163030d8eb5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_002_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "b7e0cef47d5c8656a4150f8b445952bbaa900856c17cde38d145112e0673f33a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_002_Normal.dds",
+    "size": 349672,
+    "sha256": "bc6589497a00a1293f1b1ecf329ab28d7e6d2e718242d3648b79bb1352df492d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_002_Self-Shadows.dds",
+    "size": 21992,
+    "sha256": "ff758167cab1a571a3364db0845fb9107807f279aa4e5cb6d05b5c16cdc49123"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_003_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "403cc601062db0db62eb09040da3259a184badfb05d91422435108933146f240"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_003_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "d423946fb301757abf6224c33e839249e494900cc22ef3164de0bb225ad668b0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_003_Normal.dds",
+    "size": 699192,
+    "sha256": "95aa11cf2af4df60bdec21ae500307ad75614d9933d66ae358b3617af9f3a427"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_CaliforniaBuckeye_RT.spt",
+    "size": 17613,
+    "sha256": "e58b92f76dabb95a97c65ba2e17c01aac0dd82c47939e75cbd88d9057fd654c7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_ExtraTerrestrial_RT.spt",
+    "size": 20087,
+    "sha256": "ccdde25d18b619d2d9b0154cea5afee092ac817983d88f58007cda3d843637b3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_FallenBurntTree_MD.spt",
+    "size": 19066,
+    "sha256": "89f2fd44af503a43af2e4d358305e7c21644a2597e03aeb648c80675991b560a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_FalseSpireaPlant_MD_Flower.spt",
+    "size": 19838,
+    "sha256": "e4d383def2909fd235c5e794e172335256d966bef7d42cfcf853f72b71a1ebe5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_Marigold_MD.spt",
+    "size": 34431,
+    "sha256": "d6ffd16fc9a734a58ead69df81b6e36eefdbae3d715754176f5960e0b97f968b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_MountainMahogany_MD.spt",
+    "size": 17516,
+    "sha256": "8662f100dbd3a6aad23ba9663a3dd5149bf8e4ee0f0882695d30ac18624bb093"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_MountainMahogany_MD_Shrub.spt",
+    "size": 18988,
+    "sha256": "3cc13db67ec1032c9450f0eb58d87eb127283909a3942c813c36b9907132aa91"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Mulga_MD.spt",
+    "size": 18178,
+    "sha256": "fae6405f2e64ad6435ef663f06370a1bab97c67d8be234867a691e8b21450951"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Mulga_MD_Flowers.spt",
+    "size": 18184,
+    "sha256": "8928231d4b3f4e16d418220ab8e84874f0ed817da086d9849d5cea32ee3355e6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_RedYucca_MD.spt",
+    "size": 23646,
+    "sha256": "18b053d632fff6bfccc0107b7cac8e9c4802feeafe43bc0355f4202d5eaab7e3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\login_Stump_RT.spt",
+    "size": 11369,
+    "sha256": "29334e2714ea1efc238516ef67af4c45762de12f8361d58512b3ab6a173d4acf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Tree_001_Diffuse.dds",
+    "size": 349680,
+    "sha256": "c58bd46e1ec75e84e2b9b40a105935911d5f2240283a469ba79bd9aa6a8af665"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Tree_001_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "fd9209486c800ca0261cc13cfdaf9547c064fda7aa5419de1c5f809161daa184"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Tree_001_Normal.dds",
+    "size": 174904,
+    "sha256": "0a8ddda887996648cd2b51cbef72725b1019d1ddc61631870698da30485fa50e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Login_Tree_001_Self-Shadows.dds",
+    "size": 87528,
+    "sha256": "6294ed3b561ca343d52c32f211730ea4b72782bf54a10f152d16545828f6d9f6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MarigoldSkin.dds",
+    "size": 43920,
+    "sha256": "2889b640ae13d8bf6e5e6eaa1ac4eb6cb436295da51119f53f1b28e7a916c7da"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MarigoldSkin_Normal.dds",
+    "size": 43920,
+    "sha256": "be076c6ca6395007bf1ad7003bdee14a5c80ea4f602fce525c24b64f89a5a931"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Marigold_LD.spt",
+    "size": 14149,
+    "sha256": "27cfe2770ca96f06f5a96246b3ae853864167265b1419d2671a32c749b6f5d28"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MontereyCypressBark.dds",
+    "size": 87568,
+    "sha256": "dbbe820c841d4121d431ca629593cad89c8468532307d782dea643a2e00b2a32"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MontereyCypressBark_Normal.dds",
+    "size": 87568,
+    "sha256": "7998d37c9ae112a2327287c682a1a80efbdd60c75505912b8fe7bb9acd20ddfe"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MorningGlory_RT.spt",
+    "size": 14203,
+    "sha256": "16cef60917d07354524564bfbb19e1abca90214edfe52470849dd7e2a9f35ea6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MountainMahoganyBark.dds",
+    "size": 87568,
+    "sha256": "b9f13a08dae06e04c016d0dc3f6d61c052a78259453e0185d49ce8155fb047a6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MountainMahoganyBark_Normal.dds",
+    "size": 87568,
+    "sha256": "ff4f77adac01a9b330bee0cc1d5de510059d2279781fe71f4a61accc00a7fb1d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MulgaBark.dds",
+    "size": 87568,
+    "sha256": "ac48a2a617c5935da9e74631297b8f6ec458063784bf1984ca6dac9609619359"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MulgaBark_Normal.dds",
+    "size": 87568,
+    "sha256": "176a344874fff705336b592632dade761fdb28397aa17e82e5b3ab967644b6dd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Mulga_RT_Flowers.spt",
+    "size": 16630,
+    "sha256": "d18155af3fb9ef6f04fbcce89a9981aed65bc4a119226ba760d7a79e3e9ccaaa"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MushroomSkin.dds",
+    "size": 174928,
+    "sha256": "658befbd76bb77f14dbc6159a79719e1d36ce9b8dabdf00369033031ed8e2e4d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\MushroomSkin_Normal.dds",
+    "size": 87568,
+    "sha256": "bbdac7ae634f6ffe5db61a917e137c48c8f1a7de5f60a0b01680c3864a96ec44"
+  },
+  {
+    "path": "resource\\Map\\Tree\\NorwaySpruceBark.dds",
+    "size": 87568,
+    "sha256": "0c5b5253c109bd313d8f3963e518a278299a98a59f5075adbc1edc7c8d963f80"
+  },
+  {
+    "path": "resource\\Map\\Tree\\NorwaySpruceBark_Detail.dds",
+    "size": 43920,
+    "sha256": "20e425853783ed0bfe937087665d5f1ed008ea07c8e0750d941409f3bb989bf6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\NorwaySpruceBark_Normal.dds",
+    "size": 87568,
+    "sha256": "98834444dee2d567e55423594fa8dbdd566b7339f80a781c58ce376c184afe60"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Ocotillo_LD_Flowers.spt",
+    "size": 13121,
+    "sha256": "53d67aa36f6a8a5ffc70617dc8025264fdba05b4cf7d26e1293923704cef9a4d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PampasGrass_LD.spt",
+    "size": 16100,
+    "sha256": "62d11c254580c643d63749738ec4328cdd07d4356dbe44fdc6c0abdfa45f82a0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - AmurCork_RT.spt",
+    "size": 16884,
+    "sha256": "ed45a5e04f4c05a6ba288f972668318f4569caea5459a6e3952d80960e59efd5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - AzaliaPatch_LD.spt",
+    "size": 18070,
+    "sha256": "d14a6cf03dbe350103250b80faee5fb549aa529c2c8ed9b4285667aa077554dd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - BroomSnakeWeedCluster_LD.spt",
+    "size": 16905,
+    "sha256": "466a0704a40f71fb0e20fe0077f3c60fbdf4896cc8663b196a262b02613dcaa7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - CommonOlive_RT.spt",
+    "size": 21047,
+    "sha256": "21eb24ac4337ba98946bd47edb4ff525a8afe8b971e654697772de3df64a4ede"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - Crape_Myrtle_RT.spt",
+    "size": 27482,
+    "sha256": "1bdf785fb59151900bcd60a626b6c0b640e28727315f853e27ade73e8cd0a6aa"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - ElmStocky_RT.spt",
+    "size": 17171,
+    "sha256": "6e5ca0cc8d4e4e149491ff240eb5307f1058350b6d1e53b4542882c1ddfc30ff"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - HoneyMesquite_RT.spt",
+    "size": 17462,
+    "sha256": "9c9b45316c1b810c0c14f87d76739ada7a6d5632bb3f58544813d02260a2a458"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - Kapok_RT.spt",
+    "size": 21805,
+    "sha256": "8e2c7b960929a00914475b699979aa8979e9405b9f2b2f68806040c68731cb14"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - Sagebrush_RT.spt",
+    "size": 14427,
+    "sha256": "e10e32e6b608cdac78b895357538410937a1f084a92b5b04198cf3a74d8baacc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - Sycamore_RT.spt",
+    "size": 17555,
+    "sha256": "643f4792725ee799ed8bfa157df49ea08e27c1a2a01f24a7f262920000f1fa44"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok - Thicket_LD.spt",
+    "size": 14016,
+    "sha256": "0b59d4a1d5ab73e59c81298dc3274640ebb7cb064d9665aecc2b6c5c210a6bd7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_PlantDiffuse_001.txt",
+    "size": 140,
+    "sha256": "91d275809cc3edbb14160625c2c47a024f4eeb9ae92685dcb3a86080232be155"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_PlantDiffuse_001_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "85861158fa751e868bc316eb23b088f3beaad1e256a42081a38565a215a61a60"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_PlantDiffuse_001_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "2b510ca953333875e1c9761b01a4872e42002c3d6d8681651e3b601553ab8d4e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_PlantDiffuse_001_Normal.dds",
+    "size": 699192,
+    "sha256": "d4309c817318c2a1688a415763d4bba72fde3be9ad7efa524d77f374cdcf8303"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_PlantDiffuse_001_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "8c0e69f973a952ce0d2e8fa5e385ccb9d78a2a60067ec67bc2e1879d8fb81da0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_001.txt",
+    "size": 90,
+    "sha256": "b7688c9fcb71f9f5c0357129e6d1be61bdfcc617f45c1ad4f9eb6a6242be4a77"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_001_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "4c822c2bf854f37af1d91c7cadd6ebeb6dda5124286dc897293d3fd675c32470"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_001_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "e7f85224b8afffb7e27e69baefb078c50e2389b3ffd672c3460ef64a959e3019"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_001_Normal.dds",
+    "size": 699192,
+    "sha256": "096cf42c05a2a67546a0441dd8595c884f5903fae59e65a03f611fbb2f3df700"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_001_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "698353120b52f6e1e9a56b07fab1af7eda95e16d8d495fcd62b3a61689d6a98f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_002.txt",
+    "size": 77,
+    "sha256": "13d29e30e308f7b5d84e4eb4ba1266f70e76556f096b5645d283e9480e2be0aa"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_002_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "0b35a72b248fa5727e4aa39f5b5e40ba08c81b111b32207105cf0fb9a30b0b33"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_002_Diffuse_Billboards.dds",
+    "size": 1398256,
+    "sha256": "197891cebac651f886dff3c6fd5b9e2403d637d3c7e3de4ca80d718ca8274376"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_002_Normal.dds",
+    "size": 699192,
+    "sha256": "67b6f1cdadb5885f1c663dc1400b3edfe4f18f9af7af2ad2fe76e0ee94446b83"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_TreeDiffuse_002_Self-Shadows.dds",
+    "size": 174904,
+    "sha256": "5190bff3c686af8f74815309e5da8fc315d616d2120ec12408031d9f32c35f75"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_Tree_001_Diffuse.dds",
+    "size": 349680,
+    "sha256": "c58bd46e1ec75e84e2b9b40a105935911d5f2240283a469ba79bd9aa6a8af665"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_Tree_001_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "fd9209486c800ca0261cc13cfdaf9547c064fda7aa5419de1c5f809161daa184"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_Tree_001_Normal.dds",
+    "size": 174904,
+    "sha256": "0a8ddda887996648cd2b51cbef72725b1019d1ddc61631870698da30485fa50e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_Tree_001_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "f0a4e10206913b57f7d809f0cf4d24cac35b9ddaca44ff2ab234d5b6d14fc751"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Peltrok_Tree_001_Self-Shadows.dds",
+    "size": 87528,
+    "sha256": "6294ed3b561ca343d52c32f211730ea4b72782bf54a10f152d16545828f6d9f6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PeppermintBark.dds",
+    "size": 87568,
+    "sha256": "b362e1ab44e0acb193042c316d841c8b63531ca79060f0200f5c0ca12b34cadb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PeppermintBark_Normal.dds",
+    "size": 87568,
+    "sha256": "938f61cc87a339dbfd5f3046000a5ee4e93330a29e478d983470a90a015fc03e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PeppermintTree_RT.spt",
+    "size": 18786,
+    "sha256": "a530d8a7f09deaa650d442a60742a63d975274b66baa94089d3364943baebb61"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PistachioTreeBark.dds",
+    "size": 87568,
+    "sha256": "3c8090f5f3f3d5002db04982b62057bef100fbace06f7f33a32c5279d39bbbcf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PistachioTreeBark_Normal.dds",
+    "size": 87568,
+    "sha256": "48475f3d5fc6f3fbe7ac2dad042a128fab1ff472cdd8a596b9b747afd905b2a2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PistachioTree_RT_Nuts.spt",
+    "size": 16974,
+    "sha256": "9f4285f5108c545ef9833af407279dd10be1b90214728e3dc9409515553ad8d9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Plant_001.spt",
+    "size": 11783,
+    "sha256": "ce2fec3700bc15c248aac4e4e3299d16d33fd8d3340ada3a735522d2c1b21148"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PonytailPalmBark.dds",
+    "size": 87568,
+    "sha256": "038e47b841bb37452c45d8cfacc6091a8e9dc29c07f032176eae494889c1615d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PonytailPalmBark_Detail.dds",
+    "size": 43856,
+    "sha256": "3b0a1d6d7613e0e4b101d5c98e920920812c46ac7aad3c7b8d6ee430da15ac02"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PonytailPalmBark_Normal.dds",
+    "size": 87568,
+    "sha256": "b86d8ef02e7f512cf4df7ad1ffe7fcd5e4431178f83665e092b760315d0e5731"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PonytailPalm_RT.spt",
+    "size": 16180,
+    "sha256": "ed4c7e513ccaf2c9ea8287403f161ddde86000ccbbd49e3dc2269dbe82f0ae05"
+  },
+  {
+    "path": "resource\\Map\\Tree\\PricklyPearCactus_LD.spt",
+    "size": 18615,
+    "sha256": "63415cf6605b040b442d4a130853f8693faf4a23a76cafe1e8c6580c303bee7b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RedRoseBush_LD.spt",
+    "size": 15844,
+    "sha256": "e8f2e66fb7155536aa9de1e9ce776fd171855c79b6bfa26748a174e7857f044b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RedYuccaStalk.dds",
+    "size": 43920,
+    "sha256": "6d2555f49833a30930cc526d1d4b421348c01fdff88b88c491ca1f837d9bc37f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RedYuccaStalk_Normal.dds",
+    "size": 43920,
+    "sha256": "8fcd1383c8a8223f3f0b6df1981e1fc95660c6cf30895caf85b038b13b11d604"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RedYucca_RT.spt",
+    "size": 23466,
+    "sha256": "b7ef0ec4fbc3e160622799d6921bf0e0e5487e59417757d488e927240a887df9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\ExplosionLocalWind.ini",
+    "size": 331,
+    "sha256": "c35b84670654f2705f6d6de8ec71f5ca4b93eeb93e90429b41279254779d0b99"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\FootstepLocalWind.ini",
+    "size": 339,
+    "sha256": "0f3285e37adf0064254da1470329e3d7bc95c6325f90fa46f46ac3156363406c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\GeneralWind.ini",
+    "size": 329,
+    "sha256": "4292c9ccf1a6cbd177bc8447d320fc4bb09bbf3d7fff6de193b32ad022d6035d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\Ground.dds",
+    "size": 1398256,
+    "sha256": "7179885cf390662f854c4c110b5cba6c3481ee033f0fbab6ed0591a905110f9e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\LocalWindEffect.dds",
+    "size": 349680,
+    "sha256": "0adc70dba605e39fa323132b904e4273ef0da7ca1b1518eb2c3dc7654f773a35"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Res\\SteadyLocalWind.ini",
+    "size": 329,
+    "sha256": "526324644e508131adb4baf8044aed178e4a80b185c90aab544463f98eb96d51"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RoseBushStem.dds",
+    "size": 11152,
+    "sha256": "a32cead0129ae9695f01c146993852afb5bd836ff64ee7cda7ee5d71ad65c208"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RoseBushStem_Normal.dds",
+    "size": 11152,
+    "sha256": "ac4f272615de5727849fb65ae2455985031074ed9940f310f428461708d739f2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\RoseBushThorn.dds",
+    "size": 22000,
+    "sha256": "c079688586848d28d4f596a948aa11c87d0c25688be9bbf9d782cea5bdc7a896"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Sagebrush_RT.spt",
+    "size": 14399,
+    "sha256": "02398bde863a42403c6235e713b70eb324f97e50bffb718069586ef90bc25d5d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SagoPalmBark.dds",
+    "size": 174928,
+    "sha256": "0c0c942b3fc4cb4a3d133d2f882b804059db470423ff652c968fd04ef0ffe385"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SagoPalmBark_Detail.dds",
+    "size": 43856,
+    "sha256": "d601097eeff191791c316fcc673e6cc1e799cc4d0b19749fa3414366d2c35736"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SagoPalmBark_Normal.dds",
+    "size": 174928,
+    "sha256": "345b46851c2f011ab43fa85bb70d0765665c373c7da96dbce2b7aba9cb7b72d3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SagoPalmCluster_Ground.spt",
+    "size": 25911,
+    "sha256": "1b851317539cbc211f4b9946aa3a1d614ec38227f81fc213a47f8b16f75e67da"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SagoPalm_RT.spt",
+    "size": 21987,
+    "sha256": "48777d7a699eef57341607dae8724d1e605692c83ee7891abde2f011dbf7295a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactusG_RT.spt",
+    "size": 13442,
+    "sha256": "f3171081570eaffa5ee0236c23ddaf451d9edd6ebb8f039ceb8badc28119abcf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactusG_Skin.dds",
+    "size": 349680,
+    "sha256": "ee98151c8064bfe7ea7a137648da817f44ad4021bf2fba2b7ac09ac9005257f3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactusG_Skin_Normal.dds",
+    "size": 349680,
+    "sha256": "ced432f1b9e70c86b074a12203b27e57186ce8fb0857fcde16e3cf39eac08b5a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactus_RT.spt",
+    "size": 13439,
+    "sha256": "9f9b0e8dfb239d8a2b96445d294b5885b71c82a2ad6a872e07f32f4bd3812bf0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactus_Skin.dds",
+    "size": 349680,
+    "sha256": "37b234cd05f1961f6984c61d12151633b9dabd953b328a5877adb70438d7b059"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SaguaroCactus_Skin_Normal.dds",
+    "size": 349680,
+    "sha256": "ced432f1b9e70c86b074a12203b27e57186ce8fb0857fcde16e3cf39eac08b5a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Billboard.fx",
+    "size": 24105,
+    "sha256": "b265d639aa32fa9878d2896fcffdbc00436f3da4f6e089d304f2b87f536babed"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Branch.fx",
+    "size": 11927,
+    "sha256": "3b6025cc8066450ef29cf50faf6cf1a9700e356d78b505ef64a0c751c6f5adea"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\CompileCommands.fx",
+    "size": 1813,
+    "sha256": "0b0bbef90e7fa7f2b762544f400bf2bbe49c35e708ef631314a904a099affee8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Compile_Shaders.bat",
+    "size": 10663,
+    "sha256": "21fdcdce3b3bf623acc46d6b6b8e32ee1b83300f36b1d2730108c7dd34a11133"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Environment.fx",
+    "size": 6499,
+    "sha256": "57e026ce14c978ce3848372679a83f0d36977679687e9a392764bbbd8a0a41a5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Frond.fx",
+    "size": 9674,
+    "sha256": "cbec56bd69708afb24e61fda861888e2d4a354aa80b3a3e18e63b310cac18867"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Leaf.fx",
+    "size": 20245,
+    "sha256": "d90ede8a5f35e6473407604eb39195743e1470187926969d96a343fa295a2a91"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Overlay.fx",
+    "size": 2014,
+    "sha256": "11ec909c056cd9c03b9bfb90278c04db7cab3ab647e2e7a1aaee649ebc898148"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\SpeedTree.fx",
+    "size": 12285,
+    "sha256": "36e24c16f25b35b033d77cc020af86bce86b5d005e16caef6ffcbb9bc6e1c894"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Shaders\\Utility.fx",
+    "size": 12803,
+    "sha256": "9b907c26d6be82b9d46f4e8305aead10b8510583026afd288e23fea2e15c8152"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SpeedRock_RT_Grass.spt",
+    "size": 73963,
+    "sha256": "c4517d3b2475c30b88a4e17a8e3ab0a00a8935e9c3aa2033ceb8d512e2212778"
+  },
+  {
+    "path": "resource\\Map\\Tree\\StumpBark.dds",
+    "size": 87568,
+    "sha256": "e8ebbe9f68f7dc92a384cb0653ab675cc7b1d28af692464e62a3b7c462166e25"
+  },
+  {
+    "path": "resource\\Map\\Tree\\StumpBark_Detail.dds",
+    "size": 174928,
+    "sha256": "89b29881bcc1b88c2a12086f95d58d71c0b3c4054fe22484aabe9cab28b089a4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\StumpBark_Normal.dds",
+    "size": 87568,
+    "sha256": "f4369304a0226cb8bf33c2f0615e8707bc26b40b247f586a0088e7d6ebf4bf14"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SycamoreBark.dds",
+    "size": 22032,
+    "sha256": "4dbf63d896544997ea002defb76a74c01d1715e30a12fe576101256a38b8d7c2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\SycamoreBark_Normal.dds",
+    "size": 22032,
+    "sha256": "16ff7eda3a3aabf7242efdf32f912b930f80d6cddc3c265439be968909062ad9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Sycamore_RT.spt",
+    "size": 17549,
+    "sha256": "7df840f34b87585ca2c53ea10e96549b315cf1edd86562bce34815a78a55446e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_01_Diffuse.txt",
+    "size": 2084,
+    "sha256": "066f6a238ca7180c5d913a7cabefd1e2a3381b73ba6cdd6d7e21c1960313a4f1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_01_Diffuse_Diffuse.dds",
+    "size": 349680,
+    "sha256": "160fd4085bf2420ea6a63881e9dec346bb66e8474228d1582daba671947a9d4a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "693a76f35e4a6fd9de0d3c338a47a71a4c041d7d9c0822662dd033164ad8a22a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_01_Diffuse_Normal.dds",
+    "size": 174904,
+    "sha256": "6b3582cfd05ba8eb03e925ef0ca34b2d51b94d5891ec96abb02fe47cc09435b9"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_01_Diffuse_Self-Shadows.dds",
+    "size": 43832,
+    "sha256": "5a8e5322e66e8c38637aaf89994a7978971c13ac4da525d3f827be33c310c114"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_02_Diffuse.txt",
+    "size": 639,
+    "sha256": "22d0e211a6e72bfa9e6c00836b98578d7b412952d1af3498e75e237db3cbbcaf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_02_Diffuse_Diffuse.dds",
+    "size": 174928,
+    "sha256": "aae110ee8feeb62c94a64d1ba7a2dc6aeedfcd775fff78bbae8800d7fe57bf3a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_02_Diffuse_Diffuse_Billboards.dds",
+    "size": 43856,
+    "sha256": "2731dd65fbd4ea2b8629f9eb7f4f6b0b433bf44e731eddb76f5a00a87d469766"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Plant_02_Diffuse_Normal.dds",
+    "size": 87528,
+    "sha256": "0c7735de9ad2252367fd242a19610c3340b48cd28ecc9defd0653330ddc86927"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Tree_01_Diffuse.txt",
+    "size": 2237,
+    "sha256": "7af6b9fc4f6cd7c9f5bd8d5763681a89b29db4b711afa970aa310ee70ee1abad"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Tree_01_Diffuse_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "19521cdf08a3a7747cf858990bd2db400df985c4af0000e97e5f228b2679bf03"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Tree_01_Diffuse_Diffuse_Billboards.dds",
+    "size": 349680,
+    "sha256": "4d44bd8c08ba7ea8b17027fcd7dbc0c13788bfc75e1ffd9d39aa09c670cb377e"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Tree_01_Diffuse_Normal.dds",
+    "size": 699192,
+    "sha256": "1eb63c81c8979e6f99005f8911bf4d43210543290e0efe055e0d00c6a10f6110"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Tempteroon_Tree_01_Diffuse_Self-Shadows.dds",
+    "size": 87528,
+    "sha256": "71e9590998db815e84f2b354b4273958a9deb257cf2ed65d090d506be70f20cb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Thicket_Black.spt",
+    "size": 13726,
+    "sha256": "ebcbb89691170ae82fe52e9e0f1ccbfd85f4c4fa2c5003fa3ef19cdd88fbafa2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Thicket_LD.spt",
+    "size": 14004,
+    "sha256": "f93e1fe17aa9abba4991ec0a6c8f540a0a6b9af330977e0ed464aa90641bb7e6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\Thicket_LD_Winter.spt",
+    "size": 13733,
+    "sha256": "ced0c8006a22693c8f0127c0c2c92f74e04e080a8dbf6dc0256b93175e8682cf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TomatoPlantSkin.dds",
+    "size": 11152,
+    "sha256": "f85c77245ce6801812dd98185b7005d06bc30e99d5993c606f74e56747a7bcb0"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TomatoPlantSkin_Normal.dds",
+    "size": 11152,
+    "sha256": "53ac050153e5372dd4e6e8d78835312210cd60ba185a4a2bf71e594e164b43a4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TomatoPlant_RT.spt",
+    "size": 14264,
+    "sha256": "427300bca445a1f2aed90efdb8d1ada7417384d3592cdfae9d851f8129d98720"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\BirchBark.dds",
+    "size": 349712,
+    "sha256": "d0f0817c782ba3910f1f1d50f3ab3e915c689b4dc551d919966f3d5f1f9ae5ea"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\BirchBark_Detail.dds",
+    "size": 174928,
+    "sha256": "ee979e6dd680722b6fbf117f4be23944689470ca66639f11c8cff34fb8bbff0c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\BirchBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "94d77893d7de47a0456fe1e1eb6c62b45bcf40891421da2ddf14f7b12e74fe15"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birches_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "64a3c9a0cebc5c00d461c472dbea1230267de5be27a61c684271eedb8bd8bb2a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birches_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "34a3e96fc5037d9523f00a253f93533605d2987344008bb7622362c0e9e1142d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birches_Normal.dds",
+    "size": 699192,
+    "sha256": "7da0992a0ade31a8e43eb075e4a5e2559730db57a9123edf2d089af3202f26bf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birches_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "eb89af8f61d03110ded6b93df05cc5b9ff540404c41e42b20e9d615dd9c18760"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birches_Self-Shadows.dds",
+    "size": 699192,
+    "sha256": "c87e786024871af919daf7b5ee2088452d518cb0ec92d7440843f54fbce36ae4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birch_RT.spt",
+    "size": 16960,
+    "sha256": "119a467171f43f86f344f028cef047060c3e4792f7284d5cf53c3dead3386506"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birch_RT_Cluster.spt",
+    "size": 21620,
+    "sha256": "e9c8a59c9b25c803f9b74ce191c9fe70517af237c886e7a32413b8c498a81b3a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birch_RT_Dead.spt",
+    "size": 12444,
+    "sha256": "e77b3adcc478dcd378ca66f4f5139d73f99d7ef69175426e0a120d8fa4185954"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\Birch_RT_Tall.spt",
+    "size": 16934,
+    "sha256": "972c9cdd1c4f89b4b3bf7f479b01bdb3a2b023f95a9629a0bdb968c3133d7f55"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\ExplosionLocalWind.ini",
+    "size": 331,
+    "sha256": "c35b84670654f2705f6d6de8ec71f5ca4b93eeb93e90429b41279254779d0b99"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\FootstepLocalWind.ini",
+    "size": 339,
+    "sha256": "0f3285e37adf0064254da1470329e3d7bc95c6325f90fa46f46ac3156363406c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\GeneralWind.ini",
+    "size": 325,
+    "sha256": "983bbf89615c8897756bce72e39dfb20035b8125a143fe8cd7ba5398c4d5bba6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\GrayBirchBark.dds",
+    "size": 349712,
+    "sha256": "926d9369bdab2799339ad22ed69be376b4ebb2eeec1ed25cdce759d2fa249fd7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\GrayBirchBark_Normal.dds",
+    "size": 349712,
+    "sha256": "afb5aeee8d2a0af0e9587317523910b33a5a5d281c55223707ad75ca32b1069a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\GrayBirch_RT.spt",
+    "size": 16781,
+    "sha256": "03a4e480ac7ab79cf31080df00c62c408622ff7558c85e20bdadfb04f6224328"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.BirchForest\\SteadyLocalWind.ini",
+    "size": 329,
+    "sha256": "526324644e508131adb4baf8044aed178e4a80b185c90aab544463f98eb96d51"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\AlaskaCedarBark.dds",
+    "size": 1398288,
+    "sha256": "e4936bba455bb5ba4a36706acdd458694e1e594504f45430799d341d141a64cf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\AlaskaCedarBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "2e3fd9eb57f418185151f416cbbb92e1f0690849dec605cd787baa8d3188a70d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\AlaskaCedar_RT.spt",
+    "size": 16041,
+    "sha256": "631bd847e18a9511602aef19ef9ad2f3ef08bbcb23022c39acfcdc877419cf42"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\AlaskaCedar_RT_GeneralWind.ini",
+    "size": 324,
+    "sha256": "047a16602b4b76e81827560577b225a481fed912c99943f192af322e5884a908"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\BarkMoss_Detail.dds",
+    "size": 699216,
+    "sha256": "32f56b189dc1109b7ae119ab2cd114149ffd6c159c1f16a46b91bf270f90f572"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\BarkMoss_LongDetail.dds",
+    "size": 349680,
+    "sha256": "cc85c6eadd20b352f272eb2eb19f34a7fb1db6d6f43172ef3c0622d868ef1499"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\BigLeafMapleBark.dds",
+    "size": 1398288,
+    "sha256": "fd9b8f7fd7b0b30f7bfb364ac8a5d443820c7b97ee817ae3951f3f250a5689f8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\BigLeafMapleBark_Normal.dds",
+    "size": 699208,
+    "sha256": "c9a74d556b11862b53ac4ee85d0c3cf17fcad40fba275d3b84845361b35135f6"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\BogTower_RT.spt",
+    "size": 30604,
+    "sha256": "db7cf1739d397ffcb5a5d44dd536287d36eb610c3da30e2ce79cc6da0917a5cd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\CommonMushroomSkin.dds",
+    "size": 349712,
+    "sha256": "4171c883f624ea64c5113c492d2d50b725eccf7f78d0b2ed200a163b1b29129b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\CommonMushroomSkin_Normal.dds",
+    "size": 174920,
+    "sha256": "7bfcb1d7e82b776cabd5dd16a06fed84aeccc6dd8b5194b07175a8065466d4f1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\ExplosionLocalWind.ini",
+    "size": 331,
+    "sha256": "c35b84670654f2705f6d6de8ec71f5ca4b93eeb93e90429b41279254779d0b99"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\FallenTree_RT.spt",
+    "size": 29281,
+    "sha256": "8e1a96d30be4a2b2f6a848129c0b4eb5477b99340665a5383f36f7115f6f4841"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\FootstepLocalWind.ini",
+    "size": 339,
+    "sha256": "0f3285e37adf0064254da1470329e3d7bc95c6325f90fa46f46ac3156363406c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GeneralWind.ini",
+    "size": 329,
+    "sha256": "4292c9ccf1a6cbd177bc8447d320fc4bb09bbf3d7fff6de193b32ad022d6035d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwoodBark.dds",
+    "size": 1398288,
+    "sha256": "8e2e1aa9196005ff106c1067e912968601517e0278335d74fb6bc4bec6471219"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwoodBark_Normal.dds",
+    "size": 699208,
+    "sha256": "2b2703dcfc463f67cb3242efb1b80d3ab65eea1673dba83b4ff9387867218472"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwood_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "14a8cd7ab207d084ad2ea09b5b99e7d623aeb6b3f2983c101dde1cdee86f352b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwood_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "5f656cd0fd06a6563522cc20db81104e6efe1503fc097b7e315019d521d679ef"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwood_Normal.dds",
+    "size": 699192,
+    "sha256": "9e5a57d4dad9d6d3955ff71b386ebd35a9eb32fd35fa4416a0f701725bcfa179"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwood_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "8d91fa6bf447d0b7e46f41c7137beacaa4568fc1962866719930bf0849cfebb2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GiantRedwood_RT.spt",
+    "size": 15049,
+    "sha256": "e2cf12edbbd8c7d478726e1f0bca95ec10b0c9305e5358a9e53e0ac1d429c5c3"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GroundClutter.spt",
+    "size": 22966,
+    "sha256": "b5e9e73375113617939db0222ffb455c7420f99ec5c4d14e024cfac0bd4d1c88"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\GroundClutter_GeneralWind.ini",
+    "size": 326,
+    "sha256": "31c0e9bb008fce4bc86c1399465d24101ecc7137437c4484b6b88f95fbd40f45"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\Knapweed_GeneralWind.ini",
+    "size": 326,
+    "sha256": "31c0e9bb008fce4bc86c1399465d24101ecc7137437c4484b6b88f95fbd40f45"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\Knapweed_RT.spt",
+    "size": 17315,
+    "sha256": "53c490ac3e3f30e0da9411fd35177fff06a175f409f8d88345ebbbdefc8ad51a"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\NorthWestForest_Diffuse.dds",
+    "size": 5592560,
+    "sha256": "ef1291c9011a2fca9b996b1e5231f06739b611970e15b99db73a3e2f889d95cc"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\NorthWestForest_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "1eec3b63d18b936d1fd6c731c9978ab0719b812b1b02a5410ed855260322e54f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\NorthWestForest_Normal.dds",
+    "size": 5592560,
+    "sha256": "b43512ad9d525fb70256a96d3ea8ff295a8e5ea51c64e69065355c1ba479a9dd"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\NorthWestForest_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "a7dce1ba0b9d967d16e579d525dc2ad60eede4b254929d39610a08e83a2efea4"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\NorthWestForest_Self-Shadows.dds",
+    "size": 699192,
+    "sha256": "fd2dd8512b8b3e12dbfa0826fd03d5fbf8685e09aa9465879da1aabc7c780aa5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\paths.stf",
+    "size": 11433841,
+    "sha256": "30dd220c872c2ce7d1c60c103858b6229783af2174e084407fed81013e4c0313"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\SpeedRock_RT.spt",
+    "size": 73968,
+    "sha256": "0a0e74d4641973e0aa5f1849dccd4d81f3c5c5e99cbb375146a348681bd79abf"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\SteadyLocalWind.ini",
+    "size": 329,
+    "sha256": "526324644e508131adb4baf8044aed178e4a80b185c90aab544463f98eb96d51"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\WesternRedCedarBark.dds",
+    "size": 1398288,
+    "sha256": "aaf6109d6d3c8af13c17a56647dddc4ac7df7d6af7383227d8d83103da430e2b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\WesternRedCedarBark_Normal.dds",
+    "size": 699208,
+    "sha256": "6610a0c17fdc6d26b67e8cdd02c63cea47126606e6c51881e68e6785c381671f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\WesternRedCedar_RT.spt",
+    "size": 16652,
+    "sha256": "01db969e46870ded1ce362e47f789b3973b59f3549ce5b021dd77b648898ecde"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.NorthWest\\WesternSwordFern_Cluster_GeneralWind.ini",
+    "size": 326,
+    "sha256": "31c0e9bb008fce4bc86c1399465d24101ecc7137437c4484b6b88f95fbd40f45"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\BambooBush_RT.spt",
+    "size": 18934,
+    "sha256": "7986faf74192bedc61e2841c1c106661b46713bccf79ea7fd0b62cee6ed32e33"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Bark_Detail.dds",
+    "size": 699216,
+    "sha256": "55a7268fbef50ac08cd4a8b78898f205a3a726a58f3402e27f540a62e9f82711"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\DiffTracker_Windows_VC6.txt",
+    "size": 112869,
+    "sha256": "2d0a8b286b916b6408218851657e2a575305fb897f8886b207ae5f58389eba2c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\ExplosionLocalWind.ini",
+    "size": 331,
+    "sha256": "c35b84670654f2705f6d6de8ec71f5ca4b93eeb93e90429b41279254779d0b99"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\FantasyFicusBark.dds",
+    "size": 1398288,
+    "sha256": "bcacd7e2442c395be8666af0b02d06a6bd5d87daf7f0730dd9c7b79ea5a9ee29"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\FantasyFicusBark_Normal.dds",
+    "size": 699208,
+    "sha256": "77d1efa035549ff9dcd877378cd7849f1e786b072059bc7c7478d70c7efe6f2d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Ficus_Cluster.spt",
+    "size": 22490,
+    "sha256": "9c9b68dd2559b6fcb20331f7785503aedf84ca675a465012bd883d636180554c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\FootstepLocalWind.ini",
+    "size": 339,
+    "sha256": "0f3285e37adf0064254da1470329e3d7bc95c6325f90fa46f46ac3156363406c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\FrailejonSkin.dds",
+    "size": 87536,
+    "sha256": "464d98a6f8d099ef6a8acd280e83ab37f81cd3bced8a5df39b7c8f1063fef773"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\FrailejonSkin_Normal.dds",
+    "size": 43832,
+    "sha256": "2c84393ab988bbea7df54b0f1733dd576ed500705d507527ec408037102c36db"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Frailejon_Cluster.spt",
+    "size": 20664,
+    "sha256": "10aaf2ef01dd40d84d752b9671cef027b03985cbc086e64bce0b8494b0277251"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Frailejon_Cluster_GeneralWind.ini",
+    "size": 326,
+    "sha256": "31c0e9bb008fce4bc86c1399465d24101ecc7137437c4484b6b88f95fbd40f45"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\GeneralWind.ini",
+    "size": 329,
+    "sha256": "4292c9ccf1a6cbd177bc8447d320fc4bb09bbf3d7fff6de193b32ad022d6035d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\HydrillaCluster_RT.spt",
+    "size": 24039,
+    "sha256": "b192524fb40bc12ffbd2820d4e8a44da660bc5b7b7b3fdfc0f6fa85a4450bf83"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\HydrillaSkin.dds",
+    "size": 87568,
+    "sha256": "a81df84ebc52abfac31211d8449eb1344d60971be80f8a6a75a1f67ced72736b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\HydrillaSkin_Normal.dds",
+    "size": 43848,
+    "sha256": "6b7c4038dd143255ee61cda070513eaa982ba0d0a4c4827f8b7917d446eca55d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Hydrilla_Cluster_GeneralWind.ini",
+    "size": 326,
+    "sha256": "31c0e9bb008fce4bc86c1399465d24101ecc7137437c4484b6b88f95fbd40f45"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\KapokBark.dds",
+    "size": 1398288,
+    "sha256": "8d223196b8982c9e413adf63cd26ce0d3bb415b0d877c727cd939ef4f91ab5a7"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\KapokBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "bb221aa25efffde7327095ec547020fc2ab379472aa3e83a153dfa7c0ea90eb8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Kapok_Diffuse.dds",
+    "size": 1398256,
+    "sha256": "c1bd815931cf5fb26ffc1c5c6bb2b88c747e8b84f05fceed3c5fcf80033f1494"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Kapok_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "8b2c903189da041f09c9c0e85fc9eca2efcdc2c2d991f221292ac151e274c34c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Kapok_Normal.dds",
+    "size": 699192,
+    "sha256": "ba15a32d939e9ff454d6b226dafd49ec8b932b1c1511d0b3c282a8e0f5c70e1c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Kapok_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "628aad4fbdf0b8fb765124f82dc2ad8e74ffcca3f3bc0a2adfd677a802af2794"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\Kapok_RT.spt",
+    "size": 21799,
+    "sha256": "851c76b1b0a65836fd032fc86b8d4262b3d8f2bb14f3bf2e88d6b964d29ef959"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MimosaBark.dds",
+    "size": 349712,
+    "sha256": "3a9ae724a55a05fc71e55c2603a6dbd7796cf206fadca6308a290c494d8ae5bb"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MimosaBark_Normal.dds",
+    "size": 349712,
+    "sha256": "88e4937fe1d4097c7c3583e32cfad595cb8f1bf7b98bdc13563821d1ad46b52f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MimosaTree_RT.spt",
+    "size": 26266,
+    "sha256": "b596ef098cc966a9ae966fc5b8d32632eeb0a55896f9e8009c254b580c88b58d"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MonkeyPuzzleBark.dds",
+    "size": 1398288,
+    "sha256": "f16005dafc9bdea2ca9f373a216a69e2e0393aa1002365760a772ffdad2108b2"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MonkeyPuzzleBark_Normal.dds",
+    "size": 1398288,
+    "sha256": "d3cbaf1fa659604e40acbbe6b1b0fd4a862c0f4c3b51db2c5d7fda2a2572556f"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MonkeyPuzzle_RT.spt",
+    "size": 16211,
+    "sha256": "68a713b1c8cf8e99c9407ec5db21e9b3d19a5744bb4600e271b3b8550a786d1b"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MonkeyPuzzle_RT_GeneralWind.ini",
+    "size": 324,
+    "sha256": "047a16602b4b76e81827560577b225a481fed912c99943f192af322e5884a908"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\MonkeyPuzzle_SelfShadow.dds",
+    "size": 43856,
+    "sha256": "36504b499009ac606c2c08280303112ab146bffab5914a719774fabfe0e43aab"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SteadyLocalWind.ini",
+    "size": 329,
+    "sha256": "526324644e508131adb4baf8044aed178e4a80b185c90aab544463f98eb96d51"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SubTropic_Diffuse.dds",
+    "size": 5592560,
+    "sha256": "0adfad77aa2c13692024c8bd9981513356edf76fb22de9d6f1be736440b02514"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SubTropic_Diffuse_Billboards.dds",
+    "size": 2796368,
+    "sha256": "63dd6e75a927f406647137a42928a1f9855fdfb6103f14a5c97e1ffdb212837c"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SubTropic_Normal.dds",
+    "size": 5592560,
+    "sha256": "cba54020ad7db0bc3fcedad7bc4f9f81573fffb860a0edf1bceb5c64239c0a53"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SubTropic_Normal_Billboards.dds",
+    "size": 2796368,
+    "sha256": "de3872466c9beca48207bf2f0856da629cf8ea5ec9b45f2eb82c0b78d7f6d3c8"
+  },
+  {
+    "path": "resource\\Map\\Tree\\TreeModels.SubTropic\\SubTropic_Self-Shadows.dds",
+    "size": 699192,
+    "sha256": "a5046abdd29810385b66e2db996f490a8a4c368b57b9291514c54e5edd3227d1"
+  },
+  {
+    "path": "resource\\Map\\Tree\\UmbrellaThornBark.dds",
+    "size": 87568,
+    "sha256": "163241e319cececeba19ddb1517ae2cc2d73d4ad2be7fb98489321dc3da922d5"
+  },
+  {
+    "path": "resource\\Map\\Tree\\UmbrellaThornBark_Normal.dds",
+    "size": 349712,
+    "sha256": "9464b87ff8ebe7b051e071b9806dd41a0bbbfc85ccd9ced9fe64bedf44c4c092"
+  },
+  {
+    "path": "resource\\Map\\Tree\\UmbrellaThorn_RT.spt",
+    "size": 16997,
+    "sha256": "ba70255787bdfc233f8877aa0fa34be97723cac87550104f611bf2988774f677"
+  },
+  {
+    "path": "resource\\Map\\Tree\\WhiteMushroomSkin.dds",
+    "size": 174928,
+    "sha256": "7c94ed9920cff38474a5762671a55dddd80cc730160536b3038794b5b2791138"
+  },
+  {
+    "path": "resource\\Map\\Tree\\WhiteMushroomSkin_Normal.dds",
+    "size": 174928,
+    "sha256": "ce6c611e18d21cb173d78533a52c9c0ac79d82df2f35debfdfe15225bedbd183"
+  },
+  {
+    "path": "resource\\Map\\UI_CSelect.pak",
+    "size": 120486012,
+    "sha256": "a4dec6987e4565b9a12857c71d25f83dbebfd9454c25454a692f0c38f0267df8"
+  },
+  {
+    "path": "ServerList.ten",
+    "size": 20,
+    "sha256": "55e3c48fc0909cac22e66a8281ce69ff3274d2cea2d4efb118e96031b513a122"
+  },
+  {
+    "path": "Shader.dll",
+    "size": 2084864,
+    "sha256": "043a387dc74b3d6b4bbf3fcfab730e55bd4f6e76e991242a59c8436eeea977fb"
+  },
+  {
+    "path": "String.dll",
+    "size": 32768,
+    "sha256": "6453c737cdf5f7eeeb57369d0567fda9f19b19b76cec18e4768954b95a999c67"
+  },
+  {
+    "path": "vtm.brn",
+    "size": 4,
+    "sha256": "d0b5596befde5fa897582e61d5e22cb6ea1a8b6bd733782a90dd928978312254"
+  },
+  {
+    "path": "WeberForClient.dll",
+    "size": 425984,
+    "sha256": "e0e8fdb2f1d2762bd7331c79a092c9429b60449a7032f558338740ddcea75978"
+  },
+  {
+    "path": "WeberForClientD.dll",
+    "size": 1875968,
+    "sha256": "f75e3f9ffd8ef89742c59bbff77d1358cd7e1a742576b36aa5d099e9c7c2a9d1"
+  }
+]

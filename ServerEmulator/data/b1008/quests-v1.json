@@ -1,0 +1,2151 @@
+{
+  "build": "b1008",
+  "quests": [
+    {
+      "id": 19003001,
+      "name": "The Awakening",
+      "giver": 9300181,
+      "receiver": 9300181,
+      "previous": 0,
+      "minLevel": 2,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10050,
+          "required": 10,
+          "sourceMob": 10050,
+          "rawDouble14": 4.99999988909815e+23
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 45,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 300,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003002,
+      "name": "Venom Cleansing",
+      "giver": 9300181,
+      "receiver": 9300181,
+      "previous": 0,
+      "minLevel": 2,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70052,
+          "required": 5,
+          "sourceMob": 10050,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 45,
+          "amount": 3,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 200,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003003,
+      "name": "Protecting the Farm",
+      "giver": 9300141,
+      "receiver": 9300181,
+      "previous": 0,
+      "minLevel": 1,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10018,
+          "required": 5,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 24,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 100,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 54006,
+          "amount": 3,
+          "choice": 0
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "value": 54206,
+          "amount": 3,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003004,
+      "name": "A New Task",
+      "giver": 9300181,
+      "receiver": 9300131,
+      "previous": 19003001,
+      "minLevel": 2,
+      "maxLevel": 45,
+      "acceptanceItem": 57104,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300131,
+          "required": 1,
+          "sourceMob": 10049,
+          "rawDouble14": 4.99999992153375e+17
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 45,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 12,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003005,
+      "name": "Refitting",
+      "giver": 9300131,
+      "receiver": 9300011,
+      "previous": 19003004,
+      "minLevel": 2,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300011,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 45,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 12,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 53901,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003006,
+      "name": "Dalton's Request",
+      "giver": 9300011,
+      "receiver": 9300221,
+      "previous": 19003005,
+      "minLevel": 2,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70091,
+          "required": 10,
+          "sourceMob": 10050,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 45,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 400,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62003,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "value": 63001,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 4,
+          "kind": 3,
+          "value": 61001,
+          "amount": 10,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003007,
+      "name": "Holio's Trouble",
+      "giver": 9300221,
+      "receiver": 9300221,
+      "previous": 0,
+      "minLevel": 3,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70084,
+          "required": 10,
+          "sourceMob": 10067,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 96,
+          "amount": 10,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 16,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 90011,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003008,
+      "name": "Jeweler's Distraction",
+      "giver": 9300221,
+      "receiver": 9300221,
+      "previous": 0,
+      "minLevel": 4,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70052,
+          "required": 5,
+          "sourceMob": 10050,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70053,
+          "required": 5,
+          "sourceMob": 10050,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 192,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 30,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 55001,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "value": 55006,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 4,
+          "kind": 3,
+          "value": 55011,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 5,
+          "kind": 3,
+          "value": 55016,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 6,
+          "kind": 3,
+          "value": 55021,
+          "amount": 1,
+          "choice": 1
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003009,
+      "name": "Refreshing Incense",
+      "giver": 9300221,
+      "receiver": 9300221,
+      "previous": 0,
+      "minLevel": 4,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70100,
+          "required": 10,
+          "sourceMob": 10050,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 192,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 200,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003010,
+      "name": "Joy, Gone with the Wind",
+      "giver": 9300221,
+      "receiver": 9300231,
+      "previous": 0,
+      "minLevel": 5,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10010,
+          "required": 10,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 390,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 24,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 1002,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "value": 5002,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 4,
+          "kind": 3,
+          "value": 9002,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 5,
+          "kind": 3,
+          "value": 13002,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 6,
+          "kind": 3,
+          "value": 15002,
+          "amount": 1,
+          "choice": 1
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003011,
+      "name": "A Rare Task",
+      "giver": 9300231,
+      "receiver": 9300231,
+      "previous": 0,
+      "minLevel": 5,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70085,
+          "required": 10,
+          "sourceMob": 10010,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 260,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 48,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003012,
+      "name": "Operation Hornboar",
+      "giver": 9300231,
+      "receiver": 9300231,
+      "previous": 0,
+      "minLevel": 6,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10048,
+          "required": 20,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 468,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 28,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 63002,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "value": 63001,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 4,
+          "kind": 3,
+          "value": 63006,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003013,
+      "name": "A Smelly Solution",
+      "giver": 9300241,
+      "receiver": 9300241,
+      "previous": 0,
+      "minLevel": 6,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70061,
+          "required": 8,
+          "sourceMob": 10048,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 468,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 28,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 60901,
+          "amount": 3,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003014,
+      "name": "A Bad Habit of Hornboars",
+      "giver": 9300241,
+      "receiver": 9300241,
+      "previous": 0,
+      "minLevel": 6,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70062,
+          "required": 8,
+          "sourceMob": 10048,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 312,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 96,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003015,
+      "name": "An Essential Item for Maintenance",
+      "giver": 9300231,
+      "receiver": 9300031,
+      "previous": 0,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70098,
+          "required": 10,
+          "sourceMob": 10048,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 583,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 32,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 69001,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003016,
+      "name": "To Get Nice Equipment I",
+      "giver": 9300031,
+      "receiver": 9300031,
+      "previous": 0,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 30002,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70079,
+          "itemSource": "mining",
+          "required": 3,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 30002,
+          "itemSource": "acceptance",
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 32,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 30001,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003017,
+      "name": "To Get Nice Equipment II",
+      "giver": 9300031,
+      "receiver": 9300031,
+      "previous": 19003016,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 2998,
+      "acceptanceItems": [
+        2998,
+        70079
+      ],
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 2999,
+          "itemSource": "crafting",
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 32,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003018,
+      "name": "To Get Nice Equipment III",
+      "giver": 9300031,
+      "receiver": 9300041,
+      "previous": 19003017,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 2999,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 9,
+          "target": 2999,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 32,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003019,
+      "name": "To Get Nice Equipment IV",
+      "giver": 9300041,
+      "receiver": 9300031,
+      "previous": 19003018,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 2999,
+      "acceptanceItems": [
+        2999,
+        55200
+      ],
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 9,
+          "target": 2999,
+          "requiredGemId": 55200,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 32,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 55101,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003020,
+      "name": "To Get Nice Equipment V",
+      "giver": 9300041,
+      "receiver": 9300031,
+      "previous": 19003019,
+      "minLevel": 45,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 2,
+          "target": 10052,
+          "required": 10,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 109,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 16,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 55101,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": false,
+      "nativeType": 2
+    },
+    {
+      "id": 19003021,
+      "name": "The Virtue of Elegance I",
+      "giver": 9300061,
+      "receiver": 9300061,
+      "previous": 0,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 29502,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 62003,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 29502,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 300,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 29501,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": false,
+      "nativeType": 1
+    },
+    {
+      "id": 19003022,
+      "name": "The Virtue of Elegance II",
+      "giver": 9300061,
+      "receiver": 9300061,
+      "previous": 19003021,
+      "minLevel": 7,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 62018,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 349,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 450,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 50,
+          "choice": 0
+        }
+      ],
+      "enabled": false,
+      "nativeType": 2
+    },
+    {
+      "id": 19003023,
+      "name": "Soul of an Artisan",
+      "giver": 9300011,
+      "receiver": 9300151,
+      "previous": 0,
+      "minLevel": 8,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70063,
+          "required": 10,
+          "sourceMob": 10049,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 648,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 36,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003024,
+      "name": "A New Idea",
+      "giver": 9300151,
+      "receiver": 9300151,
+      "previous": 0,
+      "minLevel": 8,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70094,
+          "required": 3,
+          "sourceMob": 10045,
+          "rawDouble14": 3000.0,
+          "dropChanceBP": 1500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70095,
+          "required": 3,
+          "sourceMob": 10045,
+          "rawDouble14": 3000.0,
+          "dropChanceBP": 1500
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "target": 70096,
+          "required": 3,
+          "sourceMob": 10045,
+          "rawDouble14": 3000.0,
+          "dropChanceBP": 1500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 432,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 192,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003025,
+      "name": "Protecting the Herb Roots",
+      "giver": 9300151,
+      "receiver": 9300161,
+      "previous": 0,
+      "minLevel": 9,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 2,
+          "target": 10045,
+          "required": 10,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 1540,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 40,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003026,
+      "name": "A Sly Rumor",
+      "giver": 9300161,
+      "receiver": 9300131,
+      "previous": 0,
+      "minLevel": 9,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10051,
+          "required": 15,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 1540,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 40,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 51001,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003027,
+      "name": "An Urgent Message",
+      "giver": 9300131,
+      "receiver": 9300111,
+      "previous": 19003026,
+      "minLevel": 9,
+      "maxLevel": 40,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300111,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 770,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 40,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003028,
+      "name": "A Perilous Challenge",
+      "giver": 9300111,
+      "receiver": 9300151,
+      "previous": 0,
+      "minLevel": 10,
+      "maxLevel": 45,
+      "acceptanceItem": 70067,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 9,
+          "target": 70067,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 556,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 220,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003029,
+      "name": "A perilous Challenge II",
+      "giver": 9300151,
+      "receiver": 9300161,
+      "previous": 19003028,
+      "minLevel": 10,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300161,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 556,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 220,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003030,
+      "name": "Crisis at Rob'leiville",
+      "giver": 9300161,
+      "receiver": 9300161,
+      "previous": 19003029,
+      "minLevel": 10,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10057,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 1113,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 22,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003031,
+      "name": "Reporting Back",
+      "giver": 9300161,
+      "receiver": 9300111,
+      "previous": 19003030,
+      "minLevel": 10,
+      "maxLevel": 45,
+      "acceptanceItem": 70068,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 9,
+          "target": 70068,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 556,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 220,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003032,
+      "name": "At the Crossroad of Destiny",
+      "giver": 9300111,
+      "receiver": 9300111,
+      "previous": 19003031,
+      "minLevel": 10,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300111,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 3,
+          "value": 63007,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003033,
+      "name": "To Enter the Dungeon",
+      "giver": 9300111,
+      "receiver": 9300111,
+      "previous": 19003031,
+      "minLevel": 45,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 62005,
+          "required": 50,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 10,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 30,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": false,
+      "nativeType": 1
+    },
+    {
+      "id": 19003034,
+      "name": "Rearing a Holy Creature",
+      "giver": 9300091,
+      "receiver": 9300091,
+      "previous": 0,
+      "minLevel": 11,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300091,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 3,
+          "value": 90002,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003035,
+      "name": "Depleted Material",
+      "giver": 9300021,
+      "receiver": 9300161,
+      "previous": 0,
+      "minLevel": 11,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70056,
+          "required": 10,
+          "sourceMob": 10051,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70054,
+          "required": 5,
+          "sourceMob": 10051,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 363,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 768,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003036,
+      "name": "Terrible Alligators",
+      "giver": 9300161,
+      "receiver": 9300161,
+      "previous": 0,
+      "minLevel": 11,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10051,
+          "required": 10,
+          "sourceMob": 10051,
+          "rawDouble14": 49999999139840.0
+        },
+        {
+          "index": 1,
+          "kind": 1,
+          "target": 10052,
+          "required": 10,
+          "sourceMob": 10051,
+          "rawDouble14": 49999999139840.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 727,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 48,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 64003,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003037,
+      "name": "The Best Climbing Irons",
+      "giver": 9300161,
+      "receiver": 9300031,
+      "previous": 0,
+      "minLevel": 11,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70054,
+          "required": 5,
+          "sourceMob": 10052,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70055,
+          "required": 5,
+          "sourceMob": 10052,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 727,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 48,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 64003,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003038,
+      "name": "The Dead Coming Back",
+      "giver": 9300031,
+      "receiver": 9300131,
+      "previous": 0,
+      "minLevel": 12,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10026,
+          "required": 10,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 878,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 52,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003039,
+      "name": "The Dead Coming Back II",
+      "giver": 9300131,
+      "receiver": 9300111,
+      "previous": 19003038,
+      "minLevel": 12,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 8,
+          "target": 9300111,
+          "required": 1,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 439,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 52,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003040,
+      "name": "The Dead Coming Back III",
+      "giver": 9300111,
+      "receiver": 9300131,
+      "previous": 19003039,
+      "minLevel": 12,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70088,
+          "required": 20,
+          "sourceMob": 10026,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 878,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 52,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 2
+    },
+    {
+      "id": 19003041,
+      "name": "A Crazy Collector",
+      "giver": 9300081,
+      "receiver": 9300081,
+      "previous": 0,
+      "minLevel": 12,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70089,
+          "required": 20,
+          "sourceMob": 10026,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70090,
+          "required": 20,
+          "sourceMob": 10026,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 439,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 1152,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003042,
+      "name": "Before It Happens!",
+      "giver": 9300131,
+      "receiver": 9300131,
+      "previous": 0,
+      "minLevel": 13,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 1,
+          "target": 10008,
+          "required": 20,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 2136,
+          "amount": 0,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 56,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003043,
+      "name": "Prospering Business",
+      "giver": 9300011,
+      "receiver": 9300011,
+      "previous": 0,
+      "minLevel": 13,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70086,
+          "required": 15,
+          "sourceMob": 10008,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 522,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 1152,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003044,
+      "name": "The Most Beautiful Dress",
+      "giver": 9300051,
+      "receiver": 9300051,
+      "previous": 0,
+      "minLevel": 14,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70010,
+          "required": 15,
+          "sourceMob": 10008,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 613,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 1,
+          "kind": 2,
+          "value": 1152,
+          "amount": 1,
+          "choice": 0
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 62005,
+          "amount": 1,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 3
+    },
+    {
+      "id": 19003045,
+      "name": "A Long Journey",
+      "giver": 9300131,
+      "receiver": 9300131,
+      "previous": 0,
+      "minLevel": 14,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 70092,
+          "required": 5,
+          "sourceMob": 10051,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "target": 70093,
+          "required": 5,
+          "sourceMob": 10052,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "target": 70097,
+          "required": 5,
+          "sourceMob": 10045,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 3,
+          "kind": 3,
+          "target": 70099,
+          "required": 5,
+          "sourceMob": 10048,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 4,
+          "kind": 3,
+          "target": 70102,
+          "required": 5,
+          "sourceMob": 10026,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        },
+        {
+          "index": 5,
+          "kind": 3,
+          "target": 70101,
+          "required": 5,
+          "sourceMob": 10008,
+          "rawDouble14": 5000.0,
+          "dropChanceBP": 2500
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 1,
+          "value": 4139,
+          "amount": 0,
+          "choice": 0
+        }
+      ],
+      "enabled": true,
+      "nativeType": 1
+    },
+    {
+      "id": 19003047,
+      "name": "Event Coupons!",
+      "giver": 9399999,
+      "receiver": 9399999,
+      "previous": 0,
+      "minLevel": 1,
+      "maxLevel": 45,
+      "acceptanceItem": 0,
+      "objectives": [
+        {
+          "index": 0,
+          "kind": 3,
+          "target": 99997,
+          "required": 7,
+          "sourceMob": 0,
+          "rawDouble14": 0.0
+        }
+      ],
+      "rewards": [
+        {
+          "index": 0,
+          "kind": 3,
+          "value": 57102,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 1,
+          "kind": 3,
+          "value": 57103,
+          "amount": 1,
+          "choice": 1
+        },
+        {
+          "index": 2,
+          "kind": 3,
+          "value": 60927,
+          "amount": 1,
+          "choice": 1
+        }
+      ],
+      "enabled": false,
+      "nativeType": 3
+    }
+  ]
+}

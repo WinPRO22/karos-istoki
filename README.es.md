@@ -1,80 +1,64 @@
-# Karos: Истоки — de vuelta a Berneo
-
+# Karos: Istoki — Berneo
 [Русский](README.md) · [English](README.en.md) · **Español**
 
-**Investigamos los antiguos clientes de Karos y devolvemos la vida al juego de sus primeros años, mecánica a mecánica.**
+Emulador de servidor para **Karos NHN EN CBT1 b1008 (14 de agosto de 2009)**.
+Autor: [WinPRO22](https://github.com/WinPRO22). [Noticias](https://t.me/karos_istoki).
 
-¿Recuerdas las primeras arañas cerca de Berneo, tu espada inicial y tus primeros puntos de Fletta? Queremos recorrer ese camino de nuevo: partir de un cliente de 2009, conservar su atmósfera y reconstruir poco a poco sus mecánicas.
+Publicamos una etapa de desarrollo cerrada: **solo Berneo, con progresión hasta
+el nivel 45**. El código permite que la comunidad continúe el trabajo.
+Es una versión local para un jugador, no un servidor MMO listo para producción.
 
-> 📣 **Sigue el desarrollo: [t.me/karos_istoki](https://t.me/karos_istoki)**
->
-> Novedades del proyecto, resultados de las pruebas y descubrimientos en versiones antiguas.
+## Contenido
+- Acceso, creación de personajes y guardado.
+- 955 criaturas, 29 NPC, 16 tiendas y 41 misiones activadas en Berneo.
+- Combate, agresividad, reaparición, equipo, experiencia, profesiones y habilidades.
+- Inventario, botín, comercio, almacén, piedra de retorno, Fletta, fabricación y mejoras.
+- Parches propios: acciones con clic derecho, confirmación con Enter,
+  intercambio de habilidades y filas de la barra rápida, correcciones de efectos
+  y estados de combate.
 
-## Sobre el proyecto
+El espadachín y sus profesiones son las ramas más desarrolladas. La existencia de
+un controlador no implica que se hayan probado todas las combinaciones.
+El equilibrio incluye fórmulas propias. Otros mapas, investigaciones privadas
+y el nuevo motor no forman parte de esta publicación.
 
-Karos: Истоки («Orígenes») es un proyecto independiente de aficionados que investiga las versiones antiguas de Karos y desarrolla un emulador de servidor para ellas.
+## Descargar y jugar
+Descarga **ambos ZIP** de [Releases](https://github.com/WinPRO22/karos-istoki/releases):
+el cliente b1008 y el emulador Win64. Los binarios no requieren Delphi.
 
-Nuestro punto de partida es **NHN EN CBT1, versión b1008, de 2009**. Empezamos con una pequeña parte jugable, la probamos en el cliente original y ampliamos sus posibilidades paso a paso.
+1. Extrae el emulador en una carpeta con permiso de escritura, por ejemplo
+   `C:\Games\KarosIstoki`.
+2. Extrae el cliente junto a él; debe quedar `client\AMo.exe`.
+3. Abre PowerShell en la carpeta del emulador y ejecuta:
+   `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Start-Berneo.ps1 -ClientDirectory .\client`
+4. Usa el usuario de demostración **test** y la contraseña **test**. Crea un
+   personaje nuevo; no se incluye la partida del desarrollador.
+5. Tras cerrar el juego, detén el servidor:
+   `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Stop-Berneo.ps1`
 
-El servidor está escrito en **Delphi**. Por ahora, las pruebas se realizan en un entorno local. Este repositorio es la página pública de presentación del proyecto, no una versión del servidor lista para descargar y ejecutar.
+El servidor escucha únicamente en `127.0.0.1:10001`. No abras ese puerto a
+Internet ni cambies el cortafuegos. Las tasas y la velocidad predeterminadas son
+**×1**. No mezcles el cliente con actualizadores ni recursos de otra versión.
 
-## Qué funciona actualmente
+## Compilación y datos
+Se necesita Windows x64 y Delphi con compilador Win64, VCL, Indy y FireDAC.
+Se utiliza Delphi 37.0 para preparar esta versión. Añade `dcc64.exe` al PATH y
+ejecuta `.\ServerEmulator\Build.ps1` desde la raíz del repositorio.
+Compila los programas y ejecuta las pruebas públicas autónomas, sin iniciar el
+juego. La opción `-SkipTests` solo compila.
 
-- **Acceso al juego:** inicio de sesión, creación y selección de personajes y entrada al mundo.
-- **Un Berneo más vivo:** 101 arañas pequeñas distribuidas por el mapa, con patrullas independientes, persecución, regreso a su territorio, combate en grupo y reaparición.
-- **Combate:** ataques automáticos, animaciones, sonidos, cifras de daño, rangos de daño según el arma y golpes críticos.
-- **Atributos y equipo:** estadísticas y equipo iniciales, equipar y desequipar objetos y actualización de los valores mostrados.
-- **Inventario y botín:** los objetos aparecen al morir el monstruo; funcionan la recogida, el movimiento y el lanzamiento al suelo, la división de pilas con Shift y la combinación de pilas del mismo objeto.
-- **Carats:** presentes tanto como objeto en el inventario como en el saldo de la interfaz; ambas representaciones se actualizan al recogerlos o tirarlos.
-- **Progresión del personaje:** experiencia por derrotar monstruos, subida de nivel, primera misión con recompensa y uso de pociones iniciales.
-- **Muerte y recuperación:** regreso a la Piedra de la Memoria, penalización de experiencia y regeneración fuera del combate y de la postura de combate.
-- **Guardado:** el progreso, el contenido y la posición de los objetos en el inventario y el equipo se conservan entre reinicios.
+Los catálogos están en `ServerEmulator/data/b1008`. Las partidas se crean allí
+como `test-character.b1008*`; la base de contenido es
+`ServerEmulator/data/karos-emulator.sqlite3`. Haz una copia de seguridad con el
+servidor detenido antes de actualizar. No sobrescribas tus partidas.
 
-Estas funciones están implementadas en un prototipo local. El mundo completo, todo su contenido y la estabilidad multijugador siguen siendo objetivos pendientes.
+Guía para desarrolladores y agentes de IA:
+[SKILL.md](skills/karos-berneo-development/SKILL.md).
+Las pruebas públicas no necesitan archivos privados ni sustituyen las pruebas
+en el juego. Antes de publicar se realiza una prueba manual del conjunto
+distribuido; el resultado se indica en la descripción de la versión.
 
-## Cómo reconstruimos el equilibrio del juego
-
-Comparamos recursos del cliente, sitios web archivados, guías antiguas, capturas, vídeos y recuerdos de los jugadores.
-
-Separamos los valores confirmados de las estimaciones. Cuando desconocemos una fórmula del servidor original, utilizamos una reconstrucción provisional y la probamos en el juego. Algunos parámetros proceden de versiones posteriores y no se presentan como datos confirmados de CBT1.
-
-Todavía no afirmamos un porcentaje de coincidencia con el equilibrio original. Por ejemplo, el botín de prueba actual aún debe sustituirse por tablas respaldadas por fuentes históricas.
-
-## Hoja de ruta
-
-1. **Investigar las versiones antiguas.** Comparar versiones, mecánicas, historia y recursos; buscar rastros de contenido no utilizado.
-2. **Ampliar el prototipo jugable.** Desarrollar el combate, las misiones, los monstruos, los objetos, las habilidades, Fletta y la economía.
-3. **Dar soporte a otros clientes antiguos.** Conservar las diferencias entre versiones mediante perfiles separados de protocolo y datos.
-4. **Preparar una prueba pública.** Recoger comentarios y probar el servidor y el cliente con varios jugadores.
-5. **Optimizar el servidor.** Comprobar su comportamiento bajo carga, su estabilidad y la conservación de los datos.
-6. **Publicar el código fuente del emulador en GitHub.** Preparar instrucciones detalladas para compilar, configurar y ejecutar un servidor propio.
-7. **Sentar las bases de un futuro remake.** Reunir la investigación y las opiniones de los jugadores y después planificar una versión en otro motor, cercana a las mecánicas originales y abierta a nuevas posibilidades.
-
-Los avances dependen de la investigación y de los resultados de las pruebas. Aún no se ha anunciado una fecha de lanzamiento público.
-
-## Cómo ayudar
-
-Nos resultan especialmente útiles los materiales de los primeros años de Karos:
-
-- capturas de atributos, objetos, recompensas de misiones e interfaz;
-- vídeos de combate, progresión, comercio, fabricación de objetos y otras mecánicas;
-- enlaces a guías antiguas, foros y páginas archivadas;
-- recuerdos de una versión concreta: ritmo de progresión, botín, comportamiento de los monstruos y diferencias entre clases.
-
-Si es posible, indica el año, la región, el idioma o el número de versión. Así evitamos mezclar datos de distintas etapas del juego.
-
-**Sigue el [canal de Telegram](https://t.me/karos_istoki) para conocer la investigación y las novedades del proyecto.**
-
-## ¿Ya se puede jugar?
-
-Por ahora, el desarrollo y las pruebas son locales. Anunciaremos en Telegram cómo participar cuando se prepare una prueba pública.
-
-## ¿Se publicará el código fuente?
-
-Sí. Publicar el código fuente del emulador y las instrucciones de puesta en marcha forma parte del plan. De momento, este repositorio presenta el proyecto y enlaza a las novedades del desarrollo.
-
----
-
-Este proyecto no es oficial ni está vinculado a los desarrolladores o editores del juego original. Los nombres y los materiales originales del juego pertenecen a sus respectivos titulares de derechos.
-
-**[Sigue el desarrollo en Telegram →](https://t.me/karos_istoki)**
+## Licencia
+El código y las herramientas propios usan [MIT](LICENSE), conservando la
+atribución a **WinPRO22**. MIT no cubre el cliente original ni sus recursos.
+Consulta los [avisos de terceros](THIRD_PARTY_NOTICES.md). Proyecto no oficial.

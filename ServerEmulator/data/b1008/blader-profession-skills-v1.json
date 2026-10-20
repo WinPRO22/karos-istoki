@@ -1,0 +1,2911 @@
+{
+  "build": "b1008",
+  "authoredPhantomIntervalMS": 1000,
+  "skills": [
+    {
+      "id": 1101,
+      "name": "Blade Crash",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1006,
+      "weaponSubtype": 1,
+      "weaponMask": 2,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1005,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 10,
+          "rawRequiredLevel": 10,
+          "mp": 7,
+          "cooldownMS": 10000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 3,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 7.62,
+          "damageBonusMax": 13.62,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 14,
+          "rawRequiredLevel": 14,
+          "mp": 9,
+          "cooldownMS": 10000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 3,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 11.47,
+          "damageBonusMax": 18.67,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 18,
+          "rawRequiredLevel": 18,
+          "mp": 10,
+          "cooldownMS": 10000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 3,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 15.32,
+          "damageBonusMax": 23.72,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 22,
+          "rawRequiredLevel": 22,
+          "mp": 12,
+          "cooldownMS": 10000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 3,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 19.17,
+          "damageBonusMax": 28.77,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 26,
+          "rawRequiredLevel": 26,
+          "mp": 13,
+          "cooldownMS": 10000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 3,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 23.02,
+          "damageBonusMax": 33.82,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1102,
+      "name": "Two-handed Sword Mastery",
+      "classId": 110,
+      "kind": "passive",
+      "actionId": 0,
+      "weaponSubtype": 1,
+      "weaponMask": 2,
+      "rawBase48Nonzero": false,
+      "prerequisites": [
+        {
+          "skillId": 1006,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 19,
+          "rawRequiredLevel": 19,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1102001,
+              "typeCode": 7,
+              "rawDouble18": 1,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 23,
+          "rawRequiredLevel": 23,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1102002,
+              "typeCode": 7,
+              "rawDouble18": 2,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 27,
+          "rawRequiredLevel": 27,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1102003,
+              "typeCode": 7,
+              "rawDouble18": 3,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 31,
+          "rawRequiredLevel": 31,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1102004,
+              "typeCode": 7,
+              "rawDouble18": 4,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 35,
+          "rawRequiredLevel": 35,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1102005,
+              "typeCode": 7,
+              "rawDouble18": 5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1103,
+      "name": "Spine Breaker",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1010,
+      "weaponSubtype": 1,
+      "weaponMask": 2,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1002,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 17,
+          "rawRequiredLevel": 17,
+          "mp": 10,
+          "cooldownMS": 30000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 3000,
+          "intervalMS": 0,
+          "damageBonusMin": 15.85,
+          "damageBonusMax": 23.95,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 5,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1103001,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": -5
+            },
+            {
+              "dataId": 1104001,
+              "typeCode": 14,
+              "rawDouble18": 0,
+              "rawDouble20": -5
+            },
+            {
+              "dataId": 1105001,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -5
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 21,
+          "rawRequiredLevel": 21,
+          "mp": 11,
+          "cooldownMS": 30000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 20.45,
+          "damageBonusMax": 30.75,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 10,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1103002,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": -10
+            },
+            {
+              "dataId": 1104002,
+              "typeCode": 14,
+              "rawDouble18": 0,
+              "rawDouble20": -10
+            },
+            {
+              "dataId": 1105002,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -10
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 25,
+          "rawRequiredLevel": 25,
+          "mp": 13,
+          "cooldownMS": 30000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 25.05,
+          "damageBonusMax": 37.55,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 15,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1103003,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            },
+            {
+              "dataId": 1104003,
+              "typeCode": 14,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            },
+            {
+              "dataId": 1105003,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 29,
+          "rawRequiredLevel": 29,
+          "mp": 14,
+          "cooldownMS": 30000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 6000,
+          "intervalMS": 0,
+          "damageBonusMin": 29.65,
+          "damageBonusMax": 44.35,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 20,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1103004,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": -20
+            },
+            {
+              "dataId": 1104004,
+              "typeCode": 14,
+              "rawDouble18": 0,
+              "rawDouble20": -20
+            },
+            {
+              "dataId": 1105004,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -20
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 33,
+          "rawRequiredLevel": 33,
+          "mp": 15,
+          "cooldownMS": 30000,
+          "targetRange": 20,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 34.25,
+          "damageBonusMax": 51.15,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 25,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1103005,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": -25
+            },
+            {
+              "dataId": 1104005,
+              "typeCode": 14,
+              "rawDouble18": 0,
+              "rawDouble20": -25
+            },
+            {
+              "dataId": 1105005,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -25
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1104,
+      "name": "Thunder Howl",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1021,
+      "weaponSubtype": 1,
+      "weaponMask": 0,
+      "rawBase48Nonzero": false,
+      "prerequisites": [
+        {
+          "skillId": 1101,
+          "rank": 0
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 26,
+          "rawRequiredLevel": 36,
+          "mp": 17,
+          "cooldownMS": 120000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 40,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "20483",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 4000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 4000,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 30,
+          "rawRequiredLevel": 30,
+          "mp": 14,
+          "cooldownMS": 120000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 40,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "20483",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 4000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 5000,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 34,
+          "rawRequiredLevel": 34,
+          "mp": 16,
+          "cooldownMS": 120000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 40,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "20483",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 4000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 6000,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 38,
+          "rawRequiredLevel": 38,
+          "mp": 17,
+          "cooldownMS": 120000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 40,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "20483",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 4000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 7000,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 42,
+          "rawRequiredLevel": 42,
+          "mp": 19,
+          "cooldownMS": 120000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 40,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 4000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "20483",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 4000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 8000,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "name": "Revenge",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1023,
+      "weaponSubtype": 1,
+      "weaponMask": 0,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1102,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 23,
+          "rawRequiredLevel": 23,
+          "mp": 12,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107001,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -3
+            }
+          ],
+          "absorbPercent": 3
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 27,
+          "rawRequiredLevel": 27,
+          "mp": 13,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107002,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -6
+            }
+          ],
+          "absorbPercent": 6
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 31,
+          "rawRequiredLevel": 31,
+          "mp": 15,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107003,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -9
+            }
+          ],
+          "absorbPercent": 9
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 35,
+          "rawRequiredLevel": 35,
+          "mp": 16,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107004,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -12
+            }
+          ],
+          "absorbPercent": 12
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 39,
+          "rawRequiredLevel": 39,
+          "mp": 18,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107005,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            }
+          ],
+          "absorbPercent": 15
+        }
+      ]
+    },
+    {
+      "id": 1106,
+      "name": "Slater",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1012,
+      "weaponSubtype": 1,
+      "weaponMask": 2,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1103,
+          "rank": 1
+        },
+        {
+          "skillId": 1104,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 29,
+          "rawRequiredLevel": 29,
+          "mp": 14,
+          "cooldownMS": 20000,
+          "targetRange": 20,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 1000,
+          "damageBonusMin": 74.92,
+          "damageBonusMax": 86.62,
+          "attachedEffect": "24833",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1106,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 33,
+          "rawRequiredLevel": 33,
+          "mp": 15,
+          "cooldownMS": 20000,
+          "targetRange": 20,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 1000,
+          "damageBonusMin": 82.49,
+          "damageBonusMax": 94.39,
+          "attachedEffect": "24833",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1106,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 37,
+          "rawRequiredLevel": 37,
+          "mp": 17,
+          "cooldownMS": 20000,
+          "targetRange": 20,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 1000,
+          "damageBonusMin": 90.06,
+          "damageBonusMax": 102.16,
+          "attachedEffect": "24833",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1106,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 41,
+          "rawRequiredLevel": 41,
+          "mp": 18,
+          "cooldownMS": 20000,
+          "targetRange": 20,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 1000,
+          "damageBonusMin": 97.63,
+          "damageBonusMax": 109.93,
+          "attachedEffect": "24833",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1106,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 45,
+          "rawRequiredLevel": 1,
+          "mp": 20,
+          "cooldownMS": 20000,
+          "targetRange": 20,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 5000,
+          "intervalMS": 1000,
+          "damageBonusMin": 105.2,
+          "damageBonusMax": 117.7,
+          "attachedEffect": "24833",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1106,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1107,
+      "name": "Death Leap",
+      "classId": 110,
+      "kind": "active",
+      "actionId": 1019,
+      "weaponSubtype": 1,
+      "weaponMask": 2,
+      "rawBase48Nonzero": false,
+      "prerequisites": [
+        {
+          "skillId": 1105,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 28,
+          "rawRequiredLevel": 28,
+          "mp": 14,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "24834",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 20,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108001,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 20
+            },
+            {
+              "dataId": 1109001,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 32,
+          "rawRequiredLevel": 32,
+          "mp": 15,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "24834",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 40,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108002,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 40
+            },
+            {
+              "dataId": 1109002,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 36,
+          "rawRequiredLevel": 36,
+          "mp": 17,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "24834",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 60,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108003,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 60
+            },
+            {
+              "dataId": 1109003,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 40,
+          "rawRequiredLevel": 40,
+          "mp": 18,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "24834",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 80,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108004,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 80
+            },
+            {
+              "dataId": 1109004,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 44,
+          "rawRequiredLevel": 44,
+          "mp": 19,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "24834",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 100,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108005,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 100
+            },
+            {
+              "dataId": 1109005,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1901,
+      "name": "Wind Blade",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1008,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1005,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 10,
+          "rawRequiredLevel": 10,
+          "mp": 7,
+          "cooldownMS": 15000,
+          "targetRange": 50,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 12000,
+          "intervalMS": 2000,
+          "damageBonusMin": 39.54,
+          "damageBonusMax": 45.54,
+          "attachedEffect": "0",
+          "periodicDamage": 2,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1901001,
+              "typeCode": 28,
+              "rawDouble18": -2,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 14,
+          "rawRequiredLevel": 14,
+          "mp": 9,
+          "cooldownMS": 15000,
+          "targetRange": 50,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 12000,
+          "intervalMS": 2000,
+          "damageBonusMin": 48.99,
+          "damageBonusMax": 56.19,
+          "attachedEffect": "0",
+          "periodicDamage": 3,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1901002,
+              "typeCode": 28,
+              "rawDouble18": -3,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 18,
+          "rawRequiredLevel": 18,
+          "mp": 10,
+          "cooldownMS": 15000,
+          "targetRange": 50,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 12000,
+          "intervalMS": 2000,
+          "damageBonusMin": 58.44,
+          "damageBonusMax": 66.84,
+          "attachedEffect": "0",
+          "periodicDamage": 4,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1901003,
+              "typeCode": 28,
+              "rawDouble18": -4,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 22,
+          "rawRequiredLevel": 22,
+          "mp": 12,
+          "cooldownMS": 15000,
+          "targetRange": 50,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 12000,
+          "intervalMS": 2000,
+          "damageBonusMin": 67.89,
+          "damageBonusMax": 77.49,
+          "attachedEffect": "0",
+          "periodicDamage": 5,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1901004,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 26,
+          "rawRequiredLevel": 26,
+          "mp": 13,
+          "cooldownMS": 15000,
+          "targetRange": 50,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 12000,
+          "intervalMS": 2000,
+          "damageBonusMin": 77.34,
+          "damageBonusMax": 88.14,
+          "attachedEffect": "0",
+          "periodicDamage": 6,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1901005,
+              "typeCode": 28,
+              "rawDouble18": -6,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1902,
+      "name": "Polearm Mastery",
+      "classId": 120,
+      "kind": "passive",
+      "actionId": 0,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": false,
+      "prerequisites": [
+        {
+          "skillId": 1006,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 19,
+          "rawRequiredLevel": 19,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1902001,
+              "typeCode": 7,
+              "rawDouble18": 1,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 23,
+          "rawRequiredLevel": 23,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1902002,
+              "typeCode": 7,
+              "rawDouble18": 2,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 27,
+          "rawRequiredLevel": 27,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1902003,
+              "typeCode": 7,
+              "rawDouble18": 3,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 31,
+          "rawRequiredLevel": 31,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1902004,
+              "typeCode": 7,
+              "rawDouble18": 4,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 35,
+          "rawRequiredLevel": 35,
+          "mp": 0,
+          "cooldownMS": 0,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1902005,
+              "typeCode": 7,
+              "rawDouble18": 5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1903,
+      "name": "Stun Attack",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1005,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": true,
+      "prerequisites": [],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 26,
+          "rawRequiredLevel": 26,
+          "mp": 13,
+          "cooldownMS": 90000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 30,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 24.05,
+          "damageBonusMax": 36.05,
+          "attachedEffect": "20481",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 7000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 500,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 30,
+          "rawRequiredLevel": 30,
+          "mp": 14,
+          "cooldownMS": 90000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 30,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 27.77,
+          "damageBonusMax": 39.97,
+          "attachedEffect": "20481",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 7000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 700,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 34,
+          "rawRequiredLevel": 34,
+          "mp": 16,
+          "cooldownMS": 90000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 30,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 31.49,
+          "damageBonusMax": 43.89,
+          "attachedEffect": "20481",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 7000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 900,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 38,
+          "rawRequiredLevel": 38,
+          "mp": 17,
+          "cooldownMS": 90000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 30,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 35.21,
+          "damageBonusMax": 47.81,
+          "attachedEffect": "20481",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 7000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 1100,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 42,
+          "rawRequiredLevel": 42,
+          "mp": 19,
+          "cooldownMS": 90000,
+          "targetRange": 0,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 30,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 7000,
+          "intervalMS": 0,
+          "damageBonusMin": 38.93,
+          "damageBonusMax": 51.73,
+          "attachedEffect": "20481",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 7000,
+          "stunChanceKnown": true,
+          "stunChanceBasisPoints": 1300,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1,
+              "typeCode": 34,
+              "rawDouble18": 0,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1904,
+      "name": "Cyclone",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1009,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1003,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 17,
+          "rawRequiredLevel": 17,
+          "mp": 10,
+          "cooldownMS": 60000,
+          "targetRange": 25,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 2,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 28.13,
+          "damageBonusMax": 36.23,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 21,
+          "rawRequiredLevel": 21,
+          "mp": 11,
+          "cooldownMS": 60000,
+          "targetRange": 25,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 2,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 37.29,
+          "damageBonusMax": 46.59,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 25,
+          "rawRequiredLevel": 25,
+          "mp": 13,
+          "cooldownMS": 60000,
+          "targetRange": 25,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 2,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 46.45,
+          "damageBonusMax": 56.95,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 29,
+          "rawRequiredLevel": 29,
+          "mp": 14,
+          "cooldownMS": 60000,
+          "targetRange": 15,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 2,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 55.61,
+          "damageBonusMax": 67.31,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 33,
+          "rawRequiredLevel": 33,
+          "mp": 15,
+          "cooldownMS": 60000,
+          "targetRange": 25,
+          "areaKindRaw": 1,
+          "areaRangeRaw": 20,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 2,
+          "durationMS": 0,
+          "intervalMS": 0,
+          "damageBonusMin": 64.77,
+          "damageBonusMax": 77.67,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1905,
+      "name": "Revenge",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1019,
+      "weaponSubtype": 2,
+      "weaponMask": 0,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1902,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 23,
+          "rawRequiredLevel": 23,
+          "mp": 12,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107001,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -3
+            }
+          ],
+          "absorbPercent": 3
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 27,
+          "rawRequiredLevel": 27,
+          "mp": 13,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107002,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -6
+            }
+          ],
+          "absorbPercent": 6
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 31,
+          "rawRequiredLevel": 31,
+          "mp": 15,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107003,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -9
+            }
+          ],
+          "absorbPercent": 9
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 35,
+          "rawRequiredLevel": 35,
+          "mp": 16,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107004,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -12
+            }
+          ],
+          "absorbPercent": 12
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 39,
+          "rawRequiredLevel": 39,
+          "mp": 18,
+          "cooldownMS": 60000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 30000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1107005,
+              "typeCode": 23,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            }
+          ],
+          "absorbPercent": 15
+        }
+      ]
+    },
+    {
+      "id": 1906,
+      "name": "Phantom Thrust",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1011,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": true,
+      "prerequisites": [
+        {
+          "skillId": 1903,
+          "rank": 1
+        },
+        {
+          "skillId": 1904,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 29,
+          "rawRequiredLevel": 29,
+          "mp": 14,
+          "cooldownMS": 20000,
+          "targetRange": 25,
+          "areaKindRaw": 2,
+          "areaRangeRaw": 10,
+          "areaSecondaryRangeRaw": 40,
+          "hitCountRaw": 5,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 16.05,
+          "damageBonusMax": 27.75,
+          "attachedEffect": "0",
+          "periodicDamage": 2,
+          "slowPercent": 5,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1105001,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -5
+            },
+            {
+              "dataId": 1901001,
+              "typeCode": 28,
+              "rawDouble18": -2,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 33,
+          "rawRequiredLevel": 33,
+          "mp": 15,
+          "cooldownMS": 20000,
+          "targetRange": 25,
+          "areaKindRaw": 2,
+          "areaRangeRaw": 10,
+          "areaSecondaryRangeRaw": 40,
+          "hitCountRaw": 5,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 18.28,
+          "damageBonusMax": 30.18,
+          "attachedEffect": "0",
+          "periodicDamage": 3,
+          "slowPercent": 10,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1105002,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -10
+            },
+            {
+              "dataId": 1901002,
+              "typeCode": 28,
+              "rawDouble18": -3,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 37,
+          "rawRequiredLevel": 37,
+          "mp": 17,
+          "cooldownMS": 20000,
+          "targetRange": 25,
+          "areaKindRaw": 2,
+          "areaRangeRaw": 10,
+          "areaSecondaryRangeRaw": 40,
+          "hitCountRaw": 5,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 20.51,
+          "damageBonusMax": 32.61,
+          "attachedEffect": "0",
+          "periodicDamage": 4,
+          "slowPercent": 15,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1105003,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -15
+            },
+            {
+              "dataId": 1901003,
+              "typeCode": 28,
+              "rawDouble18": -4,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 41,
+          "rawRequiredLevel": 41,
+          "mp": 18,
+          "cooldownMS": 20000,
+          "targetRange": 25,
+          "areaKindRaw": 2,
+          "areaRangeRaw": 10,
+          "areaSecondaryRangeRaw": 40,
+          "hitCountRaw": 5,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 22.74,
+          "damageBonusMax": 35.04,
+          "attachedEffect": "0",
+          "periodicDamage": 5,
+          "slowPercent": 20,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1105004,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -20
+            },
+            {
+              "dataId": 1901004,
+              "typeCode": 28,
+              "rawDouble18": -5,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 45,
+          "rawRequiredLevel": 1,
+          "mp": 20,
+          "cooldownMS": 20000,
+          "targetRange": 25,
+          "areaKindRaw": 2,
+          "areaRangeRaw": 10,
+          "areaSecondaryRangeRaw": 40,
+          "hitCountRaw": 5,
+          "durationMS": 5000,
+          "intervalMS": 0,
+          "damageBonusMin": 24.97,
+          "damageBonusMax": 37.47,
+          "attachedEffect": "0",
+          "periodicDamage": 6,
+          "slowPercent": 25,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 0,
+          "attackSpeedPercent": 0,
+          "defensePenaltyPercent": 0,
+          "modifiers": [
+            {
+              "dataId": 1105005,
+              "typeCode": 27,
+              "rawDouble18": 0,
+              "rawDouble20": -25
+            },
+            {
+              "dataId": 1901005,
+              "typeCode": 28,
+              "rawDouble18": -6,
+              "rawDouble20": 0
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    },
+    {
+      "id": 1907,
+      "name": "Death Leap",
+      "classId": 120,
+      "kind": "active",
+      "actionId": 1020,
+      "weaponSubtype": 2,
+      "weaponMask": 4,
+      "rawBase48Nonzero": false,
+      "prerequisites": [
+        {
+          "skillId": 1905,
+          "rank": 1
+        }
+      ],
+      "ranks": [
+        {
+          "rank": 1,
+          "spCost": 1,
+          "requiredLevel": 28,
+          "rawRequiredLevel": 28,
+          "mp": 14,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 20,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108001,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 20
+            },
+            {
+              "dataId": 1109001,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 2,
+          "spCost": 1,
+          "requiredLevel": 32,
+          "rawRequiredLevel": 32,
+          "mp": 15,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 40,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108002,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 40
+            },
+            {
+              "dataId": 1109002,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 3,
+          "spCost": 1,
+          "requiredLevel": 36,
+          "rawRequiredLevel": 36,
+          "mp": 17,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 60,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108003,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 60
+            },
+            {
+              "dataId": 1109003,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 4,
+          "spCost": 1,
+          "requiredLevel": 40,
+          "rawRequiredLevel": 40,
+          "mp": 18,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 80,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108004,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 80
+            },
+            {
+              "dataId": 1109004,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        },
+        {
+          "rank": 5,
+          "spCost": 1,
+          "requiredLevel": 44,
+          "rawRequiredLevel": 44,
+          "mp": 19,
+          "cooldownMS": 300000,
+          "targetRange": 0,
+          "areaKindRaw": 0,
+          "areaRangeRaw": 0,
+          "areaSecondaryRangeRaw": 0,
+          "hitCountRaw": 1,
+          "durationMS": 20000,
+          "intervalMS": 0,
+          "damageBonusMin": 0,
+          "damageBonusMax": 0,
+          "attachedEffect": "0",
+          "periodicDamage": 0,
+          "slowPercent": 0,
+          "stunMS": 0,
+          "stunChanceKnown": false,
+          "stunChanceBasisPoints": 0,
+          "attackPercent": 100,
+          "attackSpeedPercent": 10,
+          "defensePenaltyPercent": 30,
+          "modifiers": [
+            {
+              "dataId": 1108005,
+              "typeCode": 6,
+              "rawDouble18": 0,
+              "rawDouble20": 100
+            },
+            {
+              "dataId": 1109005,
+              "typeCode": 13,
+              "rawDouble18": 0,
+              "rawDouble20": 10
+            },
+            {
+              "dataId": 1110,
+              "typeCode": 17,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            },
+            {
+              "dataId": 1111,
+              "typeCode": 20,
+              "rawDouble18": 0,
+              "rawDouble20": -30
+            }
+          ],
+          "absorbPercent": 0
+        }
+      ]
+    }
+  ]
+}

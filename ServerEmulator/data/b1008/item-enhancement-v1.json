@@ -1,0 +1,2385 @@
+{
+  "build": "b1008",
+  "stats": [
+    {
+      "itemId": 1001,
+      "grade": 0,
+      "attackMin100": 240,
+      "attackMax100": 870,
+      "defense": 0
+    },
+    {
+      "itemId": 1001,
+      "grade": 1,
+      "attackMin100": 288,
+      "attackMax100": 918,
+      "defense": 0
+    },
+    {
+      "itemId": 1001,
+      "grade": 2,
+      "attackMin100": 337,
+      "attackMax100": 967,
+      "defense": 0
+    },
+    {
+      "itemId": 1001,
+      "grade": 3,
+      "attackMin100": 385,
+      "attackMax100": 1015,
+      "defense": 0
+    },
+    {
+      "itemId": 1002,
+      "grade": 0,
+      "attackMin100": 563,
+      "attackMax100": 1683,
+      "defense": 0
+    },
+    {
+      "itemId": 1002,
+      "grade": 1,
+      "attackMin100": 661,
+      "attackMax100": 1781,
+      "defense": 0
+    },
+    {
+      "itemId": 1002,
+      "grade": 2,
+      "attackMin100": 760,
+      "attackMax100": 1880,
+      "defense": 0
+    },
+    {
+      "itemId": 1002,
+      "grade": 3,
+      "attackMin100": 858,
+      "attackMax100": 1978,
+      "defense": 0
+    },
+    {
+      "itemId": 1003,
+      "grade": 0,
+      "attackMin100": 887,
+      "attackMax100": 2497,
+      "defense": 0
+    },
+    {
+      "itemId": 1003,
+      "grade": 1,
+      "attackMin100": 1035,
+      "attackMax100": 2645,
+      "defense": 0
+    },
+    {
+      "itemId": 1003,
+      "grade": 2,
+      "attackMin100": 1183,
+      "attackMax100": 2793,
+      "defense": 0
+    },
+    {
+      "itemId": 1003,
+      "grade": 3,
+      "attackMin100": 1330,
+      "attackMax100": 2940,
+      "defense": 0
+    },
+    {
+      "itemId": 1004,
+      "grade": 0,
+      "attackMin100": 1327,
+      "attackMax100": 3637,
+      "defense": 0
+    },
+    {
+      "itemId": 1004,
+      "grade": 1,
+      "attackMin100": 1546,
+      "attackMax100": 3856,
+      "defense": 0
+    },
+    {
+      "itemId": 1004,
+      "grade": 2,
+      "attackMin100": 1765,
+      "attackMax100": 4075,
+      "defense": 0
+    },
+    {
+      "itemId": 1004,
+      "grade": 3,
+      "attackMin100": 1984,
+      "attackMax100": 4294,
+      "defense": 0
+    },
+    {
+      "itemId": 1005,
+      "grade": 0,
+      "attackMin100": 1649,
+      "attackMax100": 4729,
+      "defense": 0
+    },
+    {
+      "itemId": 1005,
+      "grade": 1,
+      "attackMin100": 1930,
+      "attackMax100": 5010,
+      "defense": 0
+    },
+    {
+      "itemId": 1005,
+      "grade": 2,
+      "attackMin100": 2211,
+      "attackMax100": 5291,
+      "defense": 0
+    },
+    {
+      "itemId": 1005,
+      "grade": 3,
+      "attackMin100": 2492,
+      "attackMax100": 5572,
+      "defense": 0
+    },
+    {
+      "itemId": 3001,
+      "grade": 0,
+      "attackMin100": 389,
+      "attackMax100": 1154,
+      "defense": 0
+    },
+    {
+      "itemId": 3001,
+      "grade": 1,
+      "attackMin100": 466,
+      "attackMax100": 1231,
+      "defense": 0
+    },
+    {
+      "itemId": 3001,
+      "grade": 2,
+      "attackMin100": 544,
+      "attackMax100": 1309,
+      "defense": 0
+    },
+    {
+      "itemId": 3001,
+      "grade": 3,
+      "attackMin100": 621,
+      "attackMax100": 1386,
+      "defense": 0
+    },
+    {
+      "itemId": 3002,
+      "grade": 0,
+      "attackMin100": 677,
+      "attackMax100": 2037,
+      "defense": 0
+    },
+    {
+      "itemId": 3002,
+      "grade": 1,
+      "attackMin100": 812,
+      "attackMax100": 2172,
+      "defense": 0
+    },
+    {
+      "itemId": 3002,
+      "grade": 2,
+      "attackMin100": 948,
+      "attackMax100": 2308,
+      "defense": 0
+    },
+    {
+      "itemId": 3002,
+      "grade": 3,
+      "attackMin100": 1083,
+      "attackMax100": 2443,
+      "defense": 0
+    },
+    {
+      "itemId": 3003,
+      "grade": 0,
+      "attackMin100": 965,
+      "attackMax100": 2920,
+      "defense": 0
+    },
+    {
+      "itemId": 3003,
+      "grade": 1,
+      "attackMin100": 1158,
+      "attackMax100": 3113,
+      "defense": 0
+    },
+    {
+      "itemId": 3003,
+      "grade": 2,
+      "attackMin100": 1351,
+      "attackMax100": 3306,
+      "defense": 0
+    },
+    {
+      "itemId": 3003,
+      "grade": 3,
+      "attackMin100": 1545,
+      "attackMax100": 3500,
+      "defense": 0
+    },
+    {
+      "itemId": 3004,
+      "grade": 0,
+      "attackMin100": 1230,
+      "attackMax100": 4035,
+      "defense": 0
+    },
+    {
+      "itemId": 3004,
+      "grade": 1,
+      "attackMin100": 1495,
+      "attackMax100": 4300,
+      "defense": 0
+    },
+    {
+      "itemId": 3004,
+      "grade": 2,
+      "attackMin100": 1761,
+      "attackMax100": 4566,
+      "defense": 0
+    },
+    {
+      "itemId": 3004,
+      "grade": 3,
+      "attackMin100": 2027,
+      "attackMax100": 4832,
+      "defense": 0
+    },
+    {
+      "itemId": 3005,
+      "grade": 0,
+      "attackMin100": 1485,
+      "attackMax100": 5225,
+      "defense": 0
+    },
+    {
+      "itemId": 3005,
+      "grade": 1,
+      "attackMin100": 1824,
+      "attackMax100": 5564,
+      "defense": 0
+    },
+    {
+      "itemId": 3005,
+      "grade": 2,
+      "attackMin100": 2162,
+      "attackMax100": 5902,
+      "defense": 0
+    },
+    {
+      "itemId": 3005,
+      "grade": 3,
+      "attackMin100": 2500,
+      "attackMax100": 6240,
+      "defense": 0
+    },
+    {
+      "itemId": 9001,
+      "grade": 0,
+      "attackMin100": 599,
+      "attackMax100": 824,
+      "defense": 0
+    },
+    {
+      "itemId": 9001,
+      "grade": 1,
+      "attackMin100": 636,
+      "attackMax100": 861,
+      "defense": 0
+    },
+    {
+      "itemId": 9001,
+      "grade": 2,
+      "attackMin100": 674,
+      "attackMax100": 899,
+      "defense": 0
+    },
+    {
+      "itemId": 9001,
+      "grade": 3,
+      "attackMin100": 712,
+      "attackMax100": 937,
+      "defense": 0
+    },
+    {
+      "itemId": 9002,
+      "grade": 0,
+      "attackMin100": 1137,
+      "attackMax100": 1537,
+      "defense": 0
+    },
+    {
+      "itemId": 9002,
+      "grade": 1,
+      "attackMin100": 1208,
+      "attackMax100": 1608,
+      "defense": 0
+    },
+    {
+      "itemId": 9002,
+      "grade": 2,
+      "attackMin100": 1278,
+      "attackMax100": 1678,
+      "defense": 0
+    },
+    {
+      "itemId": 9002,
+      "grade": 3,
+      "attackMin100": 1349,
+      "attackMax100": 1749,
+      "defense": 0
+    },
+    {
+      "itemId": 9003,
+      "grade": 0,
+      "attackMin100": 1675,
+      "attackMax100": 2250,
+      "defense": 0
+    },
+    {
+      "itemId": 9003,
+      "grade": 1,
+      "attackMin100": 1779,
+      "attackMax100": 2354,
+      "defense": 0
+    },
+    {
+      "itemId": 9003,
+      "grade": 2,
+      "attackMin100": 1883,
+      "attackMax100": 2458,
+      "defense": 0
+    },
+    {
+      "itemId": 9003,
+      "grade": 3,
+      "attackMin100": 1987,
+      "attackMax100": 2562,
+      "defense": 0
+    },
+    {
+      "itemId": 9004,
+      "grade": 0,
+      "attackMin100": 2040,
+      "attackMax100": 2865,
+      "defense": 0
+    },
+    {
+      "itemId": 9004,
+      "grade": 1,
+      "attackMin100": 2169,
+      "attackMax100": 2994,
+      "defense": 0
+    },
+    {
+      "itemId": 9004,
+      "grade": 2,
+      "attackMin100": 2298,
+      "attackMax100": 3123,
+      "defense": 0
+    },
+    {
+      "itemId": 9004,
+      "grade": 3,
+      "attackMin100": 2427,
+      "attackMax100": 3252,
+      "defense": 0
+    },
+    {
+      "itemId": 9005,
+      "grade": 0,
+      "attackMin100": 2565,
+      "attackMax100": 3665,
+      "defense": 0
+    },
+    {
+      "itemId": 9005,
+      "grade": 1,
+      "attackMin100": 2730,
+      "attackMax100": 3830,
+      "defense": 0
+    },
+    {
+      "itemId": 9005,
+      "grade": 2,
+      "attackMin100": 2894,
+      "attackMax100": 3994,
+      "defense": 0
+    },
+    {
+      "itemId": 9005,
+      "grade": 3,
+      "attackMin100": 3058,
+      "attackMax100": 4158,
+      "defense": 0
+    },
+    {
+      "itemId": 11001,
+      "grade": 0,
+      "attackMin100": 577,
+      "attackMax100": 865,
+      "defense": 0
+    },
+    {
+      "itemId": 11001,
+      "grade": 1,
+      "attackMin100": 622,
+      "attackMax100": 910,
+      "defense": 0
+    },
+    {
+      "itemId": 11001,
+      "grade": 2,
+      "attackMin100": 666,
+      "attackMax100": 954,
+      "defense": 0
+    },
+    {
+      "itemId": 11001,
+      "grade": 3,
+      "attackMin100": 710,
+      "attackMax100": 998,
+      "defense": 0
+    },
+    {
+      "itemId": 11002,
+      "grade": 0,
+      "attackMin100": 1101,
+      "attackMax100": 1613,
+      "defense": 0
+    },
+    {
+      "itemId": 11002,
+      "grade": 1,
+      "attackMin100": 1184,
+      "attackMax100": 1696,
+      "defense": 0
+    },
+    {
+      "itemId": 11002,
+      "grade": 2,
+      "attackMin100": 1267,
+      "attackMax100": 1779,
+      "defense": 0
+    },
+    {
+      "itemId": 11002,
+      "grade": 3,
+      "attackMin100": 1351,
+      "attackMax100": 1863,
+      "defense": 0
+    },
+    {
+      "itemId": 11003,
+      "grade": 0,
+      "attackMin100": 1624,
+      "attackMax100": 2360,
+      "defense": 0
+    },
+    {
+      "itemId": 11003,
+      "grade": 1,
+      "attackMin100": 1747,
+      "attackMax100": 2483,
+      "defense": 0
+    },
+    {
+      "itemId": 11003,
+      "grade": 2,
+      "attackMin100": 1869,
+      "attackMax100": 2605,
+      "defense": 0
+    },
+    {
+      "itemId": 11003,
+      "grade": 3,
+      "attackMin100": 1992,
+      "attackMax100": 2728,
+      "defense": 0
+    },
+    {
+      "itemId": 11004,
+      "grade": 0,
+      "attackMin100": 1954,
+      "attackMax100": 3010,
+      "defense": 0
+    },
+    {
+      "itemId": 11004,
+      "grade": 1,
+      "attackMin100": 2106,
+      "attackMax100": 3162,
+      "defense": 0
+    },
+    {
+      "itemId": 11004,
+      "grade": 2,
+      "attackMin100": 2258,
+      "attackMax100": 3314,
+      "defense": 0
+    },
+    {
+      "itemId": 11004,
+      "grade": 3,
+      "attackMin100": 2410,
+      "attackMax100": 3466,
+      "defense": 0
+    },
+    {
+      "itemId": 11005,
+      "grade": 0,
+      "attackMin100": 2451,
+      "attackMax100": 3859,
+      "defense": 0
+    },
+    {
+      "itemId": 11005,
+      "grade": 1,
+      "attackMin100": 2645,
+      "attackMax100": 4053,
+      "defense": 0
+    },
+    {
+      "itemId": 11005,
+      "grade": 2,
+      "attackMin100": 2838,
+      "attackMax100": 4246,
+      "defense": 0
+    },
+    {
+      "itemId": 11005,
+      "grade": 3,
+      "attackMin100": 3031,
+      "attackMax100": 4439,
+      "defense": 0
+    },
+    {
+      "itemId": 13001,
+      "grade": 0,
+      "attackMin100": 601,
+      "attackMax100": 1141,
+      "defense": 0
+    },
+    {
+      "itemId": 13001,
+      "grade": 1,
+      "attackMin100": 689,
+      "attackMax100": 1229,
+      "defense": 0
+    },
+    {
+      "itemId": 13001,
+      "grade": 2,
+      "attackMin100": 777,
+      "attackMax100": 1317,
+      "defense": 0
+    },
+    {
+      "itemId": 13001,
+      "grade": 3,
+      "attackMin100": 865,
+      "attackMax100": 1405,
+      "defense": 0
+    },
+    {
+      "itemId": 13002,
+      "grade": 0,
+      "attackMin100": 1077,
+      "attackMax100": 2037,
+      "defense": 0
+    },
+    {
+      "itemId": 13002,
+      "grade": 1,
+      "attackMin100": 1233,
+      "attackMax100": 2193,
+      "defense": 0
+    },
+    {
+      "itemId": 13002,
+      "grade": 2,
+      "attackMin100": 1390,
+      "attackMax100": 2350,
+      "defense": 0
+    },
+    {
+      "itemId": 13002,
+      "grade": 3,
+      "attackMin100": 1546,
+      "attackMax100": 2506,
+      "defense": 0
+    },
+    {
+      "itemId": 13003,
+      "grade": 0,
+      "attackMin100": 1552,
+      "attackMax100": 2932,
+      "defense": 0
+    },
+    {
+      "itemId": 13003,
+      "grade": 1,
+      "attackMin100": 1777,
+      "attackMax100": 3157,
+      "defense": 0
+    },
+    {
+      "itemId": 13003,
+      "grade": 2,
+      "attackMin100": 2002,
+      "attackMax100": 3382,
+      "defense": 0
+    },
+    {
+      "itemId": 13003,
+      "grade": 3,
+      "attackMin100": 2227,
+      "attackMax100": 3607,
+      "defense": 0
+    },
+    {
+      "itemId": 13004,
+      "grade": 0,
+      "attackMin100": 1942,
+      "attackMax100": 3922,
+      "defense": 0
+    },
+    {
+      "itemId": 13004,
+      "grade": 1,
+      "attackMin100": 2239,
+      "attackMax100": 4219,
+      "defense": 0
+    },
+    {
+      "itemId": 13004,
+      "grade": 2,
+      "attackMin100": 2537,
+      "attackMax100": 4517,
+      "defense": 0
+    },
+    {
+      "itemId": 13004,
+      "grade": 3,
+      "attackMin100": 2834,
+      "attackMax100": 4814,
+      "defense": 0
+    },
+    {
+      "itemId": 13005,
+      "grade": 0,
+      "attackMin100": 2385,
+      "attackMax100": 5025,
+      "defense": 0
+    },
+    {
+      "itemId": 13005,
+      "grade": 1,
+      "attackMin100": 2760,
+      "attackMax100": 5400,
+      "defense": 0
+    },
+    {
+      "itemId": 13005,
+      "grade": 2,
+      "attackMin100": 3135,
+      "attackMax100": 5775,
+      "defense": 0
+    },
+    {
+      "itemId": 13005,
+      "grade": 3,
+      "attackMin100": 3511,
+      "attackMax100": 6151,
+      "defense": 0
+    },
+    {
+      "itemId": 32001,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 32001,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 32001,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 32001,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 32002,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 32002,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 26
+    },
+    {
+      "itemId": 32002,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 32002,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 29
+    },
+    {
+      "itemId": 32003,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 32003,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 32003,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 37
+    },
+    {
+      "itemId": 32003,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 40
+    },
+    {
+      "itemId": 32004,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 43
+    },
+    {
+      "itemId": 32004,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 46
+    },
+    {
+      "itemId": 32004,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 49
+    },
+    {
+      "itemId": 32004,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 53
+    },
+    {
+      "itemId": 32005,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 59
+    },
+    {
+      "itemId": 32005,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 63
+    },
+    {
+      "itemId": 32005,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 68
+    },
+    {
+      "itemId": 32005,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 73
+    },
+    {
+      "itemId": 32401,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 32401,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 32401,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 32401,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 32402,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 32402,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 32402,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 32402,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 28
+    },
+    {
+      "itemId": 32403,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 31
+    },
+    {
+      "itemId": 32403,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 34
+    },
+    {
+      "itemId": 32403,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 36
+    },
+    {
+      "itemId": 32403,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 39
+    },
+    {
+      "itemId": 32404,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 41
+    },
+    {
+      "itemId": 32404,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 45
+    },
+    {
+      "itemId": 32404,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 48
+    },
+    {
+      "itemId": 32404,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 51
+    },
+    {
+      "itemId": 32405,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 57
+    },
+    {
+      "itemId": 32405,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 62
+    },
+    {
+      "itemId": 32405,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 66
+    },
+    {
+      "itemId": 32405,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 70
+    },
+    {
+      "itemId": 32801,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 32801,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 32801,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 10
+    },
+    {
+      "itemId": 32801,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 10
+    },
+    {
+      "itemId": 32802,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 32802,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 32802,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 32802,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 32803,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 32803,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 32803,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 20
+    },
+    {
+      "itemId": 32803,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 32804,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 32804,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 32804,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 32804,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 29
+    },
+    {
+      "itemId": 32805,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 32805,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 32805,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 37
+    },
+    {
+      "itemId": 32805,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 40
+    },
+    {
+      "itemId": 33201,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 33201,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 33201,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 33201,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 10
+    },
+    {
+      "itemId": 33202,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 12
+    },
+    {
+      "itemId": 33202,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 33202,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 33202,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 33203,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 33203,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 33203,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 33203,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 20
+    },
+    {
+      "itemId": 33204,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 33204,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 33204,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 33204,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 33205,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 33205,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    },
+    {
+      "itemId": 33205,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 33205,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 37
+    },
+    {
+      "itemId": 36001,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 36001,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 36001,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 36001,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 36002,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 36002,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 36002,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 26
+    },
+    {
+      "itemId": 36002,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 36003,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 36003,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 34
+    },
+    {
+      "itemId": 36003,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 36003,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 37
+    },
+    {
+      "itemId": 36004,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 43
+    },
+    {
+      "itemId": 36004,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 45
+    },
+    {
+      "itemId": 36004,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 47
+    },
+    {
+      "itemId": 36004,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 49
+    },
+    {
+      "itemId": 36005,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 56
+    },
+    {
+      "itemId": 36005,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 58
+    },
+    {
+      "itemId": 36005,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 61
+    },
+    {
+      "itemId": 36005,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 64
+    },
+    {
+      "itemId": 36401,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 36401,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 36401,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 36401,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 36402,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 36402,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 36402,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 36402,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 26
+    },
+    {
+      "itemId": 36403,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 31
+    },
+    {
+      "itemId": 36403,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    },
+    {
+      "itemId": 36403,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 34
+    },
+    {
+      "itemId": 36403,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 36
+    },
+    {
+      "itemId": 36404,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 41
+    },
+    {
+      "itemId": 36404,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 43
+    },
+    {
+      "itemId": 36404,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 46
+    },
+    {
+      "itemId": 36404,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 48
+    },
+    {
+      "itemId": 36405,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 54
+    },
+    {
+      "itemId": 36405,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 57
+    },
+    {
+      "itemId": 36405,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 59
+    },
+    {
+      "itemId": 36405,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 62
+    },
+    {
+      "itemId": 36801,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 36801,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 36801,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 36801,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 10
+    },
+    {
+      "itemId": 36802,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 36802,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 36802,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 36802,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 36803,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 36803,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 36803,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 36803,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 20
+    },
+    {
+      "itemId": 36804,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 36804,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 36804,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 26
+    },
+    {
+      "itemId": 36804,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 27
+    },
+    {
+      "itemId": 36805,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 36805,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 36805,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    },
+    {
+      "itemId": 36805,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 37201,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 7
+    },
+    {
+      "itemId": 37201,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 37201,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 37201,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 37202,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 12
+    },
+    {
+      "itemId": 37202,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 37202,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 37202,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 37203,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 37203,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 37203,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 37203,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 37204,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 37204,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 37204,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 37204,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 37205,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 29
+    },
+    {
+      "itemId": 37205,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 37205,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 37205,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    },
+    {
+      "itemId": 40001,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 40001,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 40001,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 40001,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 40002,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 40002,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 40002,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 40002,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 26
+    },
+    {
+      "itemId": 40003,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 40003,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 40003,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 34
+    },
+    {
+      "itemId": 40003,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 40004,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 40
+    },
+    {
+      "itemId": 40004,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 42
+    },
+    {
+      "itemId": 40004,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 44
+    },
+    {
+      "itemId": 40004,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 47
+    },
+    {
+      "itemId": 40005,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 56
+    },
+    {
+      "itemId": 40005,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 58
+    },
+    {
+      "itemId": 40005,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 61
+    },
+    {
+      "itemId": 40005,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 64
+    },
+    {
+      "itemId": 40401,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 40401,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 40401,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 15
+    },
+    {
+      "itemId": 40401,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 40402,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 21
+    },
+    {
+      "itemId": 40402,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 40402,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 40402,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 40403,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 40403,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 31
+    },
+    {
+      "itemId": 40403,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 40403,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 34
+    },
+    {
+      "itemId": 40404,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 39
+    },
+    {
+      "itemId": 40404,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 41
+    },
+    {
+      "itemId": 40404,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 43
+    },
+    {
+      "itemId": 40404,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 45
+    },
+    {
+      "itemId": 40405,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 54
+    },
+    {
+      "itemId": 40405,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 57
+    },
+    {
+      "itemId": 40405,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 59
+    },
+    {
+      "itemId": 40405,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 62
+    },
+    {
+      "itemId": 40801,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 40801,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 40801,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 40801,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 40802,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 12
+    },
+    {
+      "itemId": 40802,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 40802,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 40802,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 14
+    },
+    {
+      "itemId": 40803,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 40803,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 40803,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 40803,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 19
+    },
+    {
+      "itemId": 40804,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 40804,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 40804,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 40804,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 25
+    },
+    {
+      "itemId": 40805,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 40805,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 40805,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    },
+    {
+      "itemId": 40805,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 35
+    },
+    {
+      "itemId": 41201,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 7
+    },
+    {
+      "itemId": 41201,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 41201,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 8
+    },
+    {
+      "itemId": 41201,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 9
+    },
+    {
+      "itemId": 41202,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 11
+    },
+    {
+      "itemId": 41202,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 12
+    },
+    {
+      "itemId": 41202,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 41202,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 13
+    },
+    {
+      "itemId": 41203,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 41203,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 16
+    },
+    {
+      "itemId": 41203,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 17
+    },
+    {
+      "itemId": 41203,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 18
+    },
+    {
+      "itemId": 41204,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 21
+    },
+    {
+      "itemId": 41204,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 22
+    },
+    {
+      "itemId": 41204,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 23
+    },
+    {
+      "itemId": 41204,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 24
+    },
+    {
+      "itemId": 41205,
+      "grade": 0,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 29
+    },
+    {
+      "itemId": 41205,
+      "grade": 1,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 30
+    },
+    {
+      "itemId": 41205,
+      "grade": 2,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 32
+    },
+    {
+      "itemId": 41205,
+      "grade": 3,
+      "attackMin100": 0,
+      "attackMax100": 0,
+      "defense": 33
+    }
+  ]
+}
